@@ -18,11 +18,11 @@ def load_cols(formatfile='nhanes_questionnaire_format.csv'):
     cols.length = cols.length.astype(int)
     return cols
 
-def save_df(data, outfile='household_adult_file.csv'):
+def save_df(data, outfile='household_adult_file.csv.gz'):
     """save to csv"""
     data.to_csv(outfile, index=False)
 
-def load_household_adult_file(infile='household_adult_file.csv', url='https://wwwn.cdc.gov/nchs/data/nhanes3/1a/adult.dat'):
+def load_household_adult_file(infile='household_adult_file.csv.gz', url='https://wwwn.cdc.gov/nchs/data/nhanes3/1a/adult.dat'):
     """load household_adult_file either from infile, or if it does not exist, from URL"""
     if not os.path.exists(infile):
         cols = load_cols()
