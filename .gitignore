@@ -2,3 +2,6 @@ __pycache__
 ADULT-acc.pdf
 .ipynb_checkpoints/
 exam-acc.*
+data/*.csv.gz
+NHANES Spirometry Hankinson.pdf
+~$*.xlsx

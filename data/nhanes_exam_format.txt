@@ -1,0 +1,2505 @@
+HOUSEHOLD SCREENER QUESTIONNAIRE (HSQ)
+Respondent identification number ............ SEQN 1-5
+Family sequence number ...................... DMPFSEQ 6-10
+Examination/interview status ................ DMPSTAT 11
+Race-ethnicity .............................. DMARETHN 12
+Race ........................................ DMARACER 13
+Ethnicity ................................... DMAETHNR 14
+Sex ......................................... HSSEX 15
+Age at interview (Screener) ................. HSAGEIR 16-17
+Age at interview-unit (Screener) ............ HSAGEU 18
+Age in months at interview (screener) ....... HSAITMOR 19-22
+Family size (persons in family) ............. HSFSIZER 23-24
+Household size (persons in dwelling) ........ HSHSIZER 25-26
+County code ................................. DMPCNTYR 27-29
+FIPS code for State ......................... DMPFIPSR 30-31
+Rural/urban code based on USDA code ......... DMPMETRO 32
+Census region, weighting(Texas in south) .... DMPCREGN 33
+Poverty Income Ratio (unimputed income) ..... DMPPIR 34-39
+SURVEY DESIGN DATA
+Phase of NHANES III survey .................. SDPPHASE 40
+Total NHANES III pseudo-PSU ................. SDPPSU6 41
+Total NHANES III pseudo-stratum ............. SDPSTRA6 42-43
+Pseudo-PSU for phase 1 ...................... SDPPSU1 44
+Pseudo-stratum for phase 1 .................. SDPSTRA1 45-46
+Pseudo-PSU for phase 2 ...................... SDPPSU2 47
+Pseudo-stratum for phase 2 .................. SDPSTRA2 48-49
+SAMPLING WEIGHTS - TOTAL NHANES III (1988-94)
+Total interviewed sample final weight ....... WTPFQX6 50-58
+Total MEC-examined sample final weight ...... WTPFEX6 59-67
+Total M+H examined sample final weight ...... WTPFHX6 68-76
+Total allergy subsample final weight ........ WTPFALG6 77-85
+Total CNS subsample final weight ............ WTPFCNS6 86-94
+Total morning subsample final wgt ........... WTPFSD6 95-103
+Total afternoon/eve subsample final wgt ..... WTPFMD6 104-112
+Total M+H morning subsample final wgt ....... WTPFHSD6 113-121
+Total M+H afternoon subsample final wgt ..... WTPFHMD6 122-130
+SAMPLING WEIGHTS - NHANES III PHASE 1 (1988-91)
+Phase 1 interviewed sample final wgt ........ WTPFQX1 131-139
+Phase 1 MEC examined sample final wgt ....... WTPFEX1 140-148
+Phase 1 M+H examined sample final wgt ....... WTPFHX1 149-157
+Phase 1 allergy subsample final wgt ......... WTPFALG1 158-166
+Phase 1 CNS subsample final wgt ............. WTPFCNS1 167-175
+Phase 1 morning sess subsample final wgt .... WTPFSD1 176-184
+Phase 1 aft/eve subsample final wgt ......... WTPFMD1 185-193
+Phase 1 morning M+H subsample final wgt ..... WTPFHSD1 194-202
+Phase 1 aft/eve M+H subsample final wgt ..... WTPFHMD1 203-211
+SAMPLING WEIGHTS - NHANES III PHASE 2 (1991-94)
+Phase 2 interviewed sample final wgt ........ WTPFQX2 212-220
+Phase 2 MEC examined sample final wgt ....... WTPFEX2 221-229
+Phase 2 M+H examined sample final wgt ....... WTPFHX2 230-238
+Phase 2 allergy subsample final wgt ......... WTPFALG2 239-247
+Phase 2 CNS subsample final wgt ............. WTPFCNS2 248-256
+Phase 2 morning sess subsample final wgt .... WTPFSD2 257-265
+Phase 2 aft/eve subsample final wgt ......... WTPFMD2 266-274
+Phase 2 morning M+H subsample final wgt ..... WTPFHSD2 275-283
+Phase 2 aft/eve M+H subsample final wgt ..... WTPFHMD2 284-292
+FAY'S BRR REPLICATE INTERVIEW WEIGHTS - TOTAL NHANES III (1988-94)
+Replicate 1 final interview weight .......... WTPQRP1 293-301
+Replicate 2 final interview weight .......... WTPQRP2 302-310
+Replicate 3 final interview weight .......... WTPQRP3 311-319
+Replicate 4 final interview weight .......... WTPQRP4 320-328
+Replicate 5 final interview weight .......... WTPQRP5 329-337
+Replicate 6 final interview weight .......... WTPQRP6 338-346
+Replicate 7 final interview weight .......... WTPQRP7 347-355
+Replicate 8 final interview weight .......... WTPQRP8 356-364
+Replicate 9 final interview weight .......... WTPQRP9 365-373
+Replicate 10 final interview weight ......... WTPQRP10 374-382
+Replicate 11 final interview weight ......... WTPQRP11 383-391
+Replicate 12 final interview weight ......... WTPQRP12 392-400
+Replicate 13 final interview weight ......... WTPQRP13 401-409
+Replicate 14 final interview weight ......... WTPQRP14 410-418
+Replicate 15 final interview weight ......... WTPQRP15 419-427
+Replicate 16 final interview weight ......... WTPQRP16 428-436
+Replicate 17 final interview weight ......... WTPQRP17 437-445
+Replicate 18 final interview weight ......... WTPQRP18 446-454
+Replicate 19 final interview weight ......... WTPQRP19 455-463
+Replicate 20 final interview weight ......... WTPQRP20 464-472
+Replicate 21 final interview weight ......... WTPQRP21 473-481
+Replicate 22 final interview weight ......... WTPQRP22 482-490
+Replicate 23 final interview weight ......... WTPQRP23 491-499
+Replicate 24 final interview weight ......... WTPQRP24 500-508
+Replicate 25 final interview weight ......... WTPQRP25 509-517
+Replicate 26 final interview weight ......... WTPQRP26 518-526
+Replicate 27 final interview weight ......... WTPQRP27 527-535
+Replicate 28 final interview weight ......... WTPQRP28 536-544
+Replicate 29 final interview weight ......... WTPQRP29 545-553
+Replicate 30 final interview weight ......... WTPQRP30 554-562
+Replicate 31 final interview weight ......... WTPQRP31 563-571
+Replicate 32 final interview weight ......... WTPQRP32 572-580
+Replicate 33 final interview weight ......... WTPQRP33 581-589
+Replicate 34 final interview weight ......... WTPQRP34 590-598
+Replicate 35 final interview weight ......... WTPQRP35 599-607
+Replicate 36 final interview weight ......... WTPQRP36 608-616
+Replicate 37 final interview weight ......... WTPQRP37 617-625
+Replicate 38 final interview weight ......... WTPQRP38 626-634
+Replicate 39 final interview weight ......... WTPQRP39 635-643
+Replicate 40 final interview weight ......... WTPQRP40 644-652
+Replicate 41 final interview weight ......... WTPQRP41 653-661
+Replicate 42 final interview weight ......... WTPQRP42 662-670
+Replicate 43 final interview weight ......... WTPQRP43 671-679
+Replicate 44 final interview weight ......... WTPQRP44 680-688
+Replicate 45 final interview weight ......... WTPQRP45 689-697
+Replicate 46 final interview weight ......... WTPQRP46 698-706
+Replicate 47 final interview weight ......... WTPQRP47 707-715
+Replicate 48 final interview weight ......... WTPQRP48 716-724
+Replicate 49 final interview weight ......... WTPQRP49 725-733
+Replicate 50 final interview weight ......... WTPQRP50 734-742
+Replicate 51 final interview weight ......... WTPQRP51 743-751
+Replicate 52 final interview weight ......... WTPQRP52 752-760
+FAY'S BRR REPLICATE EXAMINATION WEIGHTS - TOTAL NHANES III (1988-94)
+Replicate 1 final exam weight ............... WTPXRP1 761-769
+Replicate 2 final exam weight ............... WTPXRP2 770-778
+Replicate 3 final exam weight ............... WTPXRP3 779-787
+Replicate 4 final exam weight ............... WTPXRP4 788-796
+Replicate 5 final exam weight ............... WTPXRP5 797-805
+Replicate 6 final exam weight ............... WTPXRP6 806-814
+Replicate 7 final exam weight ............... WTPXRP7 815-823
+Replicate 8 final exam weight ............... WTPXRP8 824-832
+Replicate 9 final exam weight ............... WTPXRP9 833-841
+Replicate 10 final exam weight .............. WTPXRP10 842-850
+Replicate 11 final exam weight .............. WTPXRP11 851-859
+Replicate 12 final exam weight .............. WTPXRP12 860-868
+Replicate 13 final exam weight .............. WTPXRP13 869-877
+Replicate 14 final exam weight .............. WTPXRP14 878-886
+Replicate 15 final exam weight .............. WTPXRP15 887-895
+Replicate 16 final exam weight .............. WTPXRP16 896-904
+Replicate 17 final exam weight .............. WTPXRP17 905-913
+Replicate 18 final exam weight .............. WTPXRP18 914-922
+Replicate 19 final exam weight .............. WTPXRP19 923-931
+Replicate 20 final exam weight .............. WTPXRP20 932-940
+Replicate 21 final exam weight .............. WTPXRP21 941-949
+Replicate 22 final exam weight .............. WTPXRP22 950-958
+Replicate 23 final exam weight .............. WTPXRP23 959-967
+Replicate 24 final exam weight .............. WTPXRP24 968-976
+Replicate 25 final exam weight .............. WTPXRP25 977-985
+Replicate 26 final exam weight .............. WTPXRP26 986-994
+Replicate 27 final exam weight .............. WTPXRP27 995-1003
+Replicate 28 final exam weight .............. WTPXRP28 1004-1012
+Replicate 29 final exam weight .............. WTPXRP29 1013-1021
+Replicate 30 final exam weight .............. WTPXRP30 1022-1030
+Replicate 31 final exam weight .............. WTPXRP31 1031-1039
+Replicate 32 final exam weight .............. WTPXRP32 1040-1048
+Replicate 33 final exam weight .............. WTPXRP33 1049-1057
+Replicate 34 final exam weight .............. WTPXRP34 1058-1066
+Replicate 35 final exam weight .............. WTPXRP35 1067-1075
+Replicate 36 final exam weight .............. WTPXRP36 1076-1084
+Replicate 37 final exam weight .............. WTPXRP37 1085-1093
+Replicate 38 final exam weight .............. WTPXRP38 1094-1102
+Replicate 39 final exam weight .............. WTPXRP39 1103-1111
+Replicate 40 final exam weight .............. WTPXRP40 1112-1120
+Replicate 41 final exam weight .............. WTPXRP41 1121-1129
+Replicate 42 final exam weight .............. WTPXRP42 1130-1138
+Replicate 43 final exam weight .............. WTPXRP43 1139-1147
+Replicate 44 final exam weight .............. WTPXRP44 1148-1156
+Replicate 45 final exam weight .............. WTPXRP45 1157-1165
+Replicate 46 final exam weight .............. WTPXRP46 1166-1174
+Replicate 47 final exam weight .............. WTPXRP47 1175-1183
+Replicate 48 final exam weight .............. WTPXRP48 1184-1192
+Replicate 49 final exam weight .............. WTPXRP49 1193-1201
+Replicate 50 final exam weight .............. WTPXRP50 1202-1210
+Replicate 51 final exam weight .............. WTPXRP51 1211-1219
+Replicate 52 final exam weight .............. WTPXRP52 1220-1228
+HOUSEHOLD YOUTH QUESTIONNAIRE (HYQ)
+Age in months at youth interview ............ HYAITMO 1229-1232
+MEC EXAMINATION
+Language used by SP in MEC .................. MXPLANG 1233
+Session for MEC examination ................. MXPSESSR 1234
+Day of week of MEC exam ..................... MXPTIDW 1235
+MEC EXAMINATION
+Age in months at MEC exam ................... MXPAXTMR 1236-1239
+HOME EXAMINATION
+Day of week of home exam .................... HXPTIDW 1240
+Age in months at home exam .................. HXPAXTMR 1241-1244
+Session for home examination ................ HXPSESSR 1245
+PHYSICIAN'S EXAMINATION
+LOCOMOTION
+Overall findings for locomotion (age 3+) .... PEP1 1246
+Limp or shuffle (age 3+) .................... PEP1A1 1247
+Other gait abnormalities (age 3+) ........... PEP1A2 1248
+EYES
+Eye globe missing or blind(age 2mo-18yr) .... PEP2 1249
+Tracks light (age 2mo-4yrs) ................. PEP2A 1250
+Strabismus observ un/cover test(age5-18) .... PEP2B 1251
+OBSERVATION
+Overall findings, paralysis...(all ages) .... PEP3A 1252
+Paralysis/paresis of arm (all ages) ......... PEP3A1A 1253
+Paralysis/paresis of leg (all ages) ......... PEP3A1B 1254
+In a wheelchair or stretcher (all ages) ..... PEP3A2 1255
+Overall findings,amputee/cast (all ages) .... PEP3B1 1256
+Amputee/cast, left arm (all ages) ........... PEP3LARM 1257-1258
+Amputee/cast, right arm (all ages) .......... PEP3RARM 1259-1260
+Amputee/cast, left finger 1 (all ages) ...... PEP3BFL1 1261
+Amputee/cast, left finger 2 (all ages) ...... PEP3BFL2 1262
+Amputee/cast, left finger 3 (all ages) ...... PEP3BFL3 1263
+Amputee/cast, left finger 4 (all ages) ...... PEP3BFL4 1264
+Amputee/cast, left finger 5 (all ages) ...... PEP3BFL5 1265
+Amputee/cast, right finger 1 (all ages) ..... PEP3BFR1 1266
+Amputee/cast, right finger 2 (all ages) ..... PEP3BFR2 1267
+Amputee/cast, right finger 3 (all ages) ..... PEP3BFR3 1268
+Amputee/cast, right finger 4 (all ages) ..... PEP3BFR4 1269
+Amputee/cast, right finger 5 (all ages) ..... PEP3BFR5 1270
+Overall findng,amputee/cast leg(all age) .... PEP3B2 1271
+Amputee/cast, left leg (all ages) ........... PEP3LLEG 1272-1273
+Amputee/cast, right leg (all ages) .......... PEP3RLEG 1274-1275
+Amputee/cast, right great toe (all ages) .... PEP3B2TR 1276
+Amputee/cast, left great toe (all ages) ..... PEP3B2TL 1277
+UPPER EXTREMITIES JOINT EXAMINATION
+Overall wrist finding,hand joint(age60+) .... PEP4A 1278
+Wrist: tender on palpation (age 60+) ........ PEP4A1 1279
+Wrist: swelling (age 60+) ................... PEP4A2 1280
+Wrist: pain on passive motion (age 60+) ..... PEP4A3 1281
+Overall findings,CMC, yrs 4,5,6 (age60+) .... PEP4CMC 1282
+CMC: crepitus, survey yrs 4,5,6(age60+) ..... PEP4CMCC 1283
+CMC: tender palpation,yrs 4,5,6 (age60+) .... PEP4CMCT 1284
+CMC:swelling, survey yrs 4,5,6 (age60+) ..... PEP4CMCS 1285
+CMC:pain on p-motion,yrs 4,5,6 (age60+) ..... PEP4CMCP 1286
+Overall findings,MCP hand joint(age 60+) .... PEP4B 1287
+Rt finger 1, MCP: tenderness (age 60+) ...... PEP4BTR1 1288
+Rt finger 2, MCP: tenderness (age 60+) ...... PEP4BTR2 1289
+Rt finger 3, MCP: tenderness (age 60+) ...... PEP4BTR3 1290
+Rt finger 4, MCP: tenderness (age 60+) ...... PEP4BTR4 1291
+Rt finger 5, MCP: tenderness (age 60+) ...... PEP4BTR5 1292
+Lft finger 1, MCP: tenderness (age 60+) ..... PEP4BTL1 1293
+Lft finger 2, MCP: tenderness (age 60+) ..... PEP4BTL2 1294
+Lft finger 3, MCP: tenderness (age 60+) ..... PEP4BTL3 1295
+Lft finger 4, MCP: tenderness (age 60+) ..... PEP4BTL4 1296
+Lft finger 5, MCP: tenderness (age 60+) ..... PEP4BTL5 1297
+Rt finger 1, MCP: swelling (age 60+) ........ PEP4BSR1 1298
+Rt finger 2, MCP: swelling (age 60+) ........ PEP4BSR2 1299
+Rt finger 3, MCP: swelling (age 60+) ........ PEP4BSR3 1300
+Rt finger 4, MCP: swelling (age 60+) ........ PEP4BSR4 1301
+Rt finger 5, MCP: swelling (age 60+) ........ PEP4BSR5 1302
+Lft finger 1, MCP: swelling (age 60+) ....... PEP4BSL1 1303
+Lft finger 2, MCP: swelling (age 60+) ....... PEP4BSL2 1304
+Lft finger 3, MCP: swelling (age 60+) ....... PEP4BSL3 1305
+Lft finger 4, MCP: swelling (age 60+) ....... PEP4BSL4 1306
+Lft finger 5, MCP: swelling (age 60+) ....... PEP4BSL5 1307
+Rt finger 1,MCP:pain on p-motion(age60+) .... PEP4BPR1 1308
+Rt finger 2,MCP:pain on p-motion(age60+) .... PEP4BPR2 1309
+Rt finger 3,MCP:pain on p-motion(age60+) .... PEP4BPR3 1310
+Rt finger 4,MCP:pain on p-motion(age60+) .... PEP4BPR4 1311
+Rt finger 5,MCP:pain on p-motion(age60+) .... PEP4BPR5 1312
+Lft finger1,MCP:pain on p-motion(age60+) .... PEP4BPL1 1313
+Lft finger2,MCP:pain on p-motion(age60+) .... PEP4BPL2 1314
+Lft finger3,MCP:pain on p-motion(age60+) .... PEP4BPL3 1315
+Lft finger4,MCP:pain on p-motion(age60+) .... PEP4BPL4 1316
+Lft finger5,MCP:pain on p-motion(age60+) .... PEP4BPL5 1317
+Rt finger 2, PIP: tenderness (age 60+) ...... PEP4CTR2 1318
+Rt finger 3, PIP: tenderness (age 60+) ...... PEP4CTR3 1319
+Rt finger 4, PIP: tenderness (age 60+) ...... PEP4CTR4 1320
+Rt finger 5, PIP: tenderness (age 60+) ...... PEP4CTR5 1321
+Lft finger 2, PIP: tenderness (age 60+) ..... PEP4CTL2 1322
+Lft finger 3, PIP: tenderness (age 60+) ..... PEP4CTL3 1323
+Lft finger 4, PIP: tenderness (age 60+) ..... PEP4CTL4 1324
+Lft finger 5, PIP: tenderness (age 60+) ..... PEP4CTL5 1325
+Rt finger 2, PIP: swelling (age 60+) ........ PEP4CSR2 1326
+Rt finger 3, PIP: swelling (age 60+) ........ PEP4CSR3 1327
+Rt finger 4, PIP: swelling (age 60+) ........ PEP4CSR4 1328
+Rt finger 5, PIP: swelling (age 60+) ........ PEP4CSR5 1329
+Lft finger 2, PIP: swelling (age 60+) ....... PEP4CSL2 1330
+Lft finger 3, PIP: swelling (age 60+) ....... PEP4CSL3 1331
+Lft finger 4, PIP: swelling (age 60+) ....... PEP4CSL4 1332
+Lft finger 5, PIP: swelling (age 60+) ....... PEP4CSL5 1333
+Rt finger 2,PIP:pain on p-motion(age60+) .... PEP4CPR2 1334
+Rt finger 3,PIP:pain on p-motion(age60+) .... PEP4CPR3 1335
+Rt finger 4,PIP:pain on p-motion(age60+) .... PEP4CPR4 1336
+Rt finger 5,PIP:pain on p-motion(age60+) .... PEP4CPR5 1337
+Lft finger2,PIP:pain on p-motion(age60+) .... PEP4CPL2 1338
+Lft finger3,PIP:pain on p-motion(age60+) .... PEP4CPL3 1339
+Lft finger4,PIP:pain on p-motion(age60+) .... PEP4CPL4 1340
+Lft finger5,PIP:pain on p-motion(age60+) .... PEP4CPL5 1341
+Rt finger 1, IP: tenderness (age 60+) ....... PEP4DTR1 1342
+Rt finger 2, DIP: tenderness (age 60+) ...... PEP4DTR2 1343
+Rt finger 3, DIP: tenderness (age 60+) ...... PEP4DTR3 1344
+Rt finger 4, DIP: tenderness (age 60+) ...... PEP4DTR4 1345
+Rt finger 5, DIP: tenderness (age 60+) ...... PEP4DTR5 1346
+Lft finger 1, IP: tenderness (age 60+) ...... PEP4DTL1 1347
+Lft finger 2, DIP: tenderness(age 60+) ...... PEP4DTL2 1348
+Lft finger 3, DIP: tenderness(age 60+) ...... PEP4DTL3 1349
+Lft finger 4, DIP: tenderness(age 60+) ...... PEP4DTL4 1350
+Lft finger 5, DIP: tenderness(age 60+) ...... PEP4DTL5 1351
+Rt finger 1, IP: swelling (age 60+) ......... PEP4DSR1 1352
+Rt finger 2, DIP: swelling (age 60+) ........ PEP4DSR2 1353
+Rt finger 3, DIP: swelling (age 60+) ........ PEP4DSR3 1354
+Rt finger 4, DIP: swelling (age 60+) ........ PEP4DSR4 1355
+Rt finger 5, DIP: swelling (age 60+) ........ PEP4DSR5 1356
+Lft finger 1, IP: swelling (age 60+) ........ PEP4DSL1 1357
+Lft finger 2, DIP: swelling (age 60+) ....... PEP4DSL2 1358
+Lft finger 3, DIP: swelling (age 60+) ....... PEP4DSL3 1359
+Lft finger 4, DIP: swelling (age 60+) ....... PEP4DSL4 1360
+Lft finger 5, DIP: swelling (age 60+) ....... PEP4DSL5 1361
+Rt finger1,IP:pain on p-motion (age60+) ..... PEP4DPR1 1362
+Rt finger2,DIP:pain on p-motion (age60+) .... PEP4DPR2 1363
+Rt finger3,DIP:pain on p-motion (age60+) .... PEP4DPR3 1364
+Rt finger4,DIP:pain on p-motion (age60+) .... PEP4DPR4 1365
+Rt finger5,DIP:pain on p-motion (age60+) .... PEP4DPR5 1366
+Lft finger1,IP:pain on p-motion (age60+) .... PEP4DPL1 1367
+Lft finger2,DIP:pain on p-motion(age60+) .... PEP4DPL2 1368
+Lft finger3,DIP:pain on p-motion(age60+) .... PEP4DPL3 1369
+Lft finger4,DIP:pain on p-motion(age60+) .... PEP4DPL4 1370
+Lft finger5,DIP:pain on p-motion(age60+) .... PEP4DPL5 1371
+Bony thickening/spurs CMC joint(age60+) ..... PEP4CMCJ 1372
+Overall findings,upr deformities(age60+) .... PEP4E1 1373
+Heberden's nodes (DIP) (age 60+) ............ PEP4E1A 1374
+Bouchard's nodes (PIP) (age 60+) ............ PEP4E1B 1375
+Swan neck (age 60+) ......................... PEP4E1C 1376
+Boutonniere joints (age 60+) ................ PEP4E1D 1377
+Ulnar deviation at MCP or wrist(age60+) ..... PEP4E1E 1378
+Subcutaneous nodules on forearm(age60+) ..... PEP4E1F 1379
+CENTRAL PULSE RATE
+Central pulse rate (beats/min)(2mo-4yrs) .... PEP5R 1380-1382
+BLOOD PRESSURE
+Cuff size used (age 5+ years) ............... PEP6A 1383
+Arm selected (age 5+ years) ................. PEP6B 1384
+Had alcohol, etc in past 30 min (age 5+) .... PEP6C 1385
+Pulse rate (beats/min) (age 5+ years) ....... PEP6DR 1386-1388
+Irregular pulse (age 5+ years) .............. PEP6E 1389
+Maximum inflation level(MIL,mmHg)(age5+) .... PEP6F 1390-1392
+K1, systolic, for 1st BP (mmHg)(age 5+) ..... PEP6G1 1393-1395
+K4, diastolic, for 1st BP(mmHg)(age5-19) .... PEP6G2 1396-1398
+K5, diastolic, for 1st BP (mmHg)(age 5+) .... PEP6G3 1399-1401
+First BP refused (age 5+ years) ............. PEP6G4 1402
+K1, systolic, for 2nd BP (mmHg)(age5+) ...... PEP6H1 1403-1405
+K4,diastolic, for 2nd BP(mmHg)(age 5-19) .... PEP6H2 1406-1408
+K5, diastolic, for 2nd BP (mmHg)(age 5+) .... PEP6H3 1409-1411
+Second BP refused (age 5+ years) ............ PEP6H4 1412
+K1, systolic, for 3rd BP (mmHg)(age 5+) ..... PEP6I1 1413-1415
+K4, diastolic, for 3rd BP(mmHg)(age5-19) .... PEP6I2 1416-1418
+K5, diastolic, for 3rd BP (mmHg)(age 5+) .... PEP6I3 1419-1421
+Third BP refused (age 5+ years) ............. PEP6I4 1422
+Overall average K1, systolic, BP(age 5+) .... PEPMNK1R 1423-1425
+Measurements used for average K1(age 5+) .... PEPNOK1R 1426-1427
+Overall average K5, diastolic, BP(age5+) .... PEPMNK5R 1428-1430
+Measurements used for average K5(age 5+) .... PEPNOK5R 1431-1432
+CHEST
+Overall findings,chest section(all ages) .... PEP7 1433
+Decreased breath in right lung(all ages) .... PEP7A1R 1434
+Decreased breath in left lung (all ages) .... PEP7A1L 1435
+Advent sounds in right lung (all ages) ...... PEP7A2R 1436
+Advent sounds in left lung (all ages) ....... PEP7A2L 1437
+HEART
+Overall findings,heart murmurs(all ages) .... PEP8 1438
+Systolic murmur (all ages) .................. PEP8A 1439-1440
+Diastolic murmur (all ages) ................. PEP8B 1441-1442
+DERMATITIS
+Overall findings for dermatitis section ..... PEP9 1443
+Palms: red/inflamed, vesicles (age5-59) ..... PEP9A 1444
+Palmar fingers, dermatitis (age 5-59) ....... PEP9B 1445
+Dorsal:red/inflamed, vesicles (age 5-59) .... PEP9C 1446
+Dorsal fingers, dermatitis (age 5-59) ....... PEP9D 1447
+Lichenified dermatitis (age 5-59) ........... PEP9E 1448
+LOWER EXTREMITIES JOINT EXAMINATION
+Overall findings, gt toe,MTP,IP (age60+) .... PEP10 1449
+Rt great toe, MTP: tender palp (age60+) ..... PEP10MTR 1450
+Lft great toe, MTP: tender palp(age60+) ..... PEP10MTL 1451
+Rt great toe, MTP: swelling (age60+) ........ PEP10MSR 1452
+Lft great toe, MTP: swelling (age60+) ....... PEP10MSL 1453
+Rt great toe,MTP:pain on p-motion(age60+ .... PEP10MPR 1454
+Lft great toe,MTP:painon p-motion(age60+ .... PEP10MPL 1455
+Rt great toe, IP:tender palp(age60+) ........ PEP10ITR 1456
+Lft great toe, IP: tender palp (age60+) ..... PEP10ITL 1457
+Rt great toe, IP: swelling (age60+) ......... PEP10ISR 1458
+Lft great toe, IP: swelling (age 60+) ....... PEP10ISL 1459
+Rt great toe,IP:pain on p-motion(age60+) .... PEP10IPR 1460
+Lft great toe,IP:pain on p-motion(age60+ .... PEP10IPL 1461
+Overall findings, knee joint (age 60+) ...... PEP10B 1462
+Knee: crepitus (age 60+) .................... PEP10B1 1463
+Knee: tender on palpation (age 60+) ......... PEP10B2 1464
+Knee: swelling (age 60+) .................... PEP10B3 1465
+Knee: pain on passive motion (age 60+) ...... PEP10B4 1466
+Rt knee: max limit on p-motion (age60+) ..... PEP10B5 1467
+Lft knee:max limit on p-motion (age60+) ..... PEP10B6 1468
+Overall findings,foot deformities(age60+ .... PEP10C 1469
+Hammer toes (age 60+) ....................... PEP10C1 1470
+Bunions (age 60+) ........................... PEP10C2 1471
+BREAST SIZE AND TANNER STAGING
+Rt breast size(lg diameter,mm)(2mo-4yrs) .... PEP11A1 1472-1474
+Lft breast size(lg diameter,mm)(2mo-4yrs .... PEP11A2 1475-1477
+Pubic hair stage (8-18 yrs) ................. PEP11B1 1478
+Genitalia stage (8-18 yrs) .................. PEP11B2 1479
+Breast stage,least dev breast (8-18 yrs) .... PEP11B3 1480
+PHYSICIAN'S IMPRESSION
+Health status (all ages) .................... PEP13A 1481
+Evidence disabling impairment (all ages) .... PEP13B 1482
+Possible active infection (all ages) ........ PEP13C 1483
+Able communicate appropriately(age 3+yr) .... PEP13D 1484
+Estimated difficulty:walk 1/4 mi(age 5+) .... PEP13E1A 1485
+Prognosis over 1 yr:walk 1/4 mi (age 5+) .... PEP13E1B 1486
+Estimated difficulty:run 100 yds(age 5+) .... PEP13E2A 1487
+Prognosis over 1 yr:run 100 yds (age 5+) .... PEP13E2B 1488
+Estimated difficulty: stoop... (age 5+) ..... PEP13E3A 1489
+Prognosis over 1 year: stoop... (age 5+) .... PEP13E3B 1490
+Est difficulty:small hand moves (age 5+) .... PEP13E4A 1491
+Prog over 1 yr:small hand moves (age 5+) .... PEP13E4B 1492
+Est difficulty:heavy housework...(age5+) .... PEP13E5A 1493
+Prog over 1 yr:heavy housework...(age5+) .... PEP13E5B 1494
+Estimated difficulty: play (2mo-4yrs) ....... PEP13F1A 1495
+Prognosis over 1 year: play (2mo-4yrs) ...... PEP13F1B 1496
+GENERAL INFORMATION
+Referral level assigned to sample person .... PEPLEVEL 1497
+Examiner number ............................. PEPTECH 1498-1502
+BODY MEASUREMENTS
+Examiner number ............................. BMPTECH1 1503-1507
+WEIGHT
+Weight (kg) (2 months and over) ............. BMPWT 1508-1513
+Weight source flag .......................... BMPWTFLG 1514
+Weight (lbs) (2 months and over) ............ BMPWTLBS 1515-1519
+Self reported weight (lbs) (12-16 years) .... BMPSRWL 1520-1523
+Body mass index ............................. BMPBMI 1524-1527
+HEIGHTS, LENGTHS
+Standing height (cm) (2 years and over) ..... BMPHT 1528-1532
+Standing height source flag ................. BMPHTFLG 1533
+Standing height (in) (2 years and over) ..... BMPHTIN 1534-1538
+Recumbent length (cm) (2 months-3 years) .... BMPRECUM 1539-1543
+Recumbent length flag ....................... BMPRECFL 1544
+Sitting height (cm) (2 years and over) ...... BMPSITHT 1545-1549
+Self reported height (in) (12-16 years) ..... BMPSRHIS 1550-1552
+Upper leg length (cm) (2 years and over) .... BMPLEG 1553-1556
+Knee height (cm) (60 years and over) ........ BMPKNEE 1557-1560
+Upper arm length (cm)(2 months and over) .... BMPARML 1561-1564
+BREADTHS
+Biacromial breadth(cm)(3 years and over) .... BMPBIAC 1565-1568
+Biiliac breadth (cm) (2 years and over) ..... BMPBIIL 1569-1573
+Elbow breadth (cm) (2 years and over) ....... BMPELB 1574-1577
+Wrist breadth (cm) (2 years and over) ....... BMPWRIST 1578-1581
+CIRCUMFERENCES
+Head circumference (cm) (2 mos - 7 yrs) ..... BMPHEAD 1582-1585
+Arm circumference(cm)(2 months and over) .... BMPARMC 1586-1589
+Waist circumference (cm) (2+ years) ......... BMPWAIST 1590-1594
+Buttocks circumference (cm) (2+ years) ...... BMPBUTTO 1595-1599
+Waist to hip ratio .......................... BMPWHR 1600-1603
+Thigh circumference (cm)(2 yrs and over) .... BMPTHICI 1604-1608
+SKINFOLDS
+Triceps skinfold (mm)(2 months and over) .... BMPTRI 1609-1612
+Subscapular skinfold (mm) (2+ months) ....... BMPSUB 1613-1616
+Suprailiac skinfold (mm) (2+ years) ......... BMPSUP 1617-1620
+Thigh skinfold (mm) (2 years and over) ...... BMPTHI 1621-1624
+BIOELECTRICAL IMPEDANCE ANALYSIS (BIA)
+Examinee pregnant--cannot obtain BIA ........ PEPPREG 1625
+Examinee had pacemaker-cannot obtain BIA .... PEPPACE 1626
+BIA resistance (ohms)(12 years and over) .... PEP12A1 1627-1630
+BIA reactance (ohms) (12 years and over) .... PEP12B1 1631-1634
+TOTAL NUTRIENT INTAKES
+GENERAL INFORMATION
+Recall status code .......................... DRPSTAT 1635
+Recall day .................................. DRPRDAY 1636-1637
+Respondent,24hr dietary recall interview .... DRPRESP 1638
+Language, 24-hr dietary recall interview .... DRPLANG 1639
+Interviewer ID code ......................... DRPIID 1640-1641
+QUESTIONS
+Compare food consumed yesterday to usual .... DRPQ1 1642
+How much plain water drink in 24 hrs -oz .... DRPQ2A 1643-1645
+Type of salt you usually add at table ....... DRPQ3 1646
+How often do you add salt at the table ...... DRPQ4 1647
+#days had no food/money for food,past mo .... DRPQ5 1648-1649
+Because not enough money or other reason .... DRPQ6 1650
+Skip meals because no food/money,past mo .... DRPQ7 1651
+# days skip meals, no food/money,past mo .... DRPQ8 1652-1653
+Skip any meals yesterday, no food/money ..... DRPQ9 1654
+Any days not eat, no food/money, past mo .... DRPQ10 1655
+# days didn't eat at all in past month ...... DRPQ11 1656-1657
+Are you person who preps meals at home ...... DRPQ12 1658
+NUTRIENT QUANTITIES
+Total grams of food & beverage consumed ..... DRPGW 1659-1663
+Water (gm) .................................. DRPNWATE 1664-1668
+Food energy (kcal) .......................... DRPNKCAL 1669-1673
+Protein (gm) ................................ DRPNPROT 1674-1679
+Total fat (gm) .............................. DRPNTFAT 1680-1685
+Total saturated fatty acids (gm) ............ DRPNSFAT 1686-1690
+Total monounsaturated fatty acids (gm) ...... DRPNMFAT 1691-1695
+Total polyunsaturated fatty acids (gm) ...... DRPNPFAT 1696-1700
+Cholesterol (mg) ............................ DRPNCHOL 1701-1704
+Carbohydrate (gm) ........................... DRPNCARB 1705-1710
+Total dietary fiber (gm) .................... DRPNFIBE 1711-1715
+Alcohol (gm) ................................ DRPNALCO 1716-1719
+Vitamin A (IU) .............................. DRPNVAIU 1720-1725
+Vitamin A (RE) .............................. DRPNVARE 1726-1730
+Carotenes (RE) .............................. DRPNCARO 1731-1735
+Vitamin E (alpha tocopherol equivalents) .... DRPNVE 1736-1741
+Ascorbic acid (mg) .......................... DRPNVC 1742-1745
+Thiamin (mg) ................................ DRPNVB1 1746-1750
+Riboflavin (mg) ............................. DRPNVB2 1751-1755
+Niacin (mg) ................................. DRPNNIAC 1756-1760
+Vitamin B6 (mg) ............................. DRPNVB6 1761-1765
+Folacin (micrograms) ........................ DRPNFOLA 1766-1770
+Vitamin B12 (micrograms) .................... DRPNVB12 1771-1776
+Calcium (mg) ................................ DRPNCALC 1777-1781
+Phosphorus (mg) ............................. DRPNPHOS 1782-1786
+Magnesium (mg) .............................. DRPNMAGN 1787-1790
+Iron (mg) ................................... DRPNIRON 1791-1795
+Zinc (mg) ................................... DRPNZINC 1796-1801
+Copper (mg) ................................. DRPNCOPP 1802-1805
+Sodium (mg) ................................. DRPNSODI 1806-1810
+Potassium (mg) .............................. DRPNPOTA 1811-1815
+Percent of kilocalories from total fat ...... DRPNKF 1816-1820
+Pct of kilocalories from saturated fat ...... DRPNKSF 1821-1824
+Pct of kilocals from monounsaturted fat ..... DRPNKMF 1825-1828
+Pct of kilocals from polyunsaturated fat .... DRPNKPF 1829-1832
+Percent of kilocalories from protein ........ DRPNKP 1833-1837
+Pct of kilocalories from carbohydrate ....... DRPNKC 1838-1842
+Percent of kilocalories from alcohol ........ DRPNKA 1843-1847
+MEC PROXY QUESTIONNAIRE
+SECTION A. MEDICINE, VITAMIN, AND MINERAL USAGE
+Age check item used in skip pattern ......... MPPA1 1848
+Taken antihistamine in past 2 days .......... MPPA2 1849
+Taken prescription med in past 24 hours ..... MPPA3 1850
+Taken vitamins/minerals in past 24 hrs ...... MPPA4 1851
+SECTION B. SELECTED CONDITIONS
+Treated for anemia within past 3 months ..... MPPB1 1852
+How many infections... in last 4 weeks ...... MPPB2 1853-1854
+Age/sex check item used in skip pattern ..... MPPB3 1855
+Age when menstrual cycles started ........... MPPB4 1856-1857
+Receive benefits from WIC in last 12 mo ..... MPPB5 1858
+Receiving benefits from WIC now ............. MPPB6 1859
+How many months received WIC benefits ....... MPPB7S 1860-1862
+SECTION C. INFANT FOOD FREQUENCY
+Age check item used in skip pattern ......... MPPC1 1863
+Had cereal in past month .................... MPPC2A 1864
+Had fruit in past month ..................... MPPC2B 1865
+Had yellow/orange vegetables past month ..... MPPC2C 1866
+Had green vegetables in past month .......... MPPC2D 1867
+Had meat in past month ...................... MPPC2E 1868
+Had egg yolks or eggs in past month ......... MPPC2F 1869
+Had combo meat/vegetable dinners past mo .... MPPC2G 1870
+Had yogurt, cottage/other cheese past mo .... MPPC2H 1871
+Had bread,rolls,crackers,biscuit past mo .... MPPC2I 1872
+Had desserts in past month .................. MPPC2J 1873
+Had breastmilk in past month ................ MPPC2K 1874
+Had formula in past month ................... MPPC2L 1875
+Had regular cow's milk in past month ........ MPPC2M 1876
+Had fruit juices in past month .............. MPPC2N 1877
+Drinks such as Koolaid, etc in past mo ...... MPPC2O 1878
+SECTION D. RESPONDENT
+Check item.Respondent relationship to SP .... MPPD1A 1879-1880
+GENERAL INFORMATION
+Interviewer number .......................... MPPEXMNR 1881-1884
+DENTAL EXAMINATION
+COMPLETION CODES AND SUMMARY VARIABLES
+Had some part of dental examination ......... DEPEXFLG 1885
+Examiner number ............................. DEPEXMNR 1886
+Upper quadrant periodontal assessments ...... DEPUQUAD 1887
+Lower quadrant periodontal assessments ...... DEPLQUAD 1888
+Medical exclusion flag ...................... DEPMEDXC 1889
+Dentate status .............................. DEPEDENT 1890
+Completion code: coronal caries ............. DEPCCFLG 1891
+Completion code: root caries ................ DEPRSFLG 1892
+Completion code: restoration & condition .... DEPRCFLG 1893
+Completion code: traumatic injuries ......... DEPTRFLG 1894
+Completion code: gingival bleeding .......... DEPGNFLG 1895
+Completion code: calculus ................... DEPCLFLG 1896
+Completion code: FGM/CEJ .................... DEPCJFLG 1897
+Completion code: pocket assessment .......... DEPPCFLG 1898
+Completion code: loss of attachment ......... DEPLAFLG 1899
+Completion code: denture questionnaire ...... DEPDQFLG 1900
+Nursing bottle caries ....................... DEPNURSC 1901
+Sum of permanent DMFS due to disease ........ DEPDMFS1 1902-1904
+Sum of permanent DFMS due to any cause ...... DEPDMFS2 1905-1907
+Sum of permanent DFS ........................ DEPDFSP 1908-1910
+Sum of deciduous or primary dfs ............. DEPDFSDC 1911-1912
+Sum of deciduous or primary dft ............. DEPDFTDC 1913-1914
+Sum of permanent DMFT due to disease ........ DEPDMFT1 1915-1916
+Sum of permanent DMFT due to any cause ...... DEPDMFT2 1917-1918
+DENTAL CARIES
+Cor.surf: upper left cen incisor: filler .... DEPCS1 1919
+Cor.surf: upper lft cen incisor: lingual .... DEPCS2 1920-1921
+Cor.surf: upper left cen incisor: buccal .... DEPCS3 1922-1923
+Cor.surf: upper left cen incisor: mesial .... DEPCS4 1924-1925
+Cor.surf: upper left cen incisor: distal .... DEPCS5 1926-1927
+Cor.surf: upper left lat incisor: filler .... DEPCS6 1928
+Cor.surf: upper lft lat incisor: lingual .... DEPCS7 1929-1930
+Cor.surf: upper left lat incisor: buccal .... DEPCS8 1931-1932
+Cor.surf: upper left lat incisor: mesial .... DEPCS9 1933-1934
+Cor.surf: upper left lat incisor: distal .... DEPCS10 1935-1936
+Cor.surf: upper left cuspid: filler ......... DEPCS11 1937
+Cor.surf: upper left cuspid: lingual ........ DEPCS12 1938-1939
+Cor.surf: upper left cuspid: buccal ......... DEPCS13 1940-1941
+Cor.surf: upper left cuspid: mesial ......... DEPCS14 1942-1943
+Cor.surf: upper left cuspid: distal ......... DEPCS15 1944-1945
+Cor.surf: upper left 1bicuspid: occlusal .... DEPCS16 1946-1947
+Cor.surf: upper left 1bicuspid: lingual ..... DEPCS17 1948-1949
+Cor.surf: upper left 1bicuspid: buccal ...... DEPCS18 1950-1951
+Cor.surf: upper left 1bicuspid: mesial ...... DEPCS19 1952-1953
+Cor.surf: upper left 1bicuspid: distal ...... DEPCS20 1954-1955
+Cor.surf: upper left 2bicuspid: occlusal .... DEPCS21 1956-1957
+Cor.surf: upper left 2bicuspid: lingual ..... DEPCS22 1958-1959
+Cor.surf: upper left 2bicuspid: buccal ...... DEPCS23 1960-1961
+Cor.surf: upper left 2bicuspid: mesial ...... DEPCS24 1962-1963
+Cor.surf: upper left 2bicuspid: distal ...... DEPCS25 1964-1965
+Cor.surf: upper left 1molar: occlusal ....... DEPCS26 1966-1967
+Cor.surf: upper left 1molar: lingual ........ DEPCS27 1968-1969
+Cor.surf: upper left 1molar: buccal ......... DEPCS28 1970-1971
+Cor.surf: upper left 1molar: mesial ......... DEPCS29 1972-1973
+Cor.surf: upper left 1molar: distal ......... DEPCS30 1974-1975
+Cor.surf: upper left 2molar: occlusal ....... DEPCS31 1976-1977
+Cor.surf: upper left 2molar: lingual ........ DEPCS32 1978-1979
+Cor.surf: upper left 2molar: buccal ......... DEPCS33 1980-1981
+Cor.surf: upper left 2molar: mesial ......... DEPCS34 1982-1983
+Cor.surf: upper left 2molar: distal ......... DEPCS35 1984-1985
+Cor.surf: upper rt cen incisor: filler ...... DEPCS36 1986
+Cor.surf: upper rt cen incisor:lingual ...... DEPCS37 1987-1988
+Cor.surf: upper rt cen incisor: buccal ...... DEPCS38 1989-1990
+Cor.surf: upper rt cen incisor: mesial ...... DEPCS39 1991-1992
+Cor.surf: upper rt cen incisor: distal ...... DEPCS40 1993-1994
+Cor.surf: upper rt lat incisor: filler ...... DEPCS41 1995
+Cor.surf: upper rt lat incisor: lingual ..... DEPCS42 1996-1997
+Cor.surf: upper rt lat incisor: buccal ...... DEPCS43 1998-1999
+Cor.surf: upper rt lat incisor: mesial ...... DEPCS44 2000-2001
+Cor.surf: upper rt lat incisor: distal ...... DEPCS45 2002-2003
+Cor.surf: upper right cuspid: filler ........ DEPCS46 2004
+Cor.surf: upper right cuspid: lingual ....... DEPCS47 2005-2006
+Cor.surf: upper right cuspid: buccal ........ DEPCS48 2007-2008
+Cor.surf: upper right cuspid: mesial ........ DEPCS49 2009-2010
+Cor.surf: upper right cuspid: distal ........ DEPCS50 2011-2012
+Cor.surf: upper rt 1bicuspid: occlusal ...... DEPCS51 2013-2014
+Cor.surf: upper right 1bicuspid: lingual .... DEPCS52 2015-2016
+Cor.surf: upper right 1bicuspid: buccal ..... DEPCS53 2017-2018
+Cor.surf: upper right 1bicuspid: mesial ..... DEPCS54 2019-2020
+Cor.surf: upper right 1bicuspid: distal ..... DEPCS55 2021-2022
+Cor.surf: upper rt 2bicuspid: occlusal ...... DEPCS56 2023-2024
+Cor.surf: upper rt 2bicuspid: lingual ....... DEPCS57 2025-2026
+Cor.surf: upper rt 2bicuspid: buccal ........ DEPCS58 2027-2028
+Cor.surf: upper rt 2bicuspid: mesial ........ DEPCS59 2029-2030
+Cor.surf: upper rt 2bicuspid: distal ........ DEPCS60 2031-2032
+Cor.surf: upper right 1molar: occlusal ...... DEPCS61 2033-2034
+Cor.surf: upper right 1molar: lingual ....... DEPCS62 2035-2036
+Cor.surf: upper right 1molar: buccal ........ DEPCS63 2037-2038
+Cor.surf: upper right 1molar: mesial ........ DEPCS64 2039-2040
+Cor.surf: upper right 1molar: distal ........ DEPCS65 2041-2042
+Cor.surf: upper right 2molar: occlusal ...... DEPCS66 2043-2044
+Cor.surf: upper right 2molar: lingual ....... DEPCS67 2045-2046
+Cor.surf: upper right 2molar: buccal ........ DEPCS68 2047-2048
+Cor.surf: upper right 2molar: mesial ........ DEPCS69 2049-2050
+Cor.surf: upper right 2molar: distal ........ DEPCS70 2051-2052
+Cor.surf: lower left cen incisor: filler .... DEPCS71 2053
+Cor.surf: lower left cen incisor:lingual .... DEPCS72 2054-2055
+Cor.surf: lower left cen incisor: buccal .... DEPCS73 2056-2057
+Cor.surf: lower left cen incisor: mesial .... DEPCS74 2058-2059
+Cor.surf: lower left cen incisor: distal .... DEPCS75 2060-2061
+Cor.surf: lower left lat incisor: filler .... DEPCS76 2062
+Cor.surf: lower left lat incisor:lingual .... DEPCS77 2063-2064
+Cor.surf: lower left lat incisor: buccal .... DEPCS78 2065-2066
+Cor.surf: lower left lat incisor: mesial .... DEPCS79 2067-2068
+Cor.surf: lower left lat incisor: distal .... DEPCS80 2069-2070
+Cor.surf: lower left cuspid: filler ......... DEPCS81 2071
+Cor.surf: lower left cuspid: lingual ........ DEPCS82 2072-2073
+Cor.surf: lower left cuspid: buccal ......... DEPCS83 2074-2075
+Cor.surf: lower left cuspid: mesial ......... DEPCS84 2076-2077
+Cor.surf: lower left cuspid: distal ......... DEPCS85 2078-2079
+Cor.surf: lower left 1bicuspid: occlusal .... DEPCS86 2080-2081
+Cor.surf: lower left 1bicuspid: lingual ..... DEPCS87 2082-2083
+Cor.surf: lower left 1bicuspid: buccal ...... DEPCS88 2084-2085
+Cor.surf: lower left 1bicuspid: mesial ...... DEPCS89 2086-2087
+Cor.surf: lower left 1bicuspid: distal ...... DEPCS90 2088-2089
+Cor.surf: lower left 2bicuspid: occlusal .... DEPCS91 2090-2091
+Cor.surf: lower left 2bicuspid: lingual ..... DEPCS92 2092-2093
+Cor.surf: lower left 2bicuspid: buccal ...... DEPCS93 2094-2095
+Cor.surf: lower left 2bicuspid: mesial ...... DEPCS94 2096-2097
+Cor.surf: lower left 2bicuspid: distal ...... DEPCS95 2098-2099
+Cor.surf: lower left 1molar: occlusal ....... DEPCS96 2100-2101
+Cor.surf: lower left 1molar: lingual ........ DEPCS97 2102-2103
+Cor.surf: lower left 1molar: buccal ......... DEPCS98 2104-2105
+Cor.surf: lower left 1molar: mesial ......... DEPCS99 2106-2107
+Cor.surf: lower left 1molar: distal ......... DEPCS100 2108-2109
+Cor.surf: lower left 2molar: occlusal ....... DEPCS101 2110-2111
+Cor.surf: lower left 2molar: lingual ........ DEPCS102 2112-2113
+Cor.surf: lower left 2molar: buccal ......... DEPCS103 2114-2115
+Cor.surf: lower left 2molar: mesial ......... DEPCS104 2116-2117
+Cor.surf: lower left 2molar: distal ......... DEPCS105 2118-2119
+Cor.surf: lower rt cen incisor: filler ...... DEPCS106 2120
+Cor.surf: lower rt cen incisor: lingual ..... DEPCS107 2121-2122
+Cor.surf: lower rt cen incisor: buccal ...... DEPCS108 2123-2124
+Cor.surf: lower rt cen incisor: mesial ...... DEPCS109 2125-2126
+Cor.surf: lower rt cen incisor: distal ...... DEPCS110 2127-2128
+Cor.surf: lower rt lat incisor: filler ...... DEPCS111 2129
+Cor.surf: lower rt lat incisor: lingual ..... DEPCS112 2130-2131
+Cor.surf: lower rt lat incisor: buccal ...... DEPCS113 2132-2133
+Cor.surf: lower rt lat incisor: mesial ...... DEPCS114 2134-2135
+Cor.surf: lower rt lat incisor: distal ...... DEPCS115 2136-2137
+Cor.surf: lower right cuspid: filler ........ DEPCS116 2138
+Cor.surf: lower right cuspid: lingual ....... DEPCS117 2139-2140
+Cor.surf: lower right cuspid: buccal ........ DEPCS118 2141-2142
+Cor.surf: lower right cuspid: mesial ........ DEPCS119 2143-2144
+Cor.surf: lower right cuspid: distal ........ DEPCS120 2145-2146
+Cor.surf: lower rt 1bicuspid: occlusal ...... DEPCS121 2147-2148
+Cor.surf: lower rt 1bicuspid: lingual ....... DEPCS122 2149-2150
+Cor.surf: lower rt 1bicuspid: buccal ........ DEPCS123 2151-2152
+Cor.surf: lower rt 1bicuspid: mesial ........ DEPCS124 2153-2154
+Cor.surf: lower rt 1bicuspid: distal ........ DEPCS125 2155-2156
+Cor.surf: lower rt 2bicuspid: occlusal ...... DEPCS126 2157-2158
+Cor.surf: lower rt 2bicuspid : lingual ...... DEPCS127 2159-2160
+Cor.surf: lower rt 2bicuspid: buccal ........ DEPCS128 2161-2162
+Cor.surf: lower rt 2bicuspid: mesial ........ DEPCS129 2163-2164
+Cor.surf: lower rt 2bicuspid: distal ........ DEPCS130 2165-2166
+Cor.surf: lower right 1molar: occlusal ...... DEPCS131 2167-2168
+Cor.surf: lower right 1molar: lingual ....... DEPCS132 2169-2170
+Cor.surf: lower right 1molar: buccal ........ DEPCS133 2171-2172
+Cor.surf: lower right 1molar: mesial ........ DEPCS134 2173-2174
+Cor.surf: lower right 1molar: distal ........ DEPCS135 2175-2176
+Cor.surf: lower right 2molar: occlusal ...... DEPCS136 2177-2178
+Cor.surf: lower right 2molar: lingual ....... DEPCS137 2179-2180
+Cor.surf: lower right 2molar: buccal ........ DEPCS138 2181-2182
+Cor.surf: lower right 2molar: mesial ........ DEPCS139 2183-2184
+Cor.surf: lower right 2molar: distal ........ DEPCS140 2185-2186
+Cor.tooth call: upper left cen incisor ...... DEPCT1 2187-2188
+Cor.tooth call: upper left lat incisor ...... DEPCT2 2189-2190
+Cor.tooth call: upper left cuspid ........... DEPCT3 2191-2192
+Cor.tooth call: upper left 1bicuspid ........ DEPCT4 2193-2194
+Cor.tooth call: upper left 2bicuspid ........ DEPCT5 2195-2196
+Cor.tooth call: upper left 1molar ........... DEPCT6 2197-2198
+Cor.tooth call: upper left 2molar ........... DEPCT7 2199-2200
+Cor.tooth call: upper left 3molar ........... DEP3M1 2201
+Cor.tooth call: upper rt central incisor .... DEPCT8 2202-2203
+Cor.tooth call: upper rt lateral incisor .... DEPCT9 2204-2205
+Cor.tooth call: upper right cuspid .......... DEPCT10 2206-2207
+Cor.tooth call: upper right 1bicuspid ....... DEPCT11 2208-2209
+Cor.tooth call: upper right 2bicuspid ....... DEPCT12 2210-2211
+Cor.tooth call: upper right 1molar .......... DEPCT13 2212-2213
+Cor.tooth call: upper right 2molar .......... DEPCT14 2214-2215
+Cor.tooth call: upper right 3molar .......... DEP3M2 2216
+Cor.tooth call: lower left cent incisor ..... DEPCT15 2217-2218
+Cor.tooth call: lower left lat incisor ...... DEPCT16 2219-2220
+Cor.tooth call: lower left cuspid ........... DEPCT17 2221-2222
+Cor.tooth call: lower left 1bicuspid ........ DEPCT18 2223-2224
+Cor.tooth call: lower left 2bicuspid ........ DEPCT19 2225-2226
+Cor.tooth call: lower left 1molar ........... DEPCT20 2227-2228
+Cor.tooth call: lower left 2molar ........... DEPCT21 2229-2230
+Cor.tooth call: lower left 3molar ........... DEP3M3 2231
+Cor.tooth call: lower rt central incisor .... DEPCT22 2232-2233
+Cor.tooth call: lower rt lateral incisor .... DEPCT23 2234-2235
+Cor.tooth call: lower right cuspid .......... DEPCT24 2236-2237
+Cor.tooth call: lower right 1bicuspid ....... DEPCT25 2238-2239
+Cor.tooth call: lower right 2bicuspid ....... DEPCT26 2240-2241
+Cor.tooth call: lower right 1molar .......... DEPCT27 2242-2243
+cor tooth call: lower right 2molar .......... DEPCT28 2244-2245
+Cor.tooth call: lower right 3molar .......... DEP3M4 2246
+Cor. sealant: upper left central incisor .... DEPSE1 2247
+Cor. sealant: upper left lateral incisor .... DEPSE2 2248
+Cor. sealant: upper left cuspid ............. DEPSE3 2249
+Cor. sealant: upper left 1bicuspid .......... DEPSE4 2250
+Cor. sealant: upper left 2bicuspid .......... DEPSE5 2251
+Cor. sealant: upper left 1molar ............. DEPSE6 2252
+Cor. sealant: upper left 2molar ............. DEPSE7 2253
+Cor. sealant: upper rt central incisor ...... DEPSE8 2254
+Cor. sealant: upper rt lateral incisor ...... DEPSE9 2255
+Cor. sealant: upper right cuspid ............ DEPSE10 2256
+Cor. sealant: upper right 1bicuspid ......... DEPSE11 2257
+Cor. sealant: upper right 2bicuspid ......... DEPSE12 2258
+Cor. sealant: upper right 1molar ............ DEPSE13 2259
+Cor. sealant: upper right 2molar ............ DEPSE14 2260
+Cor. sealant: lower left central incisor .... DEPSE15 2261
+Cor. sealant: lower left lateral incisor .... DEPSE16 2262
+Cor. sealant: lower left cuspid ............. DEPSE17 2263
+Cor. sealant: lower left 1bicuspid .......... DEPSE18 2264
+Cor. sealant: lower left 2bicuspid .......... DEPSE19 2265
+Cor. sealant: lower left 1molar ............. DEPSE20 2266
+Cor. sealant: lower left 2molar ............. DEPSE21 2267
+Cor. sealant: lower rt central incisor ...... DEPSE22 2268
+Cor. sealant: lower rt lateral incisor ...... DEPSE23 2269
+Cor. sealant: lower right cuspid ............ DEPSE24 2270
+Cor. sealant: lower right 1bicuspid ......... DEPSE25 2271
+Cor. sealant: lower right 2bicuspid ......... DEPSE26 2272
+Cor. sealant: lower right 1molar ............ DEPSE27 2273
+Cor. sealant: lower right 2molar ............ DEPSE28 2274
+Root surf: upr left cen incisor: lingual .... DEPRS1 2275
+Root surf: upper lft cen incisor: buccal .... DEPRS2 2276
+Root surf: upper lft cen incisor: mesial .... DEPRS3 2277
+Root surf: upper lft cen incisor: distal .... DEPRS4 2278
+Root surf:upper left lat incisor:lingual .... DEPRS5 2279
+Root surf: upper lft lat incisor: buccal .... DEPRS6 2280
+Root surf: upper lft lat incisor: mesial .... DEPRS7 2281
+Root surf: upper lft lat incisor: distal .... DEPRS8 2282
+Root surf: upper left cuspid: lingual ....... DEPRS9 2283
+Root surf: upper left cuspid: buccal ........ DEPRS10 2284
+Root surf: upper left cuspid: mesial ........ DEPRS11 2285
+Root surf: upper left cuspid: distal ........ DEPRS12 2286
+Root surf: upper left 1bicuspid: lingual .... DEPRS13 2287
+Root surf: upper left 1bicuspid: buccal ..... DEPRS14 2288
+Root surf: upper left 1bicuspid: mesial ..... DEPRS15 2289
+Root surf: upper left 1bicuspid: distal ..... DEPRS16 2290
+Root surf: upper left 2bicuspid: lingual .... DEPRS17 2291
+Root surf: upper left 2bicuspid: buccal ..... DEPRS18 2292
+Root surf: upper left 2bicuspid: mesial ..... DEPRS19 2293
+Root surf: upper left 2bicuspid: distal ..... DEPRS20 2294
+Root surf: upper left 1molar: lingual ....... DEPRS21 2295
+Root surf: upper left 1molar: buccal ........ DEPRS22 2296
+Root surf: upper left 1molar: mesial ........ DEPRS23 2297
+Root surf: upper left 1molar: distal ........ DEPRS24 2298
+Root surf: upper left 2molar: lingual ....... DEPRS25 2299
+Root surf: upper left 2molar: buccal ........ DEPRS26 2300
+Root surf: upper left 2molar: mesial ........ DEPRS27 2301
+Root surf: upper left 2molar: distal ........ DEPRS28 2302
+Root surf: upper rt cen incisor: lingual .... DEPRS29 2303
+Root surf: upper rt cen incisor: buccal ..... DEPRS30 2304
+Root surf: upper rt cen incisor: mesial ..... DEPRS31 2305
+Root surf: upper rt cen incisor: distal ..... DEPRS32 2306
+Root surf: upper rt lat incisor: lingual .... DEPRS33 2307
+Root surf: upper rt lat incisor: buccal ..... DEPRS34 2308
+Root surf: upper rt lat incisor: mesial ..... DEPRS35 2309
+Root surf: upper rt lat incisor: distal ..... DEPRS36 2310
+Root surf: upper right cuspid: lingual ...... DEPRS37 2311
+Root surf: upper right cuspid: buccal ....... DEPRS38 2312
+Root surf: upper right cuspid: mesial ....... DEPRS39 2313
+Root surf: upper right cuspid: distal ....... DEPRS40 2314
+Root surf: upper rt 1bicuspid: lingual ...... DEPRS41 2315
+Root surf: upper right 1bicuspid: buccal .... DEPRS42 2316
+Root surf: upper right 1bicuspid: mesial .... DEPRS43 2317
+Root surf: upper right 1bicuspid: distal .... DEPRS44 2318
+Root surf: upper rt 2bicuspid: lingual ...... DEPRS45 2319
+Root surf: upper right 2bicuspid: buccal .... DEPRS46 2320
+Root surf: upper right 2bicuspid: mesial .... DEPRS47 2321
+Root surf: upper right 2bicuspid: distal .... DEPRS48 2322
+Root surf: upper right 1molar: lingual ...... DEPRS49 2323
+Root surf: upper right 1molar: buccal ....... DEPRS50 2324
+Root surf: upper right 1molar: mesial ....... DEPRS51 2325
+Root surf: upper right 1molar: distal ....... DEPRS52 2326
+Root surf: upper right 2molar: lingual ...... DEPRS53 2327
+Root surf: upper right 2molar: buccal ....... DEPRS54 2328
+Root surf: upper right 2molar: mesial ....... DEPRS55 2329
+Root surf: upper right 2molar: distal ....... DEPRS56 2330
+Root surf: lwr left cen incisor: lingual .... DEPRS57 2331
+Root surf: lwr left cen incisor: buccal ..... DEPRS58 2332
+Root surf: lwr left cen incisor: mesial ..... DEPRS59 2333
+Root surf: lwr left cen incisor: distal ..... DEPRS60 2334
+Root surf: lwr left lat incisor: lingual .... DEPRS61 2335
+Root surf: lwr left lat incisor: buccal ..... DEPRS62 2336
+Root surf: lwr left lat incisor: mesial ..... DEPRS63 2337
+Root surf: lwr left lat incisor: distal ..... DEPRS64 2338
+Root surf: lower left cuspid: lingual ....... DEPRS65 2339
+Root surf: lower left cuspid: buccal ........ DEPRS66 2340
+Root surf: lower left cuspid: mesial ........ DEPRS67 2341
+Root surf: lower left cuspid: distal ........ DEPRS68 2342
+Root surf: lower left 1bicuspid: lingual .... DEPRS69 2343
+Root surf: lower left 1bicuspid: buccal ..... DEPRS70 2344
+Root surf: lower left 1bicuspid: mesial ..... DEPRS71 2345
+Root surf: lower left 1bicuspid: distal ..... DEPRS72 2346
+Root surf: lower left 2bicuspid: lingual .... DEPRS73 2347
+Root surf: lower left 2bicuspid: buccal ..... DEPRS74 2348
+Root surf: lower left 2bicuspid: mesial ..... DEPRS75 2349
+Root surf: lower left 2bicuspid: distal ..... DEPRS76 2350
+Root surf: lower left 1molar: lingual ....... DEPRS77 2351
+Root surf: lower left 1molar: buccal ........ DEPRS78 2352
+Root surf: lower left 1molar: mesial ........ DEPRS79 2353
+Root surf: lower left 1molar: distal ........ DEPRS80 2354
+Root surf: lower left 2molar: lingual ....... DEPRS81 2355
+Root surf: lower left 2molar: buccal ........ DEPRS82 2356
+Root surf: lower left 2molar: mesial ........ DEPRS83 2357
+Root surf: lower left 2molar: distal ........ DEPRS84 2358
+Root surf: lower rt cen incisor: lingual .... DEPRS85 2359
+Root surf: lower rt cen incisor: buccal ..... DEPRS86 2360
+Root surf: lower rt cen incisor: mesial ..... DEPRS87 2361
+Root surf: lower rt cen incisor: distal ..... DEPRS88 2362
+Root surf: lower rt lat incisor: lingual .... DEPRS89 2363
+Root surf: lower rt lat incisor: buccal ..... DEPRS90 2364
+Root surf: lower rt lat incisor: mesial ..... DEPRS91 2365
+Root surf: lower rt lat incisor: distal ..... DEPRS92 2366
+Root surf: lower right cuspid: lingual ...... DEPRS93 2367
+Root surf: lower right cuspid: buccal ....... DEPRS94 2368
+Root surf: lower right cuspid: mesial ....... DEPRS95 2369
+Root surf: lower right cuspid: distal ....... DEPRS96 2370
+Root surf: lower rt 1bicuspid: lingual ...... DEPRS97 2371
+Root surf: lower right 1bicuspid: buccal .... DEPRS98 2372
+Root surf: lower right 1bicuspid: mesial .... DEPRS99 2373
+Root surf: lower right 1bicuspid: distal .... DEPRS100 2374
+Root surf: lower rt 2bicuspid: lingual ...... DEPRS101 2375
+Root surf: lower right 2bicuspid: buccal .... DEPRS102 2376
+Root surf: lower right 2bicuspid: mesial .... DEPRS103 2377
+Root surf: lower right 2bicuspid: distal .... DEPRS104 2378
+Root surf: lower right 1molar: lingual ...... DEPRS105 2379
+Root surf: lower right 1molar: buccal ....... DEPRS106 2380
+Root surf: lower right 1molar: mesial ....... DEPRS107 2381
+Root surf: lower right 1molar: distal ....... DEPRS108 2382
+Root surf: lower right 2molar: lingual ...... DEPRS109 2383
+Root surf: lower right 2molar: buccal ....... DEPRS110 2384
+Root surf: lower right 2molar: mesial ....... DEPRS111 2385
+Root surf: lower right 2molar: distal ....... DEPRS112 2386
+PERIODONTAL ASSESSMENTS
+Perio:ging bleed,uppr cen incisor:mesial .... DEPUGN1 2387
+Perio:ging bleed,uppr cen incisor:buccal .... DEPUGN2 2388
+Perio:ging bleed,uppr lat incisor:mesial .... DEPUGN3 2389
+Perio:ging bleed,uppr lat incisor:buccal .... DEPUGN4 2390
+Perio:ging bleed, upper cuspid: mesial ...... DEPUGN5 2391
+Perio:ging bleed, upper cuspid: buccal ...... DEPUGN6 2392
+Perio:ging bleed,upper 1bicuspid: mesial .... DEPUGN7 2393
+Perio:ging bleed,upper 1bicuspid: buccal .... DEPUGN8 2394
+Perio:ging bleed,upper 2bicuspid: mesial .... DEPUGN9 2395
+Perio:ging bleed,upper 2bicuspid: buccal .... DEPUGN10 2396
+Perio:ging bleed, upper 1molar: mesial ...... DEPUGN11 2397
+Perio:ging bleed, upper 1molar: buccal ...... DEPUGN12 2398
+Perio:ging bleed, upper 2molar: mesial ...... DEPUGN13 2399
+Perio:ging bleed, upper 2molar: buccal ...... DEPUGN14 2400
+Perio:ging bleed,lwr cen incisor:mesial ..... DEPLGN1 2401
+Perio:ging bleed,lwr cen incisor:buccal ..... DEPLGN2 2402
+Perio:ging bleed, lwr lat incisor:mesial .... DEPLGN3 2403
+Perio:ging bleed,lwr lat incisor:buccal ..... DEPLGN4 2404
+Perio:ging bleed, lower cuspid: mesial ...... DEPLGN5 2405
+Perio:ging bleed, lower cuspid: buccal ...... DEPLGN6 2406
+Perio:ging bleed, lwr 1bicuspid: mesial ..... DEPLGN7 2407
+Perio:ging bleed, lwr 1bicuspid: buccal ..... DEPLGN8 2408
+Perio:ging bleed, lwr 2bicuspid: mesial ..... DEPLGN9 2409
+Perio:ging bleed, lwr 2bicuspid: buccal ..... DEPLGN10 2410
+Perio:ging bleed, lower 1molar: mesial ...... DEPLGN11 2411
+Perio:ging bleed, lower 1molar: buccal ...... DEPLGN12 2412
+Perio:ging bleed, lower 2molar: mesial ...... DEPLGN13 2413
+Perio:ging bleed, lower 2molar: buccal ...... DEPLGN14 2414
+Perio:calculus, upper cen incisor:mesial .... DEPUCL1 2415
+Perio:calculus, upper cen incisor:buccal .... DEPUCL2 2416
+Perio:calculus, upper lat incisor:mesial .... DEPUCL3 2417
+Perio:calculus, upper lat incisor:buccal .... DEPUCL4 2418
+Perio: calculus, upper cuspid: mesial ....... DEPUCL5 2419
+Perio: calculus, upper cuspid: buccal ....... DEPUCL6 2420
+Perio: calculus, upper 1bicuspid: mesial .... DEPUCL7 2421
+Perio: calculus, upper 1bicuspid: buccal .... DEPUCL8 2422
+Perio: calculus, upper 2bicuspid: mesial .... DEPUCL9 2423
+Perio: calculus, upper 2bicuspid: buccal .... DEPUCL10 2424
+Perio: calculus, upper 1molar: mesial ....... DEPUCL11 2425
+Perio: calculus, upper 1molar: buccal ....... DEPUCL12 2426
+Perio: calculus, upper 2molar: mesial ....... DEPUCL13 2427
+Perio: calculus, upper 2molar: buccal ....... DEPUCL14 2428
+Perio: calculus,lower cen incisor:mesial .... DEPLCL1 2429
+Perio: calculus,lower cen incisor:buccal .... DEPLCL2 2430
+Perio: calculus,lower lat incisor:mesial .... DEPLCL3 2431
+Perio: calculus,lower lat incisor:buccal .... DEPLCL4 2432
+Perio: calculus, lower cuspid: mesial ....... DEPLCL5 2433
+Perio: calculus, lower cuspid: buccal ....... DEPLCL6 2434
+Perio: calculus, lower 1bicuspid: mesial .... DEPLCL7 2435
+Perio: calculus, lower 1bicuspid: buccal .... DEPLCL8 2436
+Perio: calculus, lower 2bicuspid: mesial .... DEPLCL9 2437
+Perio: calculus, lower 2bicuspid: buccal .... DEPLCL10 2438
+Perio: calculus, lower 1molar: mesial ....... DEPLCL11 2439
+Perio: calculus, lower 1molar: buccal ....... DEPLCL12 2440
+Perio: calculus, lower 2molar: mesial ....... DEPLCL13 2441
+Perio: calculus, lower 2molar: buccal ....... DEPLCL14 2442
+Perio:FGM/CEJ, upr cen incisor:mesial-mm .... DEPUMCJ1 2443-2444
+Perio:pocket,upper cen incisor:mesial-mm .... DEPUMPC1 2445-2446
+Perio:FGM/CEJ, upr cen incisor:buccal-mm .... DEPUBCJ1 2447-2448
+Perio:pocket, upr cen incisor: buccal-mm .... DEPUBPC1 2449-2450
+Perio:FGM/CEJ, upr lat incisor:mesial-mm .... DEPUMCJ2 2451-2452
+Perio: pocket, upr lat incisor:mesial-mm .... DEPUMPC2 2453-2454
+Perio:FGM/CEJ, upr lat incisor:buccal-mm .... DEPUBCJ2 2455-2456
+Perio: pocket, upr lat incisor buccal-mm .... DEPUBPC2 2457-2458
+Perio: FGM/CEJ, upper cuspid mesial-mm ...... DEPUMCJ3 2459-2461
+Perio: pocket, upper cuspid: mesial-mm ...... DEPUMPC3 2462-2463
+Perio: FGM/CEJ, upper cuspid: buccal-mm ..... DEPUBCJ3 2464-2466
+Perio: pocket, upper cuspid: buccal-mm ...... DEPUBPC3 2467-2468
+Perio FGM/CEJ, upr 1bicuspid mesial-mm ...... DEPUMCJ4 2469-2470
+Perio: pocket, upr 1bicuspid: mesial-mm ..... DEPUMPC4 2471-2472
+Perio: FGM/CMJ, upr 1bicuspid: buccal-mm .... DEPUBCJ4 2473-2474
+Perio: pocket, upr 1bicuspid: buccal-mm ..... DEPUBPC4 2475-2476
+Perio: FGM/CEJ, upr 2bicuspid:mesial-mm ..... DEPUMCJ5 2477-2478
+Perio: pocket, upr 2bicuspid: mesial-mm ..... DEPUMPC5 2479-2480
+Perio: FGM/CEJ, upr 2bicuspid: buccal-mm .... DEPUBCJ5 2481-2482
+Perio: pocket, upr 2bicuspid: buccal-mm ..... DEPUBPC5 2483-2484
+Perio: FGM/CEJ, upper 1molar: mesial-mm ..... DEPUMCJ6 2485-2487
+Perio: pocket, upper 1molar: mesial-mm ...... DEPUMPC6 2488-2489
+Perio: FGM/CEJ, upper 1molar: buccal-mm ..... DEPUBCJ6 2490-2492
+Perio: pocket, upper 1molar: buccal-mm ...... DEPUBPC6 2493-2494
+Perio: FGM/CEJ, upper 2molar: mesial-mm ..... DEPUMCJ7 2495-2497
+Perio:pocket, upper 2molar: mesial-mm ....... DEPUMPC7 2498-2499
+Perio: FGM/CEJ, upper 2molar: buccal-mm ..... DEPUBCJ7 2500-2502
+Perio: pocket, upper 2molar: buccal-mm ...... DEPUBPC7 2503-2504
+Perio:FGM/CEJ, lwr cen incisor:mesial-mm .... DEPLMCJ1 2505-2506
+Perio:pocket,lower cen incisor:mesial-mm .... DEPLMPC1 2507-2508
+Perio:FGM/CEJ, lwr cen incisor:buccal-mm .... DEPLBCJ1 2509-2511
+Perio:pocket,lower cen incisor:buccal-mm .... DEPLBPC1 2512-2513
+Perio:FGM/CEJ, lwr lat incisor:mesial-mm .... DEPLMCJ2 2514-2515
+Perio:pocket,lower lat incisor:mesial-mm .... DEPLMPC2 2516-2517
+Perio: FGM/CEJ lwr lat incisor:buccal-mm .... DEPLBCJ2 2518-2520
+Perio:pocket,lower lat incisor:buccal-mm .... DEPLBPC2 2521-2522
+Perio: FGM/CEJ, lower cuspid: mesial-mm ..... DEPLMCJ3 2523-2525
+Perio: pocket, lower cuspid: mesial-mm ...... DEPLMPC3 2526-2527
+Perio: FGM/CEJ, lower cuspid: buccal-mm ..... DEPLBCJ3 2528-2530
+Perio: pocket, lower cuspid: buccal-mm ...... DEPLBPC3 2531-2532
+Perio:FGM/CEJ,lower 1bicuspid:mesial-mm ..... DEPLMCJ4 2533-2535
+Perio:pocket,lower 1bicuspid: mesial-mm ..... DEPLMPC4 2536-2537
+Perio:FGM/CEJ,lower 1bicuspid: buccal-mm .... DEPLBCJ4 2538-2540
+Perio:pocket, lower 1bicuspid: buccal-mm .... DEPLBPC4 2541-2542
+Perio:FGM/CEJ,lower 2bicuspid: mesial-mm .... DEPLMCJ5 2543-2544
+Perio:pocket, lower 2bicuspid: mesial-mm .... DEPLMPC5 2545-2546
+Perio:FGM/CEJ,lower 2bicuspid: buccal-mm .... DEPLBCJ5 2547-2548
+Perio:pocket,lower 2bicuspid: buccal-mm ..... DEPLBPC5 2549-2550
+Perio: FGM/CEJ, lower 1molar: mesial-mm ..... DEPLMCJ6 2551-2553
+Perio: pocket, lower 1molar: mesial-mm ...... DEPLMPC6 2554-2555
+Perio: FGM/CEJ, lower 1molar: buccal-mm ..... DEPLBCJ6 2556-2558
+Perio: pocket, lower 1molar: buccal-mm ...... DEPLBPC6 2559-2560
+Perio: FGM/CEJ, lower 2molar: mesial-mm ..... DEPLMCJ7 2561-2563
+Perio: pocket, lower 2molar: mesial-mm ...... DEPLMPC7 2564-2565
+Perio: FGM/CEJ, lower 2molar: buccal-mm ..... DEPLBCJ7 2566-2568
+Perio: pocket, lower 2molar: buccal-mm ...... DEPLBPC7 2569-2570
+Perio:loss-attac, upr cen inci:mesial-mm .... DEPUMLA1 2571-2572
+Perio:loss-attac, upr cen inci:buccal-mm .... DEPUBLA1 2573-2574
+Perio:loss-attac, upr lat inci:mesial-mm .... DEPUMLA2 2575-2576
+Perio:loss-attac, upr lat inci:buccal-mm .... DEPUBLA2 2577-2578
+Perio: loss-attac, upr cuspid: mesial-mm .... DEPUMLA3 2579-2580
+Perio: loss-attac, upr cuspid: buccal-mm .... DEPUBLA3 2581-2582
+Perio:loss-attac,upr 1bicuspid:mesial-mm .... DEPUMLA4 2583-2584
+Perio:loss-attac,upr 1bicuspid:buccal-mm .... DEPUBLA4 2585-2586
+Perio:loss-attac,upr 2bicuspid:mesial-mm .... DEPUMLA5 2587-2588
+Perio:loss-attac,upr 2bicuspid:buccal-mm .... DEPUBLA5 2589-2590
+Perio: loss-attac, upr 1molar mesial-mm ..... DEPUMLA6 2591-2592
+Perio: loss-attac, upr 1molar: buccal-mm .... DEPUBLA6 2593-2594
+Perio: loss-attac, upr 2molar:mesial-mm ..... DEPUMLA7 2595-2596
+Perio: loss-attac, upr 1molar: buccal-mm .... DEPUBLA7 2597-2598
+Perio: loss-attac,lwr cen inci:mesial-mm .... DEPLMLA1 2599-2600
+Perio: loss-attac,lwr cen inci:buccal-mm .... DEPLBLA1 2601-2602
+Perio: loss-attac,lwr lat inci:mesial-mm .... DEPLMLA2 2603-2604
+Perio: loss-attac,lwr lat inci:buccal-mm .... DEPLBLA2 2605-2606
+Perio: loss-attac, lwr cuspid: mesial-mm .... DEPLMLA3 2607-2608
+Perio: loss-attac, lwr cuspid: buccal-mm .... DEPLBLA3 2609-2610
+Perio:loss-attac,lwr 1bicuspid:mesial-mm .... DEPLMLA4 2611-2612
+Perio:loss-attac,lwr 1bicuspid:buccal-mm .... DEPLBLA4 2613-2614
+Perio:loss-attac,lwr 2bicuspid:mesial-mm .... DEPLMLA5 2615-2616
+Perio:loss-attac,lwr 2bicuspid:buccal-mm .... DEPLBLA5 2617-2618
+Perio: loss attac, lwr 1molar: mesial-mm .... DEPLMLA6 2619-2620
+Perio: loss-attac, lwr 1molar: buccal-mm .... DEPLBLA6 2621-2622
+Perio: loss-attac, lwr 2molar: mesial-mm .... DEPLMLA7 2623-2624
+Perio: loss-attac, lwr 1molar: buccal-mm .... DEPLBLA7 2625-2626
+Perio:furcations, upper 2bicuspid:mesial .... DEPUB2MF 2627
+Perio:furcations, upper 2bicuspid:distal .... DEPUB2DF 2628
+Perio:furcations, upper 1molar: mesial ...... DEPUM1MF 2629
+Perio:furcations, upper 1molar: buccal ...... DEPUM1BF 2630
+Perio:furcations, upper 1molar: distal ...... DEPUM1DF 2631
+Perio:furcations, upper 2molar: mesial ...... DEPUM2MF 2632
+Perio:furcations, upper 2molar: buccal ...... DEPUM2BF 2633
+Perio: furcations, upper 2molar: distal ..... DEPUM2DF 2634
+Perio: furcations, lower 1molar: lingual .... DEPLM1LF 2635
+Perio: furcations, lower 1molar: buccal ..... DEPLM1BF 2636
+Perio: furcations, lower 2molar: lingual .... DEPLM2LF 2637
+Perio: furcations, lower 2molar: buccal ..... DEPLM2BF 2638
+ORAL SOFT TISSUE LESIONS
+Oral soft tissue: number of lesions ......... DEPNUMLS 2639
+Soft tissue lesion 1: location .............. DEPSTLC1 2640-2645
+Soft tissue lesion 1: clinical diagnosis .... DEPSTDX1 2646-2647
+Soft tissue lesion 1: smear required ........ DEPSMRQ1 2648
+Soft tissue lesion 1: smear taken ........... DEPSMTK1 2649
+Soft tissue lesion 1: yeast result .......... DEPYEAS1 2650
+Soft tissue lesion 1: hyphae result ......... DEPHYPH1 2651
+Soft tissue lesion 1: clin. descrpt. req .... DEPCDRQ1 2652
+Soft tissue lesion 1: extent ................ DEPSTXT1 2653-2654
+Soft tissue lesion 1: length-mm ............. DEPSTLN1 2655-2656
+Soft tissue lesion 1: width-mm .............. DEPSTWD1 2657-2658
+Soft tissue lesion 1: height-mm ............. DEPSTHT1 2659-2660
+Soft tissue lesion 1: surface morphology .... DEPSTMF1 2661-2662
+Soft tissue lesion 1: color ................. DEPSTCL1 2663-2665
+Soft tissue lesion 1: consistency ........... DEPSTCS1 2666-2667
+Soft tissue lesion 1: pain .................. DEPSTPN1 2668-2669
+Soft tissue lesion 1: duration .............. DEPSTPD1 2670-2671
+Soft tissue lesion 1: prior history ......... DEPSTHS1 2672-2673
+Soft tissue lesion 2: location .............. DEPSTLC2 2674-2679
+Soft tissue lesion 2: clinical diagnosis .... DEPSTDX2 2680-2681
+Soft tissue lesion 2: smear required ........ DEPSMRQ2 2682
+Soft tissue lesion 2: smear taken ........... DEPSMTK2 2683
+Soft tissue lesion 2: yeast result .......... DEPYEAS2 2684
+Soft tissue lesion 2: hyphae result ......... DEPHYPH2 2685
+Soft tissue lesion 2: clin. descrpt. req .... DEPCDRQ2 2686
+Soft tissue lesion 2: extent ................ DEPSTXT2 2687
+Soft tissue lesion 2: length-mm ............. DEPSTLN2 2688-2689
+Soft tissue lesion 2: width-mm .............. DEPSTWD2 2690-2691
+Soft tissue lesion 2: height-mm ............. DEPSTHT2 2692-2693
+Soft tissue lesion 2: surface morphology .... DEPSTMF2 2694
+Soft tissue lesion 2: color ................. DEPSTCL2 2695-2697
+Soft tissue lesion 2: consistency ........... DEPSTCS2 2698
+Soft tissue lesion 2: pain .................. DEPSTPN2 2699
+Soft tissue lesion 2: duration .............. DEPSTPD2 2700
+Soft tissue lesion 2: prior history ......... DEPSTHS2 2701
+Soft tissue lesion 3: location .............. DEPSTLC3 2702-2707
+Soft tissue lesion 3: clinical diagnosis .... DEPSTDX3 2708-2709
+Soft tissue lesion 3: smear required ........ DEPSMRQ3 2710
+Soft tissue lesion 3: smear taken ........... DEPSMTK3 2711
+Soft tissue lesion 3: yeast result .......... DEPYEAS3 2712
+Soft tissue lesion 3: hyphae result ......... DEPHYPH3 2713
+Soft tissue lesion 3: clin. descrpt. req .... DEPCDRQ3 2714
+Soft tissue lesion 3: extent ................ DEPSTXT3 2715
+Soft tissue lesion 3: length-mm ............. DEPSTLN3 2716-2717
+Soft tissue lesion 3: width-mm .............. DEPSTWD3 2718-2719
+Soft tissue lesion 3: height-mm ............. DEPSTHT3 2720-2721
+Soft tissue lesion 3: surface morphology .... DEPSTMF3 2722
+Soft tissue lesion 3: color ................. DEPSTCL3 2723-2725
+Soft tissue lesion 3: consistency ........... DEPSTCS3 2726
+Soft tissue lesion 3: pain .................. DEPSTPN3 2727
+Soft tissue lesion 3: duration .............. DEPSTPD3 2728
+Soft tissue lesion 3: prior history ......... DEPSTHS3 2729
+Soft tissue lesion 4: location .............. DEPSTLC4 2730-2732
+Soft tissue lesion 4: clinical diagnosis .... DEPSTDX4 2733-2734
+Soft tissue lesion 4: smear required ........ DEPSMRQ4 2735
+Soft tissue lesion 4: smear taken ........... DEPSMTK4 2736
+Soft tissue lesion 4: yeast result .......... DEPYEAS4 2737
+Soft tissue lesion 4: hyphae result ......... DEPHYPH4 2738
+Soft tissue lesion 4: clin. descrpt. req .... DEPCDRQ4 2739
+Soft tissue lesion 4: extent ................ DEPSTXT4 2740
+Soft tissue lesion 4: length-mm ............. DEPSTLN4 2741
+Soft tissue lesion 4: width-mm .............. DEPSTWD4 2742
+Soft tissue lesion 4: height-mm ............. DEPSTHT4 2743
+Soft tissue lesion 4: surface morphology .... DEPSTMF4 2744
+Soft tissue lesion 4: color ................. DEPSTCL4 2745
+Soft tissue lesion 4: consistency ........... DEPSTCS4 2746
+Soft tissue lesion 4: pain .................. DEPSTPN4 2747
+Soft tissue lesion 4: duration .............. DEPSTPD4 2748
+Soft tissue lesion 4: prior history ......... DEPSTHS4 2749
+Soft tissue lesion 5: location .............. DEPSTLC5 2750-2751
+Soft tissue lesion 5: clinical diagnosis .... DEPSTDX5 2752-2753
+Soft tissue lesion 5: smear required ........ DEPSMRQ5 2754
+Soft tissue lesion 5: smear taken ........... DEPSMTK5 2755
+Soft tissue lesion 5: yeast result .......... DEPYEAS5 2756
+Soft tissue lesion 5: hyphae result ......... DEPHYPH5 2757
+Soft tissue lesion 5: clin. descrpt. req .... DEPCDRQ5 2758
+Soft tissue lesion 5: extent ................ DEPSTXT5 2759
+Soft tissue lesion 5: length-mm ............. DEPSTLN5 2760
+Soft tissue lesion 5: width-mm .............. DEPSTWD5 2761
+Soft tissue lesion 5: height-mm ............. DEPSTHT5 2762
+Soft tissue lesion 5: surface morphology .... DEPSTMF5 2763
+Soft tissue lesion 5: color ................. DEPSTCL5 2764
+Soft tissue lesion 5: consistency ........... DEPSTCS5 2765
+Soft tissue lesion 5: pain .................. DEPSTPN5 2766
+Soft tissue lesion 5: duration .............. DEPSTPD5 2767
+Soft tissue lesion 5: prior history ......... DEPSTHS5 2768
+Soft tissue lesion 5: other ................. DEPSTOT5 2769
+Soft tissue lesion 6: locations ............. DEPSTLC6 2770-2771
+Soft tissue lesion 6: clinical diagnosis .... DEPSTDX6 2772-2773
+Soft tissue lesion 6: smear required ........ DEPSMRQ6 2774
+Soft tissue lesion 6: smear taken ........... DEPSMTK6 2775
+Soft tissue lesion 6: yeast result .......... DEPYEAS6 2776
+Soft tissue lesion 6: hyphae result ......... DEPHYPH6 2777
+Soft tissue lesion 6: clin. descrpt. req .... DEPCDRQ6 2778
+Soft tissue lesion 6: extent ................ DEPSTXT6 2779
+Soft tissue lesion 6: length-mm ............. DEPSTLN6 2780-2781
+Soft tissue lesion 6: width-mm .............. DEPSTWD6 2782-2783
+Soft tissue lesion 6: height-mm ............. DEPSTHT6 2784
+Soft tissue lesion 6: surface morphology .... DEPSTMF6 2785
+Soft tissue lesion 6: color ................. DEPSTCL6 2786
+Soft tissue lesion 6: consistency ........... DEPSTCS6 2787
+Soft tissue lesion 6: pain .................. DEPSTPN6 2788
+Soft tissue lesion 6: duration .............. DEPSTPD6 2789
+Soft tissue lesion 6: prior history ......... DEPSTHS6 2790
+Soft tissue lesion 6: other ................. DEPSTOT6 2791
+RESTORATIONS AND TOOTH CONDITIONS
+Tooth condition: upper left cen incisor ..... DEPRTC1 2792
+Tooth condition: upper left lat incisor ..... DEPRTC2 2793
+Tooth condition: upper left cuspid .......... DEPRTC3 2794
+Tooth condition: upper left 1bicuspid ....... DEPRTC4 2795
+Tooth condition: upper left 2bicuspid ....... DEPRTC5 2796
+Tooth condition: upper left 1molar .......... DEPRTC6 2797
+Tooth condition: upper left 2molar .......... DEPRTC7 2798
+Tooth condition: upper right cen incisor .... DEPRTC8 2799
+Tooth condition: upper right lat incisor .... DEPRTC9 2800
+Tooth condition: upper right cuspid ......... DEPRTC10 2801
+Tooth condition: upper right 1bicuspid ...... DEPRTC11 2802
+Tooth condition: upper right 2bicuspid ...... DEPRTC12 2803
+Tooth condition: upper right 1molar ......... DEPRTC13 2804
+Tooth condition: upper right 2molar ......... DEPRTC14 2805
+Tooth condition: lower left cen incisor ..... DEPRTC15 2806
+Tooth condition: lower left lat incisor ..... DEPRTC16 2807
+Tooth condition: lower left cuspid .......... DEPRTC17 2808
+Tooth condition: lower left 1bicuspid ....... DEPRTC18 2809
+Tooth condition: lower left 2bicuspid ....... DEPRTC19 2810
+Tooth condition: lower left 1molar .......... DEPRTC20 2811
+Tooth condition: lower left 2molar .......... DEPRTC21 2812
+Tooth condition: lower right cen incisor .... DEPRTC22 2813
+Tooth condition: lower right lat incisor .... DEPRTC23 2814
+Tooth condition: lower right cuspid ......... DEPRTC24 2815
+Tooth condition: lower right 1bicuspid ...... DEPRTC25 2816
+Tooth condition: lower right 2bicuspid ...... DEPRTC26 2817
+Tooth condition: lower right 1molar ......... DEPRTC27 2818
+Tooth condition: lower right 2molar ......... DEPRTC28 2819
+TRAUMA
+Trauma: upper left central incisor .......... DEPUTRA1 2820
+Trauma: upper left lateral incisor .......... DEPUTRA2 2821
+Trauma: upper right central incisor ......... DEPUTRA3 2822
+Trauma: upper right lateral incisor ......... DEPUTRA4 2823
+Trauma: lower left central incisor .......... DEPLTRA1 2824
+Trauma: lower left lateral incisor .......... DEPLTRA2 2825
+Trauma: lower right central incisor ......... DEPLTRA3 2826
+Trauma: lower right lateral incisor ......... DEPLTRA4 2827
+OCCLUSAL CHARACTERISTICS
+Occlusal: upper right canine-lateral-mm ..... DEPUAL1 2828-2829
+Occlusal: upper right lateral-central-mm .... DEPUAL2 2830-2831
+Occlusal: upper right cen-left cen-mm ....... DEPUAL3 2832-2833
+Occlusal: upper left central-left lat-mm .... DEPUAL4 2834-2835
+Occlusal: upper left lat-left canine-mm ..... DEPUAL5 2836-2837
+Occlusal: lower left canine-lft lat-mm ...... DEPLAL1 2838-2839
+Occlusal: lower left lateral-left cen-mm .... DEPLAL2 2840-2841
+Occlusal: lower lft central-right cen-mm .... DEPLAL3 2842-2843
+Occlusal: lower rt central-rt late-mm ....... DEPLAL4 2844-2845
+Occlusal: lower rt latera-rt canine-mm ...... DEPLAL5 2846-2847
+Occlusal: maxillary diastema ................ DEPDIAS 2848
+Occlusal: posterior cross bite .............. DEPXBITE 2849
+Occlusal characteristics: overjet-mm ........ DEPOVJET 2850-2851
+Occlusal characteristics: openbite .......... DEPOPB 2852-2853
+Occlusal characteristics: overbite (mm) ..... DEPOVB 2854-2855
+DENTURE QUESTIONNAIRE
+Do you usually wear your upper denture ...... DEPDQU1 2856
+During past yr, problem w/ upr denture ...... DEPDQU2 2857
+Need a new upper jaw denture or refit ....... DEPDQU3 2858
+How long since had upper natural teeth ...... DEPDQU4 2859
+Do you usually wear your lower denture ...... DEPDQL1 2860
+During past yr, problem w/ lwr denture ...... DEPDQL2 2861
+Need a new lower jaw denture or refit ....... DEPDQL3 2862
+How long since had lower natural teeth ...... DEPDQL4 2863
+PROSTHESIS ASSESSMENT
+Prosthesis assessment: upper type ........... DEPUPTYP 2864
+Prosthesis assessment: upper integrity ...... DEPUPAI 2865
+Prosthesis: upper excessive tooth wear ...... DEPUPAW 2866
+Prosthesis: upper reline/cond/dent mat ...... DEPUPARL 2867
+Prosthesis: upper denture stability ......... DEPUPAS 2868
+Prosthesis: upper denture retention ......... DEPUPART 2869
+Prosthesis assessment: lower type ........... DEPLPTYP 2870
+Prosthesis assessment: lower integrity ...... DEPLPAI 2871
+Prosthesis: lower excessive tooth wear ...... DEPLPAW 2872
+Prosthesis ass: lower reline material ....... DEPLPARL 2873
+Prosthesis: lower denture stability ......... DEPLPAS 2874
+Prosthesis: lower denture retention ......... DEPLPART 2875
+ALLERGY SKIN TEST
+SCREENING QUESTIONS AND GENERAL INFORMATION
+Having problems breathing in chest/lungs .... ALPQ1 2876
+Do you usually have breathing problems ...... ALPQ2 2877
+Breathing problem worse than usual .......... ALPQ3 2878
+Past severe reaction, allergen skin test .... ALPQ4 2879
+Severe eczema or infection on both arms ..... ALPQ5 2880
+TEST RESULTS
+Negative control - which arm ................ ALPNEGAR 2881
+Negative control - flare length (mm) ........ ALPNEGFL 2882-2884
+Negative control - flare width (mm) ......... ALPNEGFW 2885-2887
+Negative control - confluent ................ ALPNEGCN 2888
+Negative control - wheal length (mm) ........ ALPNEGWL 2889-2891
+Negative control - wheal width (mm) ......... ALPNEGWW 2892-2894
+White oak - which arm ....................... ALPWHIAR 2895
+White oak - flare length (mm) ............... ALPWHIFL 2896-2898
+White oak - flare width (mm) ................ ALPWHIFW 2899-2901
+White oak - confluent ....................... ALPWHICN 2902
+White oak - wheal length (mm) ............... ALPWHIWL 2903-2905
+White oak - wheal width (mm) ................ ALPWHIWW 2906-2908
+Cat - which arm ............................. ALPCATAR 2909
+Cat - flare length (mm) ..................... ALPCATFL 2910-2912
+Cat - flare width (mm) ...................... ALPCATFW 2913-2915
+Cat - confluent ............................. ALPCATCN 2916
+Cat - wheal length (mm) ..................... ALPCATWL 2917-2919
+Cat - wheal width (mm) ...................... ALPCATWW 2920-2922
+Mite - which arm ............................ ALPMITAR 2923
+Mite - flare length (mm) .................... ALPMITFL 2924-2926
+Mite - flare width (mm) ..................... ALPMITFW 2927-2929
+Mite - confluent ............................ ALPMITCN 2930
+Mite - wheal length (mm) .................... ALPMITWL 2931-2933
+Mite - wheal width (mm) ..................... ALPMITWW 2934-2936
+Alternaria - which arm ...................... ALPALTAR 2937
+Alternaria - flare length (mm) .............. ALPALTFL 2938-2940
+Alternaria - flare width (mm) ............... ALPALTFW 2941-2943
+Alternaria - confluent ...................... ALPALTCN 2944
+Alternaria - wheal length (mm) .............. ALPALTWL 2945-2947
+Alternaria - wheal width (mm) ............... ALPALTWW 2948-2950
+Rye grass - which arm ....................... ALPRYEAR 2951
+Rye grass - flare length (mm) ............... ALPRYEFL 2952-2954
+Rye grass - flare width (mm) ................ ALPRYEFW 2955-2957
+Rye grass - confluent ....................... ALPRYECN 2958
+Rye grass - wheal length (mm) ............... ALPRYEWL 2959-2961
+Rye grass - wheal width (mm) ................ ALPRYEWW 2962-2964
+Peanut - which arm .......................... ALPPEAAR 2965
+Peanut - flare length (mm) .................. ALPPEAFL 2966-2968
+Peanut - flare width (mm) ................... ALPPEAFW 2969-2971
+Peanut - confluent .......................... ALPPEACN 2972
+Peanut - wheal length (mm) .................. ALPPEAWL 2973-2975
+Peanut - wheal width (mm) ................... ALPPEAWW 2976-2978
+Russian thistle - which arm ................. ALPTHIAR 2979
+Russian thistle - flare length (mm) ......... ALPTHIFL 2980-2982
+Russian thistle - flare width (mm) .......... ALPTHIFW 2983-2985
+Russian thistle - confluent ................. ALPTHICN 2986
+Russian thistle - wheal length (mm) ......... ALPTHIWL 2987-2989
+Russian thistle - wheal width (mm) .......... ALPTHIWW 2990-2992
+German cockroach - which arm ................ ALPCOCAR 2993
+German cockroach - flare length (mm) ........ ALPCOCFL 2994-2996
+German cockroach - flare width (mm) ......... ALPCOCFW 2997-2999
+German cockroach - confluent ................ ALPCOCCN 3000
+German cockroach - wheal length (mm) ........ ALPCOCWL 3001-3003
+German cockroach - wheal width (mm) ......... ALPCOCWW 3004-3006
+Bermuda grass - which arm ................... ALPBERAR 3007
+Bermuda grass - flare length (mm) ........... ALPBERFL 3008-3010
+Bermuda grass - flare width (mm) ............ ALPBERFW 3011-3013
+Bermuda grass - confluent ................... ALPBERCN 3014
+Bermuda grass - wheal length (mm) ........... ALPBERWL 3015-3017
+Bermuda grass - wheal width (mm) ............ ALPBERWW 3018-3020
+Ragweed - which arm ......................... ALPRAGAR 3021
+Ragweed - flare length (mm) ................. ALPRAGFL 3022-3024
+Ragweed - flare width (mm) .................. ALPRAGFW 3025-3027
+Ragweed - confluent ......................... ALPRAGCN 3028
+Ragweed - wheal length (mm) ................. ALPRAGWL 3029-3031
+Ragweed - wheal width (mm) .................. ALPRAGWW 3032-3034
+Positive control - which arm ................ ALPPSCAR 3035
+Positive control - flare length (mm) ........ ALPPSCFL 3036-3038
+Positive control - flare width (mm) ......... ALPPSCFW 3039-3041
+Positive control - confluent ................ ALPPSCCN 3042
+Positive control - wheal length (mm) ........ ALPPSCWL 3043-3045
+Positive control - wheal width (mm) ......... ALPPSCWW 3046-3048
+Examiner number 1 ........................... ALPTECH1 3049-3053
+Examiner number 2 ........................... ALPTECH2 3054-3058
+AUDIOMETRY
+CONDITIONS AFFECTING TEST RESULTS
+Cold or sinus problem within past week ...... AUPA1 3059
+Cold or sinus problem today ................. AUPA2 3060
+Exposed to very loud noise past 24 hrs ...... AUPA3 3061
+How many hours ago did the noise end ........ AUPA4 3062-3063
+Music with headphones in past 24 hours ...... AUPA5 3064
+How many hours ago stop listening ........... AUPA6 3065-3066
+Buzzing/ringing or other noises today ....... AUPA7 3067
+Earache within the past week ................ AUPA8 3068
+Do you have a tube in right or left ear ..... AUPA9 3069
+Drainage/discharge from either ear .......... AUPA10 3070
+Audiometer number ........................... AUPAUDO1 3071-3074
+LEFT EAR TEST RESULTS
+Left ear air hear level,first,1000Hz(dB) .... AUPB1A1 3075-3077
+Left ear air hearing level, 2000 Hz (dB) .... AUPB1A2 3078-3080
+Left ear air hearing level, 3000 Hz (dB) .... AUPB1A3 3081-3083
+Left ear air hearing level, 4000 Hz (dB) .... AUPB1A4 3084-3086
+Left ear air hearing level, 6000 Hz (dB) .... AUPB1A5 3087-3089
+Left ear air hearing level, 8000 Hz (dB) .... AUPB1A6 3090-3092
+Left ear air hear lvl, repeat,1000Hz(dB) .... AUPB1A7 3093-3095
+Left ear air hearing level, 500 Hz (dB) ..... AUPB1A8 3096-3098
+RIGHT EAR TEST RESULTS
+Right ear air hear level,first,1000Hz(dB .... AUPB2A1 3099-3101
+Right ear air hearing level, 2000 Hz(dB) .... AUPB2A2 3102-3104
+Right ear air hearing level, 3000 Hz(dB) .... AUPB2A3 3105-3107
+Right ear air hearing level, 4000 Hz(dB) .... AUPB2A4 3108-3110
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+Right ear air hearing level, 6000 Hz(dB) .... AUPB2A5 3111-3113
+Right ear air hearing level, 8000 Hz(dB) .... AUPB2A6 3114-3116
+Right ear air hear lvl,repeat,1000Hz(dB) .... AUPB2A7 3117-3119
+Right ear air hearing level, 500 Hz (dB) .... AUPB2A8 3120-3122
+RETEST RESULTS WITH MASKING
+Audiometer number for retest ................ AUPAUDO2 3123-3126
+LEFT EAR RETEST RESULTS
+Left ear hear lvl,first,retest,1000Hz(dB .... AUPB1C1 3127-3129
+Left ear air hear level,retest,2000Hz(dB .... AUPB1C2 3130-3132
+Left ear air hear level,retest,3000Hz(dB .... AUPB1C3 3133-3135
+Left ear air hear level,retest,4000Hz(dB .... AUPB1C4 3136-3138
+Left ear air hear level,retest,6000Hz(dB .... AUPB1C5 3139-3141
+Left ear air hear level,retest,8000Hz(dB .... AUPB1C6 3142-3144
+Lt ear hear lvl,repeat,retest,1000Hz(dB) .... AUPB1C7 3145-3147
+Left ear air hear level,retest,500Hz(dB) .... AUPB1C8 3148-3150
+RIGHT EAR RETEST RESULTS
+Rt ear hear level,first,retest,1000Hz(dB .... AUPB2C1 3151-3153
+Right ear air hear lvl,retest,2000Hz(dB) .... AUPB2C2 3154-3156
+Right ear air hear lvl,retest,3000Hz(dB) .... AUPB2C3 3157-3159
+Right ear air hear lvl,retest,4000Hz(dB) .... AUPB2C4 3160-3162
+Right ear air hear lvl,retest,6000Hz(dB) .... AUPB2C5 3163-3165
+Right ear air hear lvl,retest,8000Hz(dB) .... AUPB2C6 3166-3168
+Rt ear hear lvl,repeat,retest,1000Hz(dB) .... AUPB2C7 3169-3171
+Right ear air hear level,retest,500Hz(dB .... AUPB2C8 3172-3174
+GENERAL INFORMATION
+Examiner number ............................. AUPTECH 3175-3179
+TYMPANOMETRY
+SUMMARY MEASURES
+Compliance (base-peak diff) left ear(ml) .... TYPCMPLL 3180-3182
+NHANES III Examination Data File Index
+Variable
+Description Name Positions
+ Compliance(base-peak diff) right ear(ml) .... TYPCMPLR 3183-3185
+Pressure at peak, left ear (daPa) ........... TYPPRSPL 3186-3189
+Pressure at peak, right ear (daPa) .......... TYPPRSPR 3190-3193
+Canal volume, left ear (ml) ................. TYPVOLL 3194-3196
+Canal volume, right ear (ml) ................ TYPVOLR 3197-3199
+Reflex, left ear (dB) ....................... TYPRFXL 3200-3202
+Reflex, right ear (dB) ...................... TYPRFXR 3203-3205
+TYMPANOGRAM DATA POINTS: LEFT EAR
+Equiv volume at -400 daPa, left ear (ml) .... TYPC000L 3206-3210
+Equiv volume at -395 daPa, left ear (ml) .... TYPC001L 3211-3215
+Equiv volume at -390 daPa, left ear (ml) .... TYPC002L 3216-3220
+Equiv volume at -385 daPa, left ear (ml) .... TYPC003L 3221-3225
+Equiv volume at -380 daPa, left ear (ml) .... TYPC004L 3226-3230
+Equiv volume at -375 daPa, left ear (ml) .... TYPC005L 3231-3235
+Equiv volume at -370 daPa, left ear (ml) .... TYPC006L 3236-3240
+Equiv volume at -365 daPa, left ear (ml) .... TYPC007L 3241-3245
+Equiv volume at -360 daPa, left ear (ml) .... TYPC008L 3246-3250
+Equiv volume at -355 daPa, left ear (ml) .... TYPC009L 3251-3255
+Equiv volume at -350 daPa, left ear (ml) .... TYPC010L 3256-3260
+Equiv volume at -345 daPa, left ear (ml) .... TYPC011L 3261-3265
+Equiv volume at -340 daPa, left ear (ml) .... TYPC012L 3266-3270
+Equiv volume at -335 daPa, left ear (ml) .... TYPC013L 3271-3275
+Equiv volume at -330 daPa, left ear (ml) .... TYPC014L 3276-3280
+Equiv volume at -325 daPa, left ear (ml) .... TYPC015L 3281-3285
+Equiv volume at -320 daPa, left ear (ml) .... TYPC016L 3286-3290
+Equiv volume at -315 daPa, left ear (ml) .... TYPC017L 3291-3295
+Equiv volume at -310 daPa, left ear (ml) .... TYPC018L 3296-3300
+Equiv volume at -305 daPa, left ear (ml) .... TYPC019L 3301-3305
+Equiv volume at -300 daPa, left ear (ml) .... TYPC020L 3306-3310
+Equiv volume at -295 daPa, left ear (ml) .... TYPC021L 3311-3315
+Equiv volume at -290 daPa, left ear (ml) .... TYPC022L 3316-3320
+Equiv volume at -285 daPa, left ear (ml) .... TYPC023L 3321-3325
+Equiv volume at -280 daPa, left ear (ml) .... TYPC024L 3326-3330
+Equiv volume at -275 daPa, left ear (ml) .... TYPC025L 3331-3335
+Equiv volume at -270 daPa, left ear (ml) .... TYPC026L 3336-3340
+Equiv volume at -265 daPa, left ear (ml) .... TYPC027L 3341-3345
+Equiv volume at -260 daPa, left ear (ml) .... TYPC028L 3346-3350
+Equiv volume at -255 daPa, left ear (ml) .... TYPC029L 3351-3355
+Equiv volume at -250 daPa, left ear (ml) .... TYPC030L 3356-3360
+Equiv volume at -245 daPa, left ear (ml) .... TYPC031L 3361-3365
+Equiv volume at -240 daPa, left ear (ml) .... TYPC032L 3366-3370
+Equiv volume at -235 daPa, left ear (ml) .... TYPC033L 3371-3375
+Equiv volume at -230 daPa, left ear (ml) .... TYPC034L 3376-3380
+Equiv volume at -225 daPa, left ear (ml) .... TYPC035L 3381-3385
+Equiv volume at -220 daPa, left ear (ml) .... TYPC036L 3386-3390
+Equiv volume at -215 daPa, left ear (ml) .... TYPC037L 3391-3395
+Equiv volume at -210 daPa, left ear (ml) .... TYPC038L 3396-3400
+Equiv volume at -205 daPa, left ear (ml) .... TYPC039L 3401-3405
+Equiv volume at -200 daPa, left ear (ml) .... TYPC040L 3406-3410
+Equiv volume at -195 daPa, left ear (ml) .... TYPC041L 3411-3415
+Equiv volume at -190 daPa, left ear (ml) .... TYPC042L 3416-3420
+Equiv volume at -185 daPa, left ear (ml) .... TYPC043L 3421-3425
+Equiv volume at -180 daPa, left ear (ml) .... TYPC044L 3426-3430
+Equiv volume at -175 daPa, left ear (ml) .... TYPC045L 3431-3435
+Equiv volume at -170 daPa, left ear (ml) .... TYPC046L 3436-3440
+Equiv volume at -165 daPa, left ear (ml) .... TYPC047L 3441-3445
+Equiv volume at -160 daPa, left ear (ml) .... TYPC048L 3446-3450
+Equiv volume at -155 daPa, left ear (ml) .... TYPC049L 3451-3455
+Equiv volume at -150 daPa, left ear (ml) .... TYPC050L 3456-3460
+Equiv volume at -145 daPa, left ear (ml) .... TYPC051L 3461-3465
+Equiv volume at -140 daPa, left ear (ml) .... TYPC052L 3466-3470
+Equiv volume at -135 daPa, left ear (ml) .... TYPC053L 3471-3475
+Equiv volume at -130 daPa, left ear (ml) .... TYPC054L 3476-3480
+Equiv volume at -125 daPa, left ear (ml) .... TYPC055L 3481-3485
+Equiv volume at -120 daPa, left ear (ml) .... TYPC056L 3486-3490
+Equiv volume at -115 daPa, left ear (ml) .... TYPC057L 3491-3495
+Equiv volume at -110 daPa, left ear (ml) .... TYPC058L 3496-3500
+Equiv volume at -105 daPa, left ear (ml) .... TYPC059L 3501-3505
+Equiv volume at -100 daPa, left ear (ml) .... TYPC060L 3506-3510
+Equiv volume at -95 daPa, left ear (ml) .... TYPC061L 3511-3515
+Equiv volume at -90 daPa, left ear (ml) .... TYPC062L 3516-3520
+Equiv volume at -85 daPa, left ear (ml) .... TYPC063L 3521-3525
+Equiv volume at -80 daPa, left ear (ml) .... TYPC064L 3526-3530
+Equiv volume at -75 daPa, left ear (ml) .... TYPC065L 3531-3535
+Equiv volume at -70 daPa, left ear (ml) .... TYPC066L 3536-3540
+Equiv volume at -65 daPa, left ear (ml) .... TYPC067L 3541-3545
+Equiv volume at -60 daPa, left ear (ml) .... TYPC068L 3546-3550
+Equiv volume at -55 daPa, left ear (ml) .... TYPC069L 3551-3555
+Equiv volume at -50 daPa, left ear (ml) .... TYPC070L 3556-3560
+Equiv volume at -45 daPa, left ear (ml) .... TYPC071L 3561-3565
+Equiv volume at -40 daPa, left ear (ml) .... TYPC072L 3566-3570
+Equiv volume at -35 daPa, left ear (ml) .... TYPC073L 3571-3575
+Equiv volume at -30 daPa, left ear (ml) .... TYPC074L 3576-3580
+Equiv volume at -25 daPa, left ear (ml) .... TYPC075L 3581-3585
+Equiv volume at -20 daPa, left ear (ml) .... TYPC076L 3586-3590
+Equiv volume at -15 daPa, left ear (ml) .... TYPC077L 3591-3595
+Equiv volume at -10 daPa, left ear (ml) .... TYPC078L 3596-3600
+Equiv volume at -5 daPa, left ear (ml) .... TYPC079L 3601-3605
+Equiv volume at 0 daPa, left ear (ml) .... TYPC080L 3606-3610
+Equiv volume at 5 daPa, left ear (ml) .... TYPC081L 3611-3615
+Equiv volume at 10 daPa, left ear (ml) .... TYPC082L 3616-3620
+Equiv volume at 15 daPa, left ear (ml) .... TYPC083L 3621-3625
+Equiv volume at 20 daPa, left ear (ml) .... TYPC084L 3626-3630
+Equiv volume at 25 daPa, left ear (ml) .... TYPC085L 3631-3635
+Equiv volume at 30 daPa, left ear (ml) .... TYPC086L 3636-3640
+Equiv volume at 35 daPa, left ear (ml) .... TYPC087L 3641-3645
+Equiv volume at 40 daPa, left ear (ml) .... TYPC088L 3646-3650
+Equiv volume at 45 daPa, left ear (ml) .... TYPC089L 3651-3655
+Equiv volume at 50 daPa, left ear (ml) .... TYPC090L 3656-3660
+Equiv volume at 55 daPa, left ear (ml) .... TYPC091L 3661-3665
+Equiv volume at 60 daPa, left ear (ml) .... TYPC092L 3666-3670
+Equiv volume at 65 daPa, left ear (ml) .... TYPC093L 3671-3675
+Equiv volume at 70 daPa, left ear (ml) .... TYPC094L 3676-3680
+Equiv volume at 75 daPa, left ear (ml) .... TYPC095L 3681-3685
+Equiv volume at 80 daPa, left ear (ml) .... TYPC096L 3686-3690
+Equiv volume at 85 daPa, left ear (ml) .... TYPC097L 3691-3695
+Equiv volume at 90 daPa, left ear (ml) .... TYPC098L 3696-3700
+Equiv volume at 95 daPa, left ear (ml) .... TYPC099L 3701-3705
+Equiv volume at 100 daPa, left ear (ml) .... TYPC100L 3706-3710
+Equiv volume at 105 daPa, left ear (ml) .... TYPC101L 3711-3715
+Equiv volume at 110 daPa, left ear (ml) .... TYPC102L 3716-3720
+Equiv volume at 115 daPa, left ear (ml) .... TYPC103L 3721-3725
+Equiv volume at 120 daPa, left ear (ml) .... TYPC104L 3726-3730
+Equiv volume at 125 daPa, left ear (ml) .... TYPC105L 3731-3735
+Equiv volume at 130 daPa, left ear (ml) .... TYPC106L 3736-3740
+Equiv volume at 135 daPa, left ear (ml) .... TYPC107L 3741-3745
+Equiv volume at 140 daPa, left ear (ml) .... TYPC108L 3746-3750
+Equiv volume at 145 daPa, left ear (ml) .... TYPC109L 3751-3755
+Equiv volume at 150 daPa, left ear (ml) .... TYPC110L 3756-3760
+Equiv volume at 155 daPa, left ear (ml) .... TYPC111L 3761-3765
+Equiv volume at 160 daPa, left ear (ml) .... TYPC112L 3766-3770
+Equiv volume at 165 daPa, left ear (ml) .... TYPC113L 3771-3775
+Equiv volume at 170 daPa, left ear (ml) .... TYPC114L 3776-3780
+Equiv volume at 175 daPa, left ear (ml) .... TYPC115L 3781-3785
+Equiv volume at 180 daPa, left ear (ml) .... TYPC116L 3786-3790
+Equiv volume at 185 daPa, left ear (ml) .... TYPC117L 3791-3795
+Equiv volume at 190 daPa, left ear (ml) .... TYPC118L 3796-3800
+Equiv volume at 195 daPa, left ear (ml) .... TYPC119L 3801-3805
+Equiv volume at 200 daPa, left ear (ml) .... TYPC120L 3806-3810
+Equiv volume at -400 daPa, right ear(ml) .... TYPC000R 3811-3815
+Equiv volume at -395 daPa, right ear(ml) .... TYPC001R 3816-3820
+Equiv volume at -390 daPa, right ear(ml) .... TYPC002R 3821-3825
+Equiv volume at -385 daPa, right ear(ml) .... TYPC003R 3826-3830
+Equiv volume at -380 daPa, right ear(ml) .... TYPC004R 3831-3835
+Equiv volume at -375 daPa, right ear(ml) .... TYPC005R 3836-3840
+Equiv volume at -370 daPa, right ear(ml) .... TYPC006R 3841-3845
+Equiv volume at -365 daPa, right ear(ml) .... TYPC007R 3846-3850
+Equiv volume at -360 daPa, right ear(ml) .... TYPC008R 3851-3855
+Equiv volume at -355 daPa, right ear(ml) .... TYPC009R 3856-3860
+Equiv volume at -350 daPa, right ear(ml) .... TYPC010R 3861-3865
+Equiv volume at -345 daPa, right ear(ml) .... TYPC011R 3866-3870
+Equiv volume at -340 daPa, right ear(ml) .... TYPC012R 3871-3875
+Equiv volume at -335 daPa, right ear(ml) .... TYPC013R 3876-3880
+Equiv volume at -330 daPa, right ear(ml) .... TYPC014R 3881-3885
+Equiv volume at -325 daPa, right ear(ml) .... TYPC015R 3886-3890
+Equiv volume at -320 daPa, right ear(ml) .... TYPC016R 3891-3895
+Equiv volume at -315 daPa, right ear(ml) .... TYPC017R 3896-3900
+Equiv volume at -310 daPa, right ear(ml) .... TYPC018R 3901-3905
+Equiv volume at -305 daPa, right ear(ml) .... TYPC019R 3906-3910
+Equiv volume at -300 daPa, right ear(ml) .... TYPC020R 3911-3915
+Equiv volume at -295 daPa, right ear(ml) .... TYPC021R 3916-3920
+Equiv volume at -290 daPa, right ear(ml) .... TYPC022R 3921-3925
+Equiv volume at -285 daPa, right ear(ml) .... TYPC023R 3926-3930
+Equiv volume at -280 daPa, right ear(ml) .... TYPC024R 3931-3935
+Equiv volume at -275 daPa, right ear(ml) .... TYPC025R 3936-3940
+Equiv volume at -270 daPa, right ear(ml) .... TYPC026R 3941-3945
+Equiv volume at -265 daPa, right ear(ml) .... TYPC027R 3946-3950
+Equiv volume at -260 daPa, right ear(ml) .... TYPC028R 3951-3955
+Equiv volume at -255 daPa, right ear(ml) .... TYPC029R 3956-3960
+Equiv volume at -250 daPa, right ear(ml) .... TYPC030R 3961-3965
+Equiv volume at -245 daPa, right ear(ml) .... TYPC031R 3966-3970
+Equiv volume at -240 daPa, right ear(ml) .... TYPC032R 3971-3975
+Equiv volume at -235 daPa, right ear(ml) .... TYPC033R 3976-3980
+Equiv volume at -230 daPa, right ear(ml) .... TYPC034R 3981-3985
+Equiv volume at -225 daPa, right ear(ml) .... TYPC035R 3986-3990
+Equiv volume at -220 daPa, right ear(ml) .... TYPC036R 3991-3995
+Equiv volume at -215 daPa, right ear(ml) .... TYPC037R 3996-4000
+Equiv volume at -210 daPa, right ear(ml) .... TYPC038R 4001-4005
+Equiv volume at -205 daPa, right ear(ml) .... TYPC039R 4006-4010
+Equiv volume at -200 daPa, right ear(ml) .... TYPC040R 4011-4015
+Equiv volume at -195 daPa, right ear(ml) .... TYPC041R 4016-4020
+Equiv volume at -190 daPa, right ear(ml) .... TYPC042R 4021-4025
+Equiv volume at -185 daPa, right ear(ml) .... TYPC043R 4026-4030
+Equiv volume at -180 daPa, right ear(ml) .... TYPC044R 4031-4035
+Equiv volume at -175 daPa, right ear(ml) .... TYPC045R 4036-4040
+Equiv volume at -170 daPa, right ear(ml) .... TYPC046R 4041-4045
+Equiv volume at -165 daPa, right ear(ml) .... TYPC047R 4046-4050
+Equiv volume at -160 daPa, right ear(ml) .... TYPC048R 4051-4055
+Equiv volume at -155 daPa, right ear(ml) .... TYPC049R 4056-4060
+Equiv volume at -150 daPa, right ear(ml) .... TYPC050R 4061-4065
+Equiv volume at -145 daPa, right ear(ml) .... TYPC051R 4066-4070
+Equiv volume at -140 daPa, right ear(ml) .... TYPC052R 4071-4075
+Equiv volume at -135 daPa, right ear(ml) .... TYPC053R 4076-4080
+Equiv volume at -130 daPa, right ear(ml) .... TYPC054R 4081-4085
+Equiv volume at -125 daPa, right ear(ml) .... TYPC055R 4086-4090
+Equiv volume at -120 daPa, right ear(ml) .... TYPC056R 4091-4095
+Equiv volume at -115 daPa, right ear(ml) .... TYPC057R 4096-4100
+Equiv volume at -110 daPa, right ear(ml) .... TYPC058R 4101-4105
+Equiv volume at -105 daPa, right ear(ml) .... TYPC059R 4106-4110
+Equiv volume at -100 daPa, right ear(ml) .... TYPC060R 4111-4115
+Equiv volume at -95 daPa, right ear (ml) .... TYPC061R 4116-4120
+Equiv volume at -90 daPa, right ear (ml) .... TYPC062R 4121-4125
+Equiv volume at -85 daPa, right ear (ml) .... TYPC063R 4126-4130
+Equiv volume at -80 daPa, right ear (ml) .... TYPC064R 4131-4135
+Equiv volume at -75 daPa, right ear (ml) .... TYPC065R 4136-4140
+Equiv volume at -70 daPa, right ear (ml) .... TYPC066R 4141-4145
+Equiv volume at -65 daPa, right ear (ml) .... TYPC067R 4146-4150
+Equiv volume at -60 daPa, right ear (ml) .... TYPC068R 4151-4155
+Equiv volume at -55 daPa, right ear (ml) .... TYPC069R 4156-4160
+Equiv volume at -50 daPa, right ear (ml) .... TYPC070R 4161-4165
+Equiv volume at -45 daPa, right ear (ml) .... TYPC071R 4166-4170
+Equiv volume at -40 daPa, right ear (ml) .... TYPC072R 4171-4175
+Equiv volume at -35 daPa, right ear (ml) .... TYPC073R 4176-4180
+Equiv volume at -30 daPa, right ear (ml) .... TYPC074R 4181-4185
+Equiv volume at -25 daPa, right ear (ml) .... TYPC075R 4186-4190
+Equiv volume at -20 daPa, right ear (ml) .... TYPC076R 4191-4195
+Equiv volume at -15 daPa, right ear (ml) .... TYPC077R 4196-4200
+Equiv volume at -10 daPa, right ear (ml) .... TYPC078R 4201-4205
+Equiv volume at -5 daPa, right ear (ml) .... TYPC079R 4206-4210
+Equiv volume at 0 daPa, right ear (ml) .... TYPC080R 4211-4215
+Equiv volume at 5 daPa, right ear (ml) .... TYPC081R 4216-4220
+Equiv volume at 10 daPa, right ear (ml) .... TYPC082R 4221-4225
+Equiv volume at 15 daPa, right ear (ml) .... TYPC083R 4226-4230
+Equiv volume at 20 daPa, right ear (ml) .... TYPC084R 4231-4235
+Equiv volume at 25 daPa, right ear (ml) .... TYPC085R 4236-4240
+Equiv volume at 30 daPa, right ear (ml) .... TYPC086R 4241-4245
+Equiv volume at 35 daPa, right ear (ml) .... TYPC087R 4246-4250
+Equiv volume at 40 daPa, right ear (ml) .... TYPC088R 4251-4255
+Equiv volume at 45 daPa, right ear (ml) .... TYPC089R 4256-4260
+Equiv volume at 50 daPa, right ear (ml) .... TYPC090R 4261-4265
+Equiv volume at 55 daPa, right ear (ml) .... TYPC091R 4266-4270
+Equiv volume at 60 daPa, right ear (ml) .... TYPC092R 4271-4275
+Equiv volume at 65 daPa, right ear (ml) .... TYPC093R 4276-4280
+Equiv volume at 70 daPa, right ear (ml) .... TYPC094R 4281-4285
+Equiv volume at 75 daPa, right ear (ml) .... TYPC095R 4286-4290
+Equiv volume at 80 daPa, right ear (ml) .... TYPC096R 4291-4295
+Equiv volume at 85 daPa, right ear (ml) .... TYPC097R 4296-4300
+Equiv volume at 90 daPa, right ear (ml) .... TYPC098R 4301-4305
+Equiv volume at 95 daPa, right ear (ml) .... TYPC099R 4306-4310
+Equiv volume at 100 daPa, right ear (ml) .... TYPC100R 4311-4315
+Equiv volume at 105 daPa, right ear (ml) .... TYPC101R 4316-4320
+Equiv volume at 110 daPa, right ear (ml) .... TYPC102R 4321-4325
+Equiv volume at 115 daPa, right ear (ml) .... TYPC103R 4326-4330
+Equiv volume at 120 daPa, right ear (ml) .... TYPC104R 4331-4335
+Equiv volume at 125 daPa, right ear (ml) .... TYPC105R 4336-4340
+Equiv volume at 130 daPa, right ear (ml) .... TYPC106R 4341-4345
+Equiv volume at 135 daPa, right ear (ml) .... TYPC107R 4346-4350
+Equiv volume at 140 daPa, right ear (ml) .... TYPC108R 4351-4355
+Equiv volume at 145 daPa, right ear (ml) .... TYPC109R 4356-4360
+Equiv volume at 150 daPa, right ear (ml) .... TYPC110R 4361-4365
+Equiv volume at 155 daPa, right ear (ml) .... TYPC111R 4366-4370
+Equiv volume at 160 daPa, right ear (ml) .... TYPC112R 4371-4375
+Equiv volume at 165 daPa, right ear (ml) .... TYPC113R 4376-4380
+Equiv volume at 170 daPa, right ear (ml) .... TYPC114R 4381-4385
+Equiv volume at 175 daPa, right ear (ml) .... TYPC115R 4386-4390
+Equiv volume at 180 daPa, right ear (ml) .... TYPC116R 4391-4395
+Equiv volume at 185 daPa, right ear (ml) .... TYPC117R 4396-4400
+Equiv volume at 190 daPa, right ear (ml) .... TYPC118R 4401-4405
+Equiv volume at 195 daPa, right ear (ml) .... TYPC119R 4406-4410
+Equiv volume at 200 daPa, right ear (ml) .... TYPC120R 4411-4415
+Examiner .................................... TYPTECH 4416-4420
+WISC/WRAT COGNITIVE TEST
+RAW/STANDARDIZED/SCALED SCORES
+Math raw score .............................. WWPMRSR 4421-4423
+Reading raw score ........................... WWPRRSR 4424-4426
+Math standardized score ..................... WWPMSSR 4427-4429
+Reading standardized score .................. WWPRSSR 4430-4432
+Math scaled score ........................... WWPMSCSR 4433-4434
+Reading scaled score ........................ WWPRSCSR 4435-4436
+Block design scaled score ................... WWPBSCSR 4437-4438
+Digit span scaled score ..................... WWPDSCSR 4439-4440
+GENERAL INFORMATION
+Language used in exam ....................... WWPLANG 4441
+Examiner number ............................. WWPTECH 4442-4446
+SPIROMETRY
+SCREENING QUESTIONS
+Surgery on chest or abdomen past 3 weeks .... SPPQ1 4447
+Hospitalized for heart problem past 6 wk .... SPPQ2 4448
+Smoked cigarette, eaten, etc in past hr ..... SPPQ3 4449
+Cough, cold or other acute illness .......... SPPQ4 4450
+Respiratory infections past 3 weeks ......... SPPQ5 4451
+HOME EXAMINATION
+Position for home examination ............... HXPEJ6A2 4452
+DATA
+Examiner # - from spirometry data file ...... SPPTECH1 4453-4457
+# forced vital cap(FVC) trials attempted .... SPPTRIAL 4458-4459
+Peak expiratory flow, largest value (ml) .... SPPPEAK 4460-4464
+Forced expiratory vol(FEV),.5 sec,max-ml .... SPPFEV05 4465-4468
+FEV1 at 1.0 seconds, largest value (ml) ..... SPPFEV1 4469-4472
+FEV3 at 3.0 seconds, largest value (ml) ..... SPPFEV3 4473-4477
+FEV6 at 6.0 seconds, largest value (ml) ..... SPPFEV6 4478-4482
+FVC, largest value (ml) ..................... SPPFVC 4483-4487
+Max mid-expiratory flow(ml/sec best crv) .... SPPMMEF 4488-4492
+Spirometer type ............................. SPPTYPE 4493
+Reproducibility code ........................ SPPREPRO 4494
+Review evaluation ........................... SPPRELIA 4495
+Number of acceptable trials ................. SPPMANEU 4496-4497
+Time of day test was conducted (hh:mm) ...... SPPTIME 4498-4502
+Expir time of trial w/ largest FVC (sec) .... SPPEXPIR 4503-4504
+FEF at 75% of FVC (ml) ...................... SPPFEF75 4505-4508
+Spirometer internal temperature(Celsius) .... SPPTEMP 4509-4510
+MEC YOUTH QUESTIONNAIRE (EXCEPT DIS)
+SECTION A. ACTIVITY
+Times per week exercise made you sweat ...... MYPA1 4511-4512
+# teams/exercise programs in past year ...... MYPA2 4513
+Hours of TV watched yesterday ............... MYPA3 4514
+SECTION B. TOBACCO
+Have you smoked at least one cigarette ...... MYPB1 4515
+Age when smoked first cigarette ............. MYPB2 4516-4517
+Have you smoked 100+ cigarettes in life ..... MYPB3 4518
+Age first smoked cigarettes regularly ....... MYPB4 4519-4520
+Do you smoke cigarettes now ................. MYPB5 4521
+Cigarettes smoked per day ................... MYPB6R 4522-4523
+Years smoked reported amount ................ MYPB7R 4524-4525
+Smoked more than # in B6 for 1+ years ....... MYPB8 4526
+Cigarettes smoked/day when smoked most ...... MYPB9S 4527-4528
+Ever quit smoking for 1 year or more ........ MYPB10 4529
+Cigarettes smoked in the past 5 days ........ MYPB11 4530-4532
+Age last smoked cigarettes regularly ........ MYPB12 4533-4534
+Cigarettes usually smoked per day ........... MYPB13S 4535-4537
+Quit smoking due to health problems ... ..... MYPB14 4538
+Ever tried chewing tobacco or snuff ......... MYPB15 4539
+Age first tried chew tobacco or snuff ....... MYPB16 4540-4541
+Used 5+ containers chew tobacco or snuff .... MYPB17 4542
+Age started using chew tobacco/snuff reg .... MYPB18 4543-4544
+Now use chewing tobacco or snuff ............ MYPB19 4545
+Which use now - chewing tobacco or snuff .... MYPB20 4546
+Containers chewing tobacco used per week .... MYPB21AS 4547-4548
+Containers of snuff used per week ........... MYPB21CS 4549-4550
+Place tobacco in side or front of mouth ..... MYPB22A 4551
+Place tobacco in top or bottom of mouth ..... MYPB22B 4552
+Containrs chew tobacco/snuff past 5 days .... MYPB23 4553
+Age last used chew tobacco/snuff reg ........ MYPB24 4554-4555
+Which last used - chewing tobacco/snuff ..... MYPB25 4556
+Quit chew tobacco/snuff due to health... .... MYPB26 4557
+How many pipes smoked in past 5 days ........ MYPB27A 4558
+How many cigars smoked in past 5 days ....... MYPB27B 4559-4560
+Age check item used in skip pattern ......... MYPB28 4561
+Pieces of nicotine gum used past 5 days ..... MYPB29 4562-4563
+SECTION C. REPRODUCTIVE HEALTH
+Age/sex check item used in skip pattern ..... MYPC1A 4564
+Age when menstrual cycles started ........... MYPC2 4565-4566
+How long ago was your last period ........... MYPC3 4567-4568
+Age check item used in skip pattern ......... MYPC4 4569
+Ever taken birth control pills .............. MYPC5 4570
+Age began taking birth control pills ........ MYPC6 4571-4572
+How many months ago stopped BC pills ........ MYPC7S 4573-4574
+How many months took birth control pills .... MYPC8S 4575-4576
+Brand of birth control pills code ........... MYPC9R 4577-4579
+Have you ever been pregnant ................. MYPC10 4580
+How many times have you been pregnant ....... MYPC11 4581
+Total number of live births ................. MYPC12 4582
+Age at first live birth ..................... MYPC13R 4583-4584
+Age at the time of last live birth .......... MYPC14 4585-4586
+Did you breastfeed any of your children ..... MYPC15 4587
+How many children did you breastfeed ........ MYPC16 4588
+Are you now pregnant ........................ MYPC17 4589
+Month of current pregnancy .................. MYPC18 4590-4591
+Have you been pregnant in the past 2 yrs .... MYPC19 4592
+Months since last pregnancy ended ........... MYPC20 4593
+Receive benefits from WIC in last 12 mo ..... MYPC21 4594
+Receiving benefits from WIC now ............. MYPC22 4595
+How many months received WIC benefits ....... MYPC23S 4596-4597
+C12 check item used in skip pattern ......... MYPC24 4598
+Are you now breastfeeding your child ........ MYPC25 4599
+Age/sex/pregnancy check item for skip ....... MYPC26 4600
+Ever had sexual intercourse ................. MYPC27R 4601
+Age at first sexual intercourse ............. MYPC28 4602-4603
+SECTION D. SELECTED CONDITIONS/VITAMIN, MINERAL, AND MEDICINE USAGE
+Treated for anemia within past 3 months ..... MYPD1 4604
+How many colds, flu, etc in past 4 weeks .... MYPD2 4605-4606
+Taken antihistamine in the past 2 days ...... MYPD3 4607
+Taken prescription med in past 24 hrs ....... MYPD4 4608
+Taken vitamins/minerals past 24 hours ....... MYPD5 4609
+SECTION E. DIET
+How often do you eat breakfast .............. MYPE1 4610
+Are you overweight, under, about right ...... MYPE2 4611
+Want to weigh more, less, or stay same ...... MYPE3 4612
+Tried to lose weight in past 12 months ...... MYPE4 4613
+Currently trying to lose weight ............. MYPE5 4614
+Change diet due to health past 12 months .... MYPE6 4615
+Diet change reason - overweight/obesity ..... MYPE7A 4616
+Diet change reason - high blood pressure .... MYPE7B 4617
+Diet change - high blood cholesterol ........ MYPE7C 4618
+Diet change reason - heart disease .......... MYPE7D 4619
+Diet change reason - diabetes ............... MYPE7E 4620
+Diet change reason - allergies .............. MYPE7F 4621
+Diet change reason - ulcer .................. MYPE7G 4622
+Diet change reason - cancer ................. MYPE7H 4623
+Diet change reason - pregnancy .............. MYPE7I 4624
+Diet change reason - health in general ...... MYPE7J 4625
+Diet change reason - other .................. MYPE7K 4626
+SECTION F. ALCOHOL/DRUG USE
+Had at least 12 drinks alcohol in life ...... MYPF1 4627
+Had at least 12 drinks in last 12 months .... MYPF2 4628
+# of days drank alcohol in past 12 mos ...... MYPF3S 4629-4631
+Average drinks per day on drinking day ...... MYPF4 4632-4633
+# of days had 9+ drinks in past 12 mos ...... MYPF5S 4634-4636
+# of days had 5+ drinks in past 12 mos ...... MYPF6S 4637-4639
+Have you ever used marijuana ................ MYPF7 4640
+Number of times used marijuana in life ...... MYPF8 4641
+# of days used marijuana in past month ...... MYPF9 4642-4643
+Have you ever used crack or cocaine ......... MYPF10 4644
+Number times used crack/cocaine in life ..... MYPF11 4645
+Days used crack/cocaine in past month ....... MYPF12 4646
+SECTION H. RESPONDENT
+Check item.Respondent relationship to SP .... MYPH1 4647
+Reason for accepting proxy .................. MYPH2 4648
+Was SP present during interview ............. MYPH3 4649
+Examiner ID ................................. MYPEXMNR 4650-4653
+DIETARY FOOD FREQUENCY (AGES 12-16 YEARS)
+MILK AND MILK PRODUCTS
+Chocolate milk and hot cocoa - times/mo ..... FFP1AS 4654-4656
+Milk to drink or on cereal - times/month .... FFP1BS 4657-4659
+Type of milk used ........................... FFP1D1 4660-4661
+Yogurt and frozen yogurt - times/month ...... FFP1ES 4662-4664
+Ice cream,ice milk,milkshakes - times/mo .... FFP1FS 4665-4667
+Cheese, all types - times/month ............. FFP1GS 4668-4670
+Pizza, calzone, lasagna - times/month ....... FFP1HS 4671-4673
+Cheese dishes - times/month ................. FFP1IS 4674-4676
+MAIN DISHES, MEAT, FISH, CHICKEN, AND EGGS
+Stew or soup with vegetables - times/mo ..... FFP2AS 4677-4679
+Spaghetti/pasta w/ tomato sauce-times/mo .... FFP2BS 4680-4682
+Bacon/sausage/processed meats - times/mo .... FFP2CS 4683-4685
+Liver and other organ meats - times/mo ...... FFP2DS 4686-4688
+Beef - times/month .......................... FFP2ES 4689-4691
+Pork and ham - times/month .................. FFP2FS 4692-4694
+Shrimp, clams, etc - times/mo ............... FFP2GS 4695-4696
+Fish - times/month .......................... FFP2HS 4697-4699
+Chicken and turkey - times/month ............ FFP2IS 4700-4702
+Eggs - times/month .......................... FFP2JS 4703-4705
+FRUIT AND FRUIT JUICES
+Orange juice, etc - times/month ............. FFP3AS 4706-4708
+Other fruit juices - times/momth ............ FFP3BS 4709-4711
+Citrus fruits - times/month ................. FFP3CS 4712-4714
+Melons - times/month ........................ FFP3DS 4715-4717
+Peaches, nectarines, etc - times/month ...... FFP3ES 4718-4720
+Any other fruits - times/month .............. FFP3FS 4721-4723
+VEGETABLES
+Carrots - times/month ....................... FFP4AS 4724-4726
+Broccoli - times/month ...................... FFP4BS 4727-4729
+Brussel sprouts/cauliflower - times/mo ...... FFP4CS 4730-4732
+White potatoes - times/month ................ FFP4DS 4733-4735
+Sweet potatoes, yams, etc - times/month ..... FFP4ES 4736-4737
+Tomatoes - times/month ...................... FFP4FS 4738-4740
+Spinach, greens, etc - times/month .......... FFP4GS 4741-4743
+Tossed salad - times/month .................. FFP4HS 4744-4746
+Cabbage, cole slaw, sauerkraut-times/mo ..... FFP4IS 4747-4749
+Hot red chili peppers - times/month ......... FFP4JS 4750-4752
+Other peppers - times/month ................. FFP4KS 4753-4755
+Any other vegetables - times/month .......... FFP4LS 4756-4758
+BEANS, NUTS, AND GRAIN PRODUCTS
+Beans, lentils, chickpeas - times/month ..... FFP5AS 4759-4761
+Peanuts, peanut butter, etc - times/mo ...... FFP5BS 4762-4764
+Cereals: All-Bran, etc - times/month ........ FFP5CS 4765-4767
+Cereals: Total, etc - times/month ........... FFP5DS 4768-4770
+All other cold cereals - times/month ........ FFP5ES 4771-4773
+Cooked, hot cereals - times/month ........... FFP5FS 4774-4776
+White bread, rolls, etc - times/month ....... FFP5GS 4777-4779
+Dark breads and rolls - times/month ......... FFP5HS 4780-4782
+Corn bread, muffins, tortillas-times/mo ..... FFP5IS 4783-4785
+Flour tortillas - times/month ............... FFP5JS 4786-4788
+Rice - times/month .......................... FFP5KS 4789-4791
+Salted snacks - times/month ................. FFP5LS 4792-4794
+DESSERTS, SWEETS, AND BEVERAGES
+Cakes, cookies, brownies, etc - times/mo .... FFP6AS 4795-4797
+Chocolate candy and fudge - times/month ..... FFP6BS 4798-4800
+Hi-C, Tang, Koolaid, etc - times/month ...... FFP6CS 4801-4803
+Diet colas, diet sodas, etc - times/mo ...... FFP6DS 4804-4806
+Regular colas and sodas - times/month ....... FFP6ES 4807-4809
+Regular coffee - times/month ................ FFP6FS 4810-4812
+Regular tea - times/month ................... FFP6GS 4813-4815
+Beer and lite beer - times/month ............ FFP6HS 4816-4818
+Wine, etc - times/month ..................... FFP6IS 4819-4820
+Hard liquor - times/month ................... FFP6JS 4821-4822
+FATS
+Margarine - times/month ..................... FFP7AS 4823-4825
+Butter - times/month ........................ FFP7BS 4826-4828
+Oil/vinegar, mayonnaise, etc - times/mo ..... FFP7CS 4829-4831
+OTHER FOODS OR BEVERAGES
+1st other food or beverage - specified ...... FFP8AFC 4832-4833
+1st other food or beverage - times/month .... FFP8AS 4834-4836
+2nd other food or beverage - specified ...... FFP8BFC 4837-4838
+2nd other food or beverage - times/month .... FFP8BS 4839
+GENERAL INFORMATION
+Respondent .................................. FFP10 4840
+Examiner number ............................. FFPEXMNR 4841-4844
+DIAGNOSTIC INTERVIEW SCHEDULE (DIS)
+Language of DIS interview ................... MQPDLANG 4845
+Depression data flag ........................ MQPDPFLG 4846
+Mania data flag ............................. MQPMNFLG 4847
+Hard copy flag .............................. MQPHCFLG 4848
+G1 - DIS data flag .......................... MQPG01 4849
+G2 Lifetime depressed mood .................. MQPG02 4850
+G3 2 years depressed mood ................... MQPG03 4851
+G4 Tell doctor about depressed mood ......... MQPG04 4852
+G05 Lost appetite symptom ................... MQPG05L 4853-4854
+G05 Tell doctor ............................. MQPG0501 4855
+G06 Lost weight symptom ..................... MQPG06L 4856-4857
+G06 Tell doctor ............................. MQPG0601 4858
+G07 Gain weight symptom ..................... MQPG07L 4859-4860
+G07 Tell doctor ............................. MQPG0701 4861
+# Pos eating symptom-depression lifetime .... MQPDGP1L 4862
+G08 Trouble sleep symptom ................... MQPG08L 4863-4864
+G08 Tell doctor ............................. MQPG0801 4865
+G09 Sleep too much symptom .................. MQPG09L 4866-4867
+G09 Tell doctor ............................. MQPG0901 4868
+# Pos sleep symptoms-depression lifetime .... MQPDGP2L 4869
+G10 Tired symptom ........................... MQPG10L 4870-4871
+G10 Tell doctor ............................. MQPG1001 4872
+# Pos tired symptoms-depression lifetime .... MQPDGP3L 4873
+G11 Talk/move slowly symptom ................ MQPG11L 4874-4875
+G11 Tell doctor ............................. MQPG1101 4876
+G12 Move a lot symptom ...................... MQPG12L 4877-4878
+G12 Tell doctor ............................. MQPG1201 4879
+# Pos movement sym-depression lifetime ...... MQPDGP4L 4880
+G13 Less sex symptom ........................ MQPG13L 4881-4882
+G13 Tell doctor ............................. MQPG1301 4883
+G13-D Tell other professional ............... MQPG1302 4884
+G13-E Take medication >=1 ................... MQPG1303 4885
+G13-F Interfere alot ........................ MQPG1304 4886
+# Pos sexual symptom-depression lifetime .... MQPDGP5L 4887
+G14 Worthless,sinful or guilty symptom ...... MQPG14L 4888-4889
+# Pos guilt symptoms-depression lifetime .... MQPDGP6L 4890
+G15 Concentrate symptom ..................... MQPG15L 4891-4892
+G15 Tell doctor ............................. MQPG1501 4893
+G16 Thoughts slow symptom ................... MQPG16L 4894-4895
+G16 Tell doctor ............................. MQPG1601 4896
+# Pos think symptoms-depression lifetime .... MQPDGP7L 4897
+G17 Thought alot about death symptom ........ MQPG17L 4898-4899
+G18 Felt like wanted to die symptom ......... MQPG18L 4900-4901
+G19 Thought of commiting suicide symptom .... MQPG19L 4902-4903
+G20 Attempted suicide symptom ............... MQPG20L 4904-4905
+# Pos death symptoms-depression lifetime .... MQPDGP8L 4906
+G21 Check item - ask about dep spells ....... MQPG21 4907
+G22 Feel blue & have problem together ....... MQPG22 4908
+G23 Sure never had problem together ......... MQPG23 4909
+G24 Not feel blue but problem together ...... MQPG24 4910
+G25 Problem together & feeling low .......... MQPG25 4911
+G26 Depression longest spell in weeks ....... MQPG26 4912-4915
+G27 # depressed spells lifetime ............. MQPG27 4916-4918
+G28 Tell doctor about depressed spells ...... MQPG28 4919
+G29 Tell profess about depressed spells ..... MQPG29 4920
+G30 Take med during depressed spells ........ MQPG30 4921
+G31 Depressed spells interfere w/ life ...... MQPG31 4922
+G32 Age of first depressed spell ............ MQPG32 4923-4924
+G33 Depressed spells after death ............ MQPG33 4925
+G34 Depressed spell only due to death ....... MQPG34 4926
+G35 Depressed spell now ..................... MQPG35 4927
+G36 When last depressed spell end ........... MQPG36 4928
+G37 Age last depressed spell end ............ MQPG37 4929-4930
+G38 Check item - ask about worst spell ...... MQPG38 4931
+G39 Age worst depressed spell ............... MQPG39 4932-4933
+G05 Lost appetite worst ..................... MQPG05W 4934
+G06 Lost weight worst ....................... MQPG06W 4935
+G07 Gain weight worst ....................... MQPG07W 4936
+G08 Trouble sleep worst ..................... MQPG08W 4937
+G09 Sleep too much worst .................... MQPG09W 4938
+G10 Tired worst ............................. MQPG10W 4939
+G11 Talk/move slowly worst .................. MQPG11W 4940
+G12 Move a lot worst ........................ MQPG12W 4941
+G13 Less sex worst .......................... MQPG13W 4942
+G14 Worthless,sinful or guilty worst ........ MQPG14W 4943
+G15 Concentrate worst ....................... MQPG15W 4944
+G16 Thoughts slow worst ..................... MQPG16W 4945
+G17 Thought alot about death worst .......... MQPG17W 4946
+G18 Felt like wanted to die worst ........... MQPG18W 4947
+G19 Thought of committing suicide worst ..... MQPG19W 4948
+G20 Attempted suicide worst ................. MQPG20W 4949
+G41 Excited/high symptom .................... MQPG41L 4950-4951
+G42 More active symptom ..................... MQPG42L 4952-4953
+G43 Spending spree symptom .................. MQPG43L 4954-4955
+G44 Strongly sexual symptom ................. MQPG44L 4956-4957
+G45 Talked too fast symptom ................. MQPG45L 4958-4959
+G46 Thoughts raced symptom .................. MQPG46L 4960-4961
+G47 Special gifts symptom ................... MQPG47L 4962-4963
+Example of mania special powers ............. MQPG47EX 4964
+G48 Slept less symptom ...................... MQPG48L 4965-4966
+G49 Easily distracted symptom ............... MQPG49L 4967-4968
+G50 Check item - ask about mania spells ..... MQPG50 4969
+G51 Feel high & have problems together ...... MQPG51 4970
+G52 Sure never had problems together ........ MQPG52 4971
+G53 Not feel high but problems together ..... MQPG53 4972
+G54 Problems together & irritable ........... MQPG54 4973
+G55 Mania longest spell in weeks ............ MQPG55 4974-4977
+G56 # mania spells lifetime ................. MQPG56 4978-4980
+G57 Tell doctor about mania spells .......... MQPG57 4981
+G58 Tell professional about mania spells .... MQPG58 4982
+G59 Take medicine during mania spells ....... MQPG59 4983
+G60 Mania spells interfere w/ life .......... MQPG60 4984
+G61 Age of first mania spell ................ MQPG61 4985-4986
+G62 Mania spell now ......................... MQPG62 4987
+G63 When last mania spell end ............... MQPG63 4988
+G64 Age last mania spell end ................ MQPG64 4989-4990
+G65 Check item - ask about mania spells ..... MQPG65 4991
+G66 Age worst mania spell ................... MQPG66 4992-4993
+G42 More active worst ....................... MQPG42W 4994
+G43 Spending spree worst .................... MQPG43W 4995
+G44 Strongly sexual worst ................... MQPG44W 4996
+G45 Talked too fast worst ................... MQPG45W 4997
+G46 Thoughts raced worst .................... MQPG46W 4998
+G47 Special gifts worst ..................... MQPG47W 4999
+G48 Slept less worst ........................ MQPG48W 5000
+G49 Easily distracted worst ................. MQPG49W 5001
+# Pos eating sym-depression worst period .... MQPDGP1W 5002
+# Pos sleep sym- depression worst period .... MQPDGP2W 5003
+# Pos tired sym-depression worst period ..... MQPDGP3W 5004
+# Pos movement sym-depress worst period ..... MQPDGP4W 5005
+# Pos sexual sym-depression worst period .... MQPDGP5W 5006
+# Pos guilt sym-depression worst period ..... MQPDGP6W 5007
+# Pos think sym-depression worst period ..... MQPDGP7W 5008
+# Pos death sym-depression worst period ..... MQPDGP8W 5009
+Total pos sym depression groups-worst ....... MQPDGPSW 5010-5011
+Dysphoria for depression .................... MQPDYSFR 5012
+Total pos sym depress + dysphoria -worst .... MQPDPSX1 5013-5014
+DSMIII major depression ..................... MQPDEP 5015-5016
+Age 1st depressive symptoms w/depress DX .... MQPFDDP 5017-5018
+Age last depressive symptom w/depress DX .... MQPLDDP 5019-5020
+Total pos sym dep groups +dysphoria-life .... MQPDPSX2 5021-5022
+Pos hyper-act/sex sym-mania worst period .... MQPMNG1W 5023
+Pos speech symptom - mania worst period ..... MQPMNG2W 5024
+Pos racing thoughts sym-mania worst pd ...... MQPMNG3W 5025
+Pos special gifts sym-mania worst period .... MQPMNG4W 5026
+Pos less sleep sym-mania worst period ....... MQPMNG5W 5027
+Pos distractibility sym-mania worst pd ...... MQPMNG6W 5028
+Pos spending symptom-mania worst period ..... MQPMNG7W 5029
+Total pos symptom mania groups-worst ........ MQPMNGSW 5030-5031
+One week euphoric/irritable ................. MQPEUFOR 5032
+Tot pos sym mania groups+euphoric-worst ..... MQPMNSX1 5033-5034
+DSMIII mania ................................ MQPMANIA 5035-5036
+Age first mania symptoms with mania DX ...... MQPFDMN 5037-5038
+Age last mania symptoms with mania DX ....... MQPLDMN 5039-5040
+Tot pos sym mania gps+euphoria-lifetime ..... MQPMNSX2 5041-5042
+DSMIII single episode major depression ...... MQPDEPSE 5043-5044
+Age first dep with single episode dep DX .... MQPFDDSE 5045-5046
+Age last dep with single episode dep DX ..... MQPLDDSE 5047-5048
+DSMIII recurrent major depression ........... MQPDEPRT 5049-5050
+Age first depressive w/ recurrent dep DX .... MQPFDDRT 5051-5052
+Age last depressive w/ recurrent dep DX ..... MQPLDDRT 5053-5054
+>= 2 years depressive mood .................. MQPDYSA 5055
+# Lifetime symptoms for dysthymia ........... MQPDYSD 5056-5057
+DSMIII dysthymia ............................ MQPDYSTH 5058-5059
+DSMIII bipolar with mania DX ................ MQPBIPOL 5060-5061
+Age first bipolar symptoms w/ bipolar DX .... MQPFDBI 5062-5063
+Age last bipolar symptoms w/ bipolar DX ..... MQPLDBI 5064-5065
+DSMIII atypical bipolar ..................... MQPBIPII 5066-5067
+Age first depressive with bipolar II DX ..... MQPFDBII 5068-5069
+Age last depressive with bipolar II DX ...... MQPLDBII 5070-5071
+MEC ADULT QUESTIONNAIRE (EXCEPT DIS)
+SECTION A. TOBACCO
+Cigarettes smoked in the past 5 days ........ MAPA1 5072-5074
+Number of pipes smoked past 5 days .......... MAPA2A 5075-5077
+Number of cigars smoked past 5 days ......... MAPA2B 5078-5079
+Containrs chew tobacco/snuff past 5 days .... MAPA3 5080-5081
+Pieces of nicotine gum in past 5 days ....... MAPA4 5082-5083
+SECTION B. COGNITIVE FUNCTION - PART A
+Age check item used in skip pattern ......... MAPB1 5084
+Three children: 1st story recall ........... MAPB2A 5085
+House on fire: 1st story recall ............ MAPB2B 5086
+Fireman climbed in: 1st story recall ....... MAPB2C 5087
+Children rescued: 1st story recall ......... MAPB2D 5088
+Minor injuries: 1st story recall ........... MAPB2E 5089
+Everyone well: 1st story recall ............ MAPB2F 5090
+SECTION C. SELECTED CONDITIONS/MEDICINE, VITAMIN, AND MINERAL USAGE
+Currently trying to lose weight ............. MAPC1 5091
+Treated for anemia within past 3 months ..... MAPC2 5092
+How many colds, flu, etc in past 4 weeks .... MAPC3 5093-5094
+Times donated blood in past 12 months ....... MAPC4 5095-5096
+How long ago was last blood donation-mos .... MAPC5 5097-5098
+Taken antihistamine in the past 2 days ...... MAPC6 5099
+Taken prescription med in past 24 hrs ....... MAPC7 5100
+Taken vitamins/minerals in past 24 hrs ...... MAPC8 5101
+SECTION D. COGNITIVE FUNCTION - PART B
+Age check item used in skip pattern ......... MAPD1 5102
+Three children: 2nd story recall ........... MAPD2A 5103
+House on fire: 2nd story recall ............ MAPD2B 5104
+Fireman climbed in: 2nd story recall ....... MAPD2C 5105
+Children rescued: 2nd story recall ......... MAPD2D 5106
+Minor injuries: 2nd story recall ........... MAPD2E 5107
+Everyone well: 2nd story recall ............ MAPD2F 5108
+SECTION E. ALCOHOL/DRUG USE
+Had at least 12 drinks alcohol in life ...... MAPE1 5109
+Had at least 12 drinks in last 12 months .... MAPE2 5110
+# of days drank alcohol in past 12 mos ...... MAPE3S 5111-5113
+Number of drinks per day on drinking day .... MAPE4 5114-5116
+# of days had 9+ drinks in past 12 mos ...... MAPE5S 5117-5119
+# of days had 5+ drinks in past 12 mos ...... MAPE6S 5120-5122
+Ever drink 5+ drinks almost every day ....... MAPE7 5123
+Age check item used in skip pattern ......... MAPE8 5124
+Have you ever used marijuana ................ MAPE9 5125
+Number of times used marijuana in life ...... MAPE10 5126
+# of days used marijuana past month ......... MAPE11 5127-5128
+Have you ever used crack or cocaine ......... MAPE12 5129
+Number times used crack/cocaine in life ..... MAPE13 5130
+# days used crack/cocaine in last month ..... MAPE14 5131-5132
+SECTION F. REPRODUCTIVE HEALTH
+Age/sex check item used in skip pattern ..... MAPF1 5133
+Age when menstrual cycles started - yrs ..... MAPF2 5134-5135
+Age category menstrual cycles started ....... MAPF3 5136
+Have you ever been pregnant ................. MAPF4 5137
+How many times have you been pregnant ....... MAPF5 5138-5139
+Total number of live births ................. MAPF6 5140-5141
+Age at first live birth recoded - years ..... MAPF7R 5142-5143
+Age at the time of last live birth - yrs .... MAPF8 5144-5145
+Did you breastfeed any of your children ..... MAPF9 5146
+How many children did you breastfeed ........ MAPF10 5147-5148
+Age check item used in skip pattern ......... MAPF11 5149
+Are you now pregnant ........................ MAPF12 5150
+Pregnancy status recode ..................... MAPF12R 5151
+Month of current pregnancy .................. MAPF13 5152-5153
+Have you been pregnant in the last 2 yrs .... MAPF14 5154
+Months since last pregnancy ended ........... MAPF15 5155
+Receive benefits from WIC in last 12 mos .... MAPF16 5156
+Receiving benefits from WIC now ............. MAPF17 5157
+How many months received WIC benefits ....... MAPF18S 5158-5160
+F6 check item used in skip pattern .......... MAPF19 5161
+Are you now breastfeeding a child ........... MAPF20 5162
+Have you had a period in past 12 months ..... MAPF21 5163
+How long ago was your last period ........... MAPF22 5164-5165
+How old when had last period - years ........ MAPF23 5166-5168
+Age category at last period ................. MAPF24 5169-5170
+Have you had a hysterectomy ................. MAPF25 5171
+How old when you had hysterectomy ........... MAPF26 5172-5174
+Have you had one or both ovaries removed .... MAPF27 5175
+Were both ovaries removed or only one ....... MAPF28 5176
+How old when ovary removed - years .......... MAPF29 5177-5179
+Ever taken birth control pills .............. MAPF30 5180
+Age began taking birth control pills-yrs .... MAPF31 5181-5182
+How many months ago stop taking BC pills .... MAPF32S 5183-5185
+How many months took birth control pills .... MAPF33S 5186-5188
+Brand of birth control pills code ........... MAPF34R 5189-5191
+F30-F32 check item used in skip patterns .... MAPF34CK 5192
+Ever have NORPLANT implant .................. MAPF34A 5193
+Have NORPLANT implant now ................... MAPF34B 5194
+How many months ago NORPLANT implanted ...... MAPF34CS 5195-5196
+F-section check item for skip pattern ....... MAPF35 5197
+Did periods stop due to radiation/chemo ..... MAPF36 5198
+Ever take estrogen by mouth ................. MAPF37 5199
+Age when first took estrogen pills - yrs .... MAPF38 5200-5202
+How many months ago stop estrogen pills ..... MAPF39S 5203-5206
+How many years took estrogen pills .......... MAPF40 5207-5208
+Ever used estrogen cream, supp, inject ...... MAPF41 5209
+Age first used estrogen crm,sup,inj -yrs .... MAPF42 5210-5212
+Months since used estrogen crm,sup,inj ...... MAPF43S 5213-5216
+Years used estrogen cream, supp, inject ..... MAPF44 5217-5218
+Ever used female hormone patches ............ MAPF45 5219
+Age when first used hormone patches -yrs .... MAPF46 5220-5222
+Months since used hormone patches ........... MAPF47S 5223-5225
+How many years used hormone patches ......... MAPF48 5226-5227
+Age check item used in skip pattern ......... MAPF49 5228
+Age at first sexual intercourse - years ..... MAPF50 5229-5230
+How many different sex partners ever ........ MAPF51 5231-5234
+Sex/F51 check item used in skip pattern ..... MAPF52 5235
+Was this partner female or male ............. MAPF53 5236
+How many partners have been female .......... MAPF54R 5237-5240
+How many partners have been male ............ MAPF55 5241-5244
+# of different sex partners in past year .... MAPF56 5245-5247
+Has doctor told you had genital herpes ...... MAPF57 5248
+SECTION H. RESPONDENT
+Check item.Respondent relationship to SP .... MAPH1 5249
+Specify other relationship to SP ............ MAPH1OS 5250-5251
+Reason for accepting proxy .................. MAPH2 5252
+Was SP present during interview ............. MAPH3 5253
+GENERAL INFORMATION
+Instrument used for interview ............... MAPLANG 5254
+Interviewer number .......................... MAPEXMNR 5255-5258
+BONE DENSITOMETRY
+INTRODUCTORY INFORMATION
+Examiner number ............................. BDPTECH 5259-5263
+Exclusion flag .............................. BDPEXFLR 5264
+SCAN RESULTS
+Acceptable or rejected scan ................. BDPSCAN 5265
+Hip side that was scanned ................... BDPSIDE 5266
+Bone area of femur neck region - cm sq ...... BDPFNARE 5267-5270
+Bone mineral content of femur neck - gm ..... BDPFNBMC 5271-5275
+Bone mineral density femur neck-gm/cm sq .... BDPFNBMD 5276-5280
+Bone area of trochanter region - cm sq ...... BDPTRARE 5281-5285
+BMC of trochanter region - gm ............... BDPTRBMC 5286-5290
+BMD of trochanter region - gm/cm sq ......... BDPTRBMD 5291-5295
+Bone area intertrochanter region - cm sq .... BDPINARE 5296-5300
+BMC of intertrochanter region - gm .......... BDPINBMC 5301-5305
+BMD of intertrochanter region - gm/cm sq .... BDPINBMD 5306-5310
+Bone area Ward's triangle region - cm sq .... BDPWTARE 5311-5315
+BMC of Ward's triangle region - gm .......... BDPWTBMC 5316-5320
+BMD of Ward's triangle region - gm/cm sq .... BDPWTBMD 5321-5325
+Bone area of total region - cm sq ........... BDPTOARE 5326-5330
+Bone mineral content of total region -gm .... BDPTOBMC 5331-5335
+Bone minrl density total region-gm/cm sq .... BDPTOBMD 5336-5340
+K value for scan ............................ BDPK 5341-5345
+d0 value for scan ........................... BDPD0 5346-5350
+HOME EXAMINATION, INTERVIEW
+INFANT FOOD FREQUENCY
+Age check item used in skip pattern ......... HXPB1 5351
+Had cereal in past month .................... HXPB2A 5352
+Had fruit in past month ..................... HXPB2B 5353
+Had yellow/orange vegetables in past mo ..... HXPB2C 5354
+Had green vegetables in past month .......... HXPB2D 5355
+Had meat in past month ...................... HXPB2E 5356
+Had egg yolk or egg in past month ........... HXPB2F 5357
+Had combo meat/vegetable dinners past mo .... HXPB2G 5358
+Had yogurt, cheese, etc in past month ....... HXPB2H 5359
+Had bread, rolls, etc in past month ......... HXPB2I 5360
+Had desserts in past month .................. HXPB2J 5361
+Had breastmilk in past month ................ HXPB2K 5362
+Had formula in past month ................... HXPB2L 5363
+Had regular cow's milk in past month ........ HXPB2M 5364
+Had fruit juices in past month .............. HXPB2N 5365
+Had Kool-aid, etc in past month ............. HXPB2O 5366
+COGNITIVE FUNCTION - PART A
+Age check item used in skip pattern ......... HXPD1 5367
+Three children: 1st story recall ............ HXPD2A 5368
+House on fire: 1st story recall ............ HXPD2B 5369
+Fireman climbed in: 1st story recall ........ HXPD2C 5370
+Children rescued: 1st story recall .......... HXPD2D 5371
+Minor injuries: 1st story recall ............ HXPD2E 5372
+Everyone well: 1st story recall ............. HXPD2F 5373
+SELECTED CONDITIONS/MEDICINE, VITAMIN, AND MINERAL USAGE
+Treated for anemia in past 3 months ......... HXPE1 5374
+How many infections in the past 4 weeks ..... HXPE2 5375-5376
+Times donated blood in past 12 months ....... HXPE3 5377-5378
+How long since last blood donation .......... HXPE4 5379-5380
+Currently trying to lose weight ............. HXPE5 5381
+Take antihistamine in past 2 days ........... HXPE6 5382
+Take prescription med in past 24 hours ...... HXPE7 5383
+Take vitamins/minerals in past 24 hours ..... HXPE8 5384
+COGNITIVE FUNCTION TEST - PART B
+Age check item used in skip pattern ......... HXPF1 5385
+Three children: 2nd story recall ............ HXPF2A 5386
+House on fire: 2nd story recall ............. HXPF2B 5387
+Fireman climbed in: 2nd story recall ........ HXPF2C 5388
+Children rescued: 2nd story recall .......... HXPF2D 5389
+Minor injuries: 2nd story recall ............ HXPF2E 5390
+Everyone well: 2nd story recall ............. HXPF2F 5391
+TOBACCO
+How many cigarettes smoked past 5 days ...... HXPG1 5392-5394
+How many pipes smoked in the past 5 days .... HXPG2A 5395-5396
+How many cigars smoked in past 5 days ....... HXPG2B 5397-5398
+Containrs chew tobacco/snuff past 5 days .... HXPG3 5399-5400
+Pieces of nicotine gum used past 5 days ..... HXPG4 5401
+REPRODUCTIVE HEALTH
+Sex check item used in skip pattern ......... HXPH1 5402
+How old when menstrual cycles started ....... HXPH2 5403-5404
+Age category menstrual cycles started ....... HXPH3 5405
+Had period in the past 12 months ............ HXPH4 5406
+How long since last period .................. HXPH5 5407-5408
+Reason for not having period ................ HXPH6 5409-5410
+How old when you had last period ............ HXPH7 5411-5413
+Age category at last period ................. HXPH8 5414-5415
+Have you had a hysterectomy ................. HXPH9 5416
+How old when you had hysterectomy ........... HXPH10 5417-5419
+Have you had one or both ovaries removed .... HXPH11 5420
+Were both ovaries removed or only one ....... HXPH12 5421
+How old when ovary/ovaries were removed ..... HXPH13 5422-5424
+Ever taken birth control pills .............. HXPH14 5425
+Age first took birth control pills .......... HXPH15 5426-5427
+Days since stopped birth control pills ...... HXPH16S 5428-5432
+How many months took birth control pills .... HXPH17S 5433-5435
+Check item used in skip pattern ............. HXPH18 5436
+Ever take estrogen in any form .............. HXPH19 5437
+Age when first took estrogen ................ HXPH20 5438-5440
+How many months ago stopped estrogen ........ HXPH21S 5441-5444
+How many years on estrogen .................. HXPH22 5445-5446
+GENERAL INFORMATION
+Instrument used for interview ............... HXPLANG 5447-5448
+Examiner number ............................. HXPEXMNR 5449-5452
+GALLBLADDER ULTRASONOGRAPHY
+Are there any abdominal surgical scars ...... GUPQ7 5453
+Surgical scar - area 1 ...................... GUPQ8A1 5454
+Surgical scar - area 2 ...................... GUPQ8A2 5455
+Surgical scar - area 3 ...................... GUPQ8A3 5456
+Surgical scar - area 4 ...................... GUPQ8A4 5457
+Surgical scar - area 5 ...................... GUPQ8A5 5458
+Surgical scar - area 6 ...................... GUPQ8A6 5459
+Thickness of gallbladder wall (mm) .......... GUPQ18 5460-5461
+Adjud. finding - largest echo clump (mm) .... GUPQ24R 5462-5463
+Other nonGB findings - renal - recode ....... GUPQ37R 5464
+Other nonGB findings-hepat/liver -recode .... GUPQ38R 5465
+Radiologist notes indicate liver cyst ....... GUPLCSTR 5466
+Other nonGB -liver cysts,size(cm,yrs4-6) .... GUPLCSZE 5467-5469
+Radiologist notes indicate renal cyst ....... GUPRCSTR 5470
+Other nonGB -renal cysts,size(cm,yrs4-6) .... GUPRCSZE 5471-5474
+Radiologist notes indicate hemangioma ....... GUPLHMGR 5475
+Other nonGB -cav hemang, size(cm,yrs4-6) .... GUPCHSZE 5476-5478
+Sonographer - primary finding ............... GUPTDX1R 5479-5480
+Sonographer - secondary finding ............. GUPTDX2R 5481-5482
+Radiologist ID number - first reading ....... GUPR1ID 5483
+Radiologist first reading - finding 1 ....... GUPR1DX1 5484-5485
+Radiologist first reading - finding 2 ....... GUPR1DX2 5486-5487
+Radiologist first reading - confidence ...... GUPR1CNF 5488
+Radiologist first reading - quality ......... GUPR1QLT 5489
+Radiologist ID number - second reading ...... GUPR2ID 5490
+Final adjudicated primary finding ........... GUPFDX1R 5491-5492
+Final adjudicated secondary finding ......... GUPFDX2R 5493-5494
+Other nonGB - GB polyp, size(mm,yrs 4-6) .... GUPGBPSZ 5495-5496
+Technician number ........................... GUPTECH 5497-5501
+CENTRAL NERVOUS SYSTEM FUNCTION EVALUATION
+CONDITIONS AFFECTING TEST RESULTS
+How much sleep did you get last night ....... CNPQ01 5502
+Now feeling energetic, ... exhausted ........ CNPQ02 5503
+Familiarity w/ computers: none,some,alot .... CNPQ03 5504
+# cups caffeine coffee, etc, past 3 hrs ..... CNPQ04 5505
+How many drinks of alcohol in past 3 hrs .... CNPQ05 5506
+Which hand prefer to use for this test ...... CNPQ06 5507
+Simple Reaction Time Test(SRTT) complete .... CNPQ07 5508
+Symbol Digit Substitution Test (SDST) ....... CNPQ08 5509
+Serial Digit Learning Test (SDLT) ........... CNPQ09 5510
+How hard tried to perform computer test ..... CNPQ10 5511
+Language used for test administration ....... CNPLANG 5512
+Room temperature (degrees Fahrenheit) ....... CNPTEMP 5513-5515
+Examiner number ............................. CNPTECH 5516-5520
+SIMPLE REACTION TIME TEST (SRTT)
+LOG: # of trials with preferred hand ........ CNPNBPH 5521
+SRTT: Trial 01 reaction time (msec) ......... CNPRT01 5522-5525
+SRTT: Trial 02 reaction time (msec) ......... CNPRT02 5526-5529
+SRTT: Trial 03 reaction time (msec) ......... CNPRT03 5530-5533
+SRTT: Trial 04 reaction time (msec) ......... CNPRT04 5534-5537
+SRTT: Trial 05 reaction time (msec) ......... CNPRT05 5538-5541
+SRTT: Trial 06 reaction time (msec) ......... CNPRT06 5542-5545
+SRTT: Trial 07 reaction time (msec) ......... CNPRT07 5546-5549
+SRTT: Trial 08 reaction time (msec) ......... CNPRT08 5550-5553
+SRTT: Trial 09 reaction time (msec) ......... CNPRT09 5554-5557
+SRTT: Trial 10 reaction time (msec) ......... CNPRT10 5558-5561
+SRTT: Trial 11 reaction time (msec) ......... CNPRT11 5562-5565
+SRTT: Trial 12 reaction time (msec) ......... CNPRT12 5566-5569
+SRTT: Trial 13 reaction time (msec) ......... CNPRT13 5570-5573
+SRTT: Trial 14 reaction time (msec) ......... CNPRT14 5574-5577
+SRTT: Trial 15 reaction time (msec) ......... CNPRT15 5578-5581
+SRTT: Trial 16 reaction time (msec) ......... CNPRT16 5582-5585
+SRTT: Trial 17 reaction time (msec) ......... CNPRT17 5586-5589
+SRTT: Trial 18 reaction time (msec) ......... CNPRT18 5590-5593
+SRTT: Trial 19 reaction time (msec) ......... CNPRT19 5594-5597
+SRTT: Trial 20 reaction time (msec) ......... CNPRT20 5598-5601
+SRTT: Trial 21 reaction time (msec) ......... CNPRT21 5602-5605
+SRTT: Trial 22 reaction time (msec) ......... CNPRT22 5606-5609
+SRTT: Trial 23 reaction time (msec) ......... CNPRT23 5610-5613
+SRTT: Trial 24 reaction time (msec) ......... CNPRT24 5614-5617
+SRTT: Trial 25 reaction time (msec) ......... CNPRT25 5618-5621
+SRTT: Trial 26 reaction time (msec) ......... CNPRT26 5622-5625
+SRTT: Trial 27 reaction time (msec) ......... CNPRT27 5626-5629
+SRTT: Trial 28 reaction time (msec) ......... CNPRT28 5630-5633
+SRTT: Trial 29 reaction time (msec) ......... CNPRT29 5634-5637
+SRTT: Trial 30 reaction time (msec) ......... CNPRT30 5638-5641
+SRTT: Trial 31 reaction time (msec) ......... CNPRT31 5642-5645
+SRTT: Trial 32 reaction time (msec) ......... CNPRT32 5646-5649
+SRTT: Trial 33 reaction time (msec) ......... CNPRT33 5650-5653
+SRTT: Trial 34 reaction time (msec) ......... CNPRT34 5654-5657
+SRTT: Trial 35 reaction time (msec) ......... CNPRT35 5658-5661
+SRTT: Trial 36 reaction time (msec) ......... CNPRT36 5662-5665
+SRTT: Trial 37 reaction time (msec) ......... CNPRT37 5666-5669
+SRTT: Trial 38 reaction time (msec) ......... CNPRT38 5670-5673
+SRTT: Trial 39 reaction time (msec) ......... CNPRT39 5674-5677
+SRTT: Trial 40 reaction time (msec) ......... CNPRT40 5678-5681
+SRTT: Trial 41 reaction time (msec) ......... CNPRT41 5682-5685
+SRTT: Trial 42 reaction time (msec) ......... CNPRT42 5686-5689
+SRTT: Trial 43 reaction time (msec) ......... CNPRT43 5690-5693
+SRTT: Trial 44 reaction time (msec) ......... CNPRT44 5694-5697
+SRTT: Trial 45 reaction time (msec) ......... CNPRT45 5698-5701
+SRTT: Trial 46 reaction time (msec) ......... CNPRT46 5702-5705
+SRTT: Trial 47 reaction time (msec) ......... CNPRT47 5706-5709
+SRTT: Trial 48 reaction time (msec) ......... CNPRT48 5710-5713
+SRTT: Trial 49 reaction time (msec) ......... CNPRT49 5714-5717
+SRTT: Trial 50 reaction time (msec) ......... CNPRT50 5718-5721
+SRTT summary: Mean reaction time (msec) .... CNPMENRT 5722-5729
+SRTT: Standard deviation, reaction times .... CNPSDRT 5730-5737
+SYMBOL DIGIT SUBSTITUTION TEST (SDST)
+SDST: Number of errors, trial 1 ............. CNP1ERR 5738-5739
+SDST: Latency 1, trial 1 (sec) .............. CNP1LAT1 5740-5744
+SDST: Latency 2, trial 1 (sec) .............. CNP1LAT2 5745-5749
+SDST: Latency 3, trial 1 (sec) .............. CNP1LAT3 5750-5754
+SDST: Latency 4, trial 1 (sec) .............. CNP1LAT4 5755-5759
+SDST: Latency 5, trial 1 (sec) .............. CNP1LAT5 5760-5764
+SDST: Latency 6, trial 1 (sec) .............. CNP1LAT6 5765-5769
+SDST: Latency 7, trial 1 (sec) .............. CNP1LAT7 5770-5774
+SDST: Latency 8, trial 1 (sec) .............. CNP1LAT8 5775-5779
+SDST: Latency 9, trial 1 (sec) .............. CNP1LAT9 5780-5784
+SDST: Total latency, trial 1 (sec) .......... CNP1TOTL 5785-5790
+SDST: # correct, latencies 2-9, trial 1 ..... CNPCORR1 5791-5792
+SDST: Corrected latency, trial 1 (sec) ...... CNPCLAT1 5793-5798
+SDST: Number of errors, trial 2 ............. CNP2ERR 5799-5800
+SDST: Latency 1, trial 2 (sec) .............. CNP2LAT1 5801-5805
+SDST: Latency 2, trial 2 (sec) .............. CNP2LAT2 5806-5810
+SDST: Latency 3, trial 2 (sec) .............. CNP2LAT3 5811-5815
+SDST: Latency 4, trial 2 (sec) .............. CNP2LAT4 5816-5820
+SDST: Latency 5, trial 2 (sec) .............. CNP2LAT5 5821-5825
+SDST: Latency 6, trial 2 (sec) .............. CNP2LAT6 5826-5830
+SDST: Latency 7, trial 2 (sec) .............. CNP2LAT7 5831-5835
+SDST: Latency 8, trial 2 (sec) .............. CNP2LAT8 5836-5840
+SDST: Latency 9, trial 2 (sec) .............. CNP2LAT9 5841-5845
+SDST: Total latency, trial 2 (sec) .......... CNP2TOTL 5846-5851
+SDST: # correct, latencies 2-9, trial 2 ..... CNPCORR2 5852-5853
+SDST: Corrected latency, trial 2 (sec) ...... CNPCLAT2 5854-5859
+SDST: Number of errors, trial 3 ............. CNP3ERR 5860-5861
+SDST: Latency 1, trial 3 (sec) .............. CNP3LAT1 5862-5866
+SDST: Latency 2, trial 3 (sec) .............. CNP3LAT2 5867-5871
+SDST: Latency 3, trial 3 (sec) .............. CNP3LAT3 5872-5876
+SDST: Latency 4, trial 3 (sec) .............. CNP3LAT4 5877-5881
+SDST: Latency 5, trial 3 (sec) .............. CNP3LAT5 5882-5886
+SDST: Latency 6, trial 3 (sec) .............. CNP3LAT6 5887-5891
+SDST: Latency 7, trial 3 (sec) .............. CNP3LAT7 5892-5896
+SDST: Latency 8, trial 3 (sec) .............. CNP3LAT8 5897-5901
+SDST: Latency 9, trial 3 (sec) .............. CNP3LAT9 5902-5906
+SDST: Total latency, trial 3 (sec) .......... CNP3TOTL 5907-5912
+SDST: # correct, latencies 2-9, trial 3 ..... CNPCORR3 5913-5914
+SDST: Corrected latency, trial 3 (sec) ...... CNPCLAT3 5915-5920
+SDST: Number of errors, trial 4 ............. CNP4ERR 5921-5922
+SDST: Latency 1, trial 4 (sec) .............. CNP4LAT1 5923-5927
+SDST: Latency 2, trial 4 (sec) .............. CNP4LAT2 5928-5932
+SDST: Latency 3, trial 4 (sec) .............. CNP4LAT3 5933-5937
+SDST: Latency 4, trial 4 (sec) .............. CNP4LAT4 5938-5942
+SDST: Latency 5, trial 4 (sec) .............. CNP4LAT5 5943-5947
+SDST: Latency 6, trial 4 (sec) .............. CNP4LAT6 5948-5952
+SDST: Latency 7, trial 4 (sec) .............. CNP4LAT7 5953-5957
+SDST: Latency 8, trial 4 (sec) .............. CNP4LAT8 5958-5962
+SDST: Latency 9, trial 4 (sec) .............. CNP4LAT9 5963-5967
+SDST: Total latency, trial 4 (sec) .......... CNP4TOTL 5968-5973
+SDST: # correct, latencies 2-9, trial 4 ..... CNPCORR4 5974-5975
+SDST: Corrected latency, trial 4 (sec) ...... CNPCLAT4 5976-5981
+SDST: Mean, 2 lowest corrected latencies .... CNPCBEST 5982-5986
+SERIAL DIGIT LEARNING TEST (SDLT)
+SDLT: Total 0 trials ........................ CNPT0TRA 5987
+SDLT: Score, trial 1 ........................ CNP1SCOR 5988
+SDLT: Score, trial 2 ........................ CNP2SCOR 5989
+SDLT: Score, trial 3 ........................ CNP3SCOR 5990
+SDLT: Score, trial 4 ........................ CNP4SCOR 5991
+SDLT: Score, trial 5 ........................ CNP5SCOR 5992
+SDLT: Score, trial 6 ........................ CNP6SCOR 5993
+SDLT: Score, trial 7 ........................ CNP7SCOR 5994
+SDLT: Score, trial 8 ........................ CNP8SCOR 5995
+SDLT summary: Trials to criterion ........... CNPTSTOC 5996-5997
+SDLT summary: Total score ................... CNPTTSCR 5998-5999
+FUNDUS PHOTOGRAPHY
+INTRODUCTORY INFORMATION AND CONDITIONS AFFECTING RESULTS
+Photo taken ................................. FPPPHOTO 6000
+Eye color: right eye ........................ FPP1A 6001
+Eye color: left eye ......................... FPP1B 6002
+Pupil size before dilation ... (mm) ......... FPP2 6003-6004
+Pupil size on camera monitor (mm) ........... FPP3 6005-6006
+Elapsed time:dark room/taking photo(min) .... FPP4MIN 6007-6008
+Elapsed time:dark room/taking photo(sec) .... FPP4SEC 6009-6010
+Photographer ................................ FPPPHTG 6011-6015
+Eye ......................................... FPPEYE 6016
+Grader code ................................. FPP1005 6017-6019
+Fundus ...................................... FPP1020 6020-6021
+Focus ....................................... FPP1030 6022-6023
+Field definition ............................ FPP1041 6024-6025
+Horizontal field definition ................. FPP1046 6026-6027
+Vertical field definition ................... FPP1047 6028-6029
+Artifact present ............................ FPP1050 6030-6031
+Type of artifact: haze ...................... FPP1051 6032-6033
+Type of artifact: dust/dirt ................. FPP1052 6034-6035
+Type of artifact: lashes .................... FPP1053 6036-6037
+Type of artifact: arc ....................... FPP1054 6038-6039
+Type artifact:uneven illumination,center .... FPP1055 6040-6041
+Type artifact:uneven illumination, edge ..... FPP1056 6042-6043
+Type of artifact: central dot ............... FPP1057 6044-6045
+Type of artifact: other ..................... FPP1059 6046-6047
+Gradability ................................. FPP1060 6048-6049
+FINDINGS
+Diabetic retinopathy level .................. FPP1070 6050-6052
+Hemorrhages or microaneurysms ............... FPP1080 6053-6054
+Hard exudates ............................... FPP1090 6055-6056
+Soft exudates ............................... FPP1100 6057-6058
+Intraretinal microvascular abnormalities .... FPP1110 6059-6060
+Venous beading .............................. FPP1120 6061-6062
+New vessels in disc ......................... FPP1130 6063-6064
+New vessels elsewhere ....................... FPP1140 6065-6066
+Fibrous proliferation ....................... FPP1150 6067-6068
+Pre-retinal or vitreous hemorrhage .......... FPP1160 6069-6070
+Other abnormalities ......................... FPP1170 6071-6072
+Degeneration, retinal pigment epithelium .... FPP1172 6073-6074
+Central circle RPE degeneration ............. FPP1173 6075-6076
+Geographic atrophy .......................... FPP1174 6077-6078
+Central circle geographic atrophy ........... FPP1175 6079-6080
+Sub-retinal hemorrhage ...................... FPP1176 6081-6082
+Central circle sub-retinal hemorrhage ....... FPP1177 6083-6084
+Sub-retinal fibrous scar .................... FPP1178 6085-6086
+Central circle sub-retinal fibrous scar ..... FPP1179 6087-6088
+Sensory serous (sub-retinal) detachment ..... FPP1180 6089-6090
+Central cir sensory serous subret detach .... FPP1181 6091-6092
+Hyperpigmentation ........................... FPP1182 6093-6094
+Central circle hyperpigmentation ............ FPP1183 6095-6096
+Chorioretinal abnormalities, other .......... FPP1184 6097-6098
+Central cir chorioretinal abnormal,other .... FPP1185 6099-6100
+Peripapillary atrophy ....................... FPP1186 6101-6102
+Branch or central artery occlusion .......... FPP1188 6103-6104
+Central circle branch/artery occlusion ...... FPP1189 6105-6106
+Branch vein occlusion ....................... FPP1190 6107-6108
+Central circle branch vein occlusion ........ FPP1191 6109-6110
+Central vein occlusion ...................... FPP1192 6111-6112
+Central circle central vein occlusion ....... FPP1193 6113-6114
+Significant arterio-venous nicking .......... FPP1194 6115-6116
+Hollenhorst plaque .......................... FPP1196 6117-6118
+Central circle hollenhorst plaque ........... FPP1197 6119-6120
+Asteroid hyalosis ........................... FPP1198 6121-6122
+Central circle asteroid hyalosis ............ FPP1199 6123-6124
+Nevus ....................................... FPP1200 6125-6126
+Central circle nevus ........................ FPP1201 6127-6128
+Surface wrinkling retinopathy ............... FPP1202 6129-6130
+Central circ surf wrinkling retinopathy ..... FPP1203 6131-6132
+Abnormal disc ............................... FPP1204 6133-6134
+Large cup-to-disc ratio ..................... FPP1205 6135-6136
+Histoplasmosis (POHS) ....................... FPP1206 6137-6138
+Central circle histoplasmosis (POHS) ........ FPP1207 6139-6140
+Clinically, macular edema, hard exudates .... FPP1208 6141-6142
+Central cir macular edema, hard exudates .... FPP1209 6143-6144
+Retinal detachment .......................... FPP1210 6145-6146
+Central circle retinal detachment ........... FPP1211 6147-6148
+Photocoagulation treatment in arcades ....... FPP1212 6149-6150
+Photocoagulation treatmt outside arcades .... FPP1214 6151-6152
+Other miscellaneous abnormalities ........... FPP1220 6153-6154
+Other misc central circle abnormalities ..... FPP1221 6155-6156
+Answer drusen questions ..................... FPP1228 6157-6158
+Hard drusen ................................. FPP1230 6159-6160
+Soft drusen ................................. FPP1240 6161-6162
+Drusen area: grid ........................... FPP1250 6163-6164
+Drusen area: outside ........................ FPP1260 6165-6166
+Drusen area: central circle ................. FPP1262 6167-6168
+Drusen area: inner circle ................... FPP1264 6169-6170
+Central circle soft drusen .................. FPP1266 6171-6172
+SUMMARY SCORES
+Summary diabetic retinopathy score .......... FPPSURET 6173-6174
+Summary age-related maculopathy score ....... FPPSUMAC 6175-6176
+Summary drusen score ........................ FPPSUDRU 6177-6178
+PHYSICAL FUNCTION EVALUATION
+GENERAL INFORMATION
+Health status screener ...................... PFPHHS 6179-6180
+SHOULDER EXERCISES
+Right shoulder external rotation ............ PFPRSER 6181
+Left shoulder external rotation ............. PFPLSER 6182
+Right shoulder internal rotation ............ PFPRSIR 6183
+Left shoulder internal rotation ............. PFPLSIR 6184
+KEY IN LOCK TIMED MANEUVER
+Ability to pick up key--first trial ......... PFPUKEY 6185
+Ability to hold key--first trial ............ PFPHKEY 6186
+Time to unlock lock--first trial (sec) ...... PFPTKEY 6187-6190
+Check item--bedbound (home exam only) ....... HXPBED 6191
+SINGLE CHAIR STAND
+In wheelchair (mobile exam center only) ..... PFPWC 6192
+Can get up from chair/wheelchair by self .... PFPUPWC 6193
+Use of arms to scoot forward ................ PFPSCOOT 6194
+Ability to stand ............................ PFPUSTND 6195
+REPEATED CHAIR STAND TIMED MANEUVER
+Time to complete five stands (sec) .......... PFPTSTND 6196-6199
+Number of stands ............................ PFPNSTND 6200-6201
+Chair height--home exam only (in) ........... HXPCHAIR 6202-6205
+HIP AND KNEE EXERCISES
+Right hip and knee flexion .................. PFPRFLEX 6206
+Left hip and knee flexion ................... PFPLFLEX 6207
+TANDEM STAND TIMED MANEUVER
+Ability to stand without holding on ......... PFPSTAND 6208
+Time tandem stand held (sec) ................ PFPTTAND 6209-6212
+MEASURED WALK
+Observed walking without help ............... PFPOWALK 6213
+
+Able to walk alone w/out another person ..... PFPRWALK 6214
+Time to complete 8-ft walk, trial A(sec) .... PFPTWLKA 6215-6218
+Number of steps--trial A .................... PFPNSTPA 6219-6220
+Time to complete 8-ft walk--trial B(sec) .... PFPTWLKB 6221-6224
+Number of steps--trial B .................... PFPNSTPB 6225-6226
+Pain reported on walking .................... PFPPAIN 6227
+Type of device used ......................... PFPDEVIC 6228
+Examiner number ............................. PFPTECH 6229-6233
