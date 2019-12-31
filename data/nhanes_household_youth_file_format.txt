@@ -1,0 +1,867 @@
+Description Name Positions
+HOUSEHOLD SCREENER QUESTIONNAIRE (HSQ)
+GENERAL INFORMATION
+Sequence number ............................. SEQN 1-5
+GENERAL INFORMATION
+Family sequence number ...................... DMPFSEQ 6-10
+Examination/interview status ................ DMPSTAT 11
+Race-ethnicity .............................. DMARETHN 12
+Race ........................................ DMARACER 13
+Ethnicity ................................... DMAETHNR 14
+GENERAL INFORMATION
+Sex ......................................... HSSEX 15
+Date of screener: month ..................... HSDOIMO 16-17
+Age at interview (screener) - qty ........... HSAGEIR 18-19
+Age at interview (screener) - unit .......... HSAGEU 20
+Age in months at interview (screener) ....... HSAITMOR 21-24
+Family size (persons in family) ............. HSFSIZER 25-26
+Household size (persons in dwelling) ........ HSHSIZER 27-28
+GENERAL INFORMATION
+County code ................................. DMPCNTYR 29-31
+FIPS code for State ......................... DMPFIPSR 32-33
+Rural/urban code based on USDA code ......... DMPMETRO 34
+Census region, weighting(Texas in south) .... DMPCREGN 35
+Poverty Income Ratio (unimputed income) ..... DMPPIR 36-41
+SURVEY DESIGN DATA
+GENERAL INFORMATION
+Phase of NHANES III Survey .................. SDPPHASE 42
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+ NHANES III Household Youth Data File Index
+Including demographic, family, and survey weighting data
+Variable
+Description Name Positions
+Total NHANES III pseudo-PSU ................. SDPPSU6 43
+Total NHANES III pseudo-stratum ............. SDPSTRA6 44-45
+Pseudo-PSU for phase 1 ...................... SDPPSU1 46
+Pseudo-stratum for phase 1 .................. SDPSTRA1 47-48
+Pseudo-PSU for phase 2 ...................... SDPPSU2 49
+Pseudo-stratum for phase 2 .................. SDPSTRA2 50-51
+SAMPLING WEIGHTS
+TOTAL NHANES III (1988-94)
+Total interviewed sample final weight ....... WTPFQX6 52-59
+Total MEC examined sample final weight ...... WTPFEX6 60-67
+Total M+H examined sample final weight ...... WTPFHX6 68-75
+Total allergy subsample final weight ........ WTPFALG6 76-83
+Total CNS subsample final weight ............ WTPFCNS6 84
+Total morning subsample final wgt ........... WTPFSD6 85-93
+Total afternoon/eve subsample final wgt ..... WTPFMD6 94-102
+Total M+H morning subsample final wgt ....... WTPFHSD6 103-111
+Total M+H afternoon subsample final wgt ..... WTPFHMD6 112-120
+NHANES III PHASE 1 (1988-91)
+Phase 1 interviewed sample final wgt ........ WTPFQX1 121-129
+Phase 1 MEC examined sample final wgt ....... WTPFEX1 130-138
+Phase 1 M+H examined sample final wgt ....... WTPFHX1 139-147
+Phase 1 allergy subsample final wgt ......... WTPFALG1 148-156
+Phase 1 CNS subsample final wgt ............. WTPFCNS1 157
+Phase 1 morning sess subsample final wgt .... WTPFSD1 158-166
+Phase 1 aft/eve subsample final wgt ......... WTPFMD1 167-175
+Phase 1 morning M+H subsample final wgt ..... WTPFHSD1 176-184
+Phase 1 aft/eve M+H subsample final wgt ..... WTPFHMD1 185-193
+NHANES III PHASE 2 (1991-94)
+Phase 2 interviewed sample final wgt ........ WTPFQX2 194-202
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+ NHANES III Household Youth Data File Index
+Including demographic, family, and survey weighting data
+Variable
+Description Name Positions
+Phase 2 MEC examined sample final wgt ....... WTPFEX2 203-211
+Phase 2 M+H examined sample final wgt ....... WTPFHX2 212-220
+Phase 2 allergy subsample final wgt ......... WTPFALG2 221-229
+Phase 2 CNS subsample final wgt ............. WTPFCNS2 230
+Phase 2 morning sess subsample final wgt .... WTPFSD2 231-239
+Phase 2 aft/eve subsample final wgt ......... WTPFMD2 240-248
+Phase 2 morning M+H subsample final wgt ..... WTPFHSD2 249-257
+Phase 2 aft/eve M+H subsample final wgt ..... WTPFHMD2 258-266
+FAY'S BRR REPLICATE INTERVIEW WEIGHTS
+TOTAL NHANES III (1988-94)
+Replicate 1 final interview weight .......... WTPQRP1 267-274
+Replicate 2 final interview weight .......... WTPQRP2 275-282
+Replicate 3 final interview weight .......... WTPQRP3 283-291
+Replicate 4 final interview weight .......... WTPQRP4 292-299
+Replicate 5 final interview weight .......... WTPQRP5 300-308
+Replicate 6 final interview weight .......... WTPQRP6 309-316
+Replicate 7 final interview weight .......... WTPQRP7 317-325
+Replicate 8 final interview weight .......... WTPQRP8 326-333
+Replicate 9 final interview weight .......... WTPQRP9 334-342
+Replicate 10 final interview weight ......... WTPQRP10 343-351
+Replicate 11 final interview weight ......... WTPQRP11 352-360
+Replicate 12 final interview weight ......... WTPQRP12 361-369
+Replicate 13 final interview weight ......... WTPQRP13 370-378
+Replicate 14 final interview weight ......... WTPQRP14 379-386
+Replicate 15 final interview weight ......... WTPQRP15 387-394
+Replicate 16 final interview weight ......... WTPQRP16 395-403
+Replicate 17 final interview weight ......... WTPQRP17 404-411
+Replicate 18 final interview weight ......... WTPQRP18 412-420
+Replicate 19 final interview weight ......... WTPQRP19 421-428
+Replicate 20 final interview weight ......... WTPQRP20 429-436
+Replicate 21 final interview weight ......... WTPQRP21 437-445
+Replicate 22 final interview weight ......... WTPQRP22 446-454
+Replicate 23 final interview weight ......... WTPQRP23 455-462
+Replicate 24 final interview weight ......... WTPQRP24 463-470
+Replicate 25 final interview weight ......... WTPQRP25 471-478
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+ NHANES III Household Youth Data File Index
+Including demographic, family, and survey weighting data
+Variable
+Description Name Positions
+Replicate 26 final interview weight ......... WTPQRP26 479-486
+Replicate 27 final interview weight ......... WTPQRP27 487-494
+Replicate 28 final interview weight ......... WTPQRP28 495-503
+Replicate 29 final interview weight ......... WTPQRP29 504-512
+Replicate 30 final interview weight ......... WTPQRP30 513-521
+Replicate 31 final interview weight ......... WTPQRP31 522-530
+Replicate 32 final interview weight ......... WTPQRP32 531-538
+Replicate 33 final interview weight ......... WTPQRP33 539-546
+Replicate 34 final interview weight ......... WTPQRP34 547-554
+Replicate 35 final interview weight ......... WTPQRP35 555-562
+Replicate 36 final interview weight ......... WTPQRP36 563-571
+Replicate 37 final interview weight ......... WTPQRP37 572-580
+Replicate 38 final interview weight ......... WTPQRP38 581-589
+Replicate 39 final interview weight ......... WTPQRP39 590-597
+Replicate 40 final interview weight ......... WTPQRP40 598-605
+Replicate 41 final interview weight ......... WTPQRP41 606-614
+Replicate 42 final interview weight ......... WTPQRP42 615-623
+Replicate 43 final interview weight ......... WTPQRP43 624-631
+Replicate 44 final interview weight ......... WTPQRP44 632-639
+Replicate 45 final interview weight ......... WTPQRP45 640-648
+Replicate 46 final interview weight ......... WTPQRP46 649-656
+Replicate 47 final interview weight ......... WTPQRP47 657-665
+Replicate 48 final interview weight ......... WTPQRP48 666-674
+Replicate 49 final interview weight ......... WTPQRP49 675-682
+Replicate 50 final interview weight ......... WTPQRP50 683-691
+Replicate 51 final interview weight ......... WTPQRP51 692-699
+Replicate 52 final interview weight ......... WTPQRP52 700-707
+FAY'S BRR REPLICATE MEC EXAMINATION WEIGHTS
+TOTAL NHANES III (1988-94)
+Replicate 1 final exam weight ............... WTPXRP1 708-715
+Replicate 2 final exam weight ............... WTPXRP2 716-724
+Replicate 3 final exam weight ............... WTPXRP3 725-733
+Replicate 4 final exam weight ............... WTPXRP4 734-742
+Replicate 5 final exam weight ............... WTPXRP5 743-750
+Replicate 6 final exam weight ............... WTPXRP6 751-758
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+ NHANES III Household Youth Data File Index
+Including demographic, family, and survey weighting data
+Variable
+Description Name Positions
+Replicate 7 final exam weight ............... WTPXRP7 759-767
+Replicate 8 final exam weight ............... WTPXRP8 768-775
+Replicate 9 final exam weight ............... WTPXRP9 776-784
+Replicate 10 final exam weight .............. WTPXRP10 785-793
+Replicate 11 final exam weight .............. WTPXRP11 794-802
+Replicate 12 final exam weight .............. WTPXRP12 803-811
+Replicate 13 final exam weight .............. WTPXRP13 812-820
+Replicate 14 final exam weight .............. WTPXRP14 821-828
+Replicate 15 final exam weight .............. WTPXRP15 829-836
+Replicate 16 final exam weight .............. WTPXRP16 837-845
+Replicate 17 final exam weight .............. WTPXRP17 846-853
+Replicate 18 final exam weight .............. WTPXRP18 854-862
+Replicate 19 final exam weight .............. WTPXRP19 863-870
+Replicate 20 final exam weight .............. WTPXRP20 871-878
+Replicate 21 final exam weight .............. WTPXRP21 879-886
+Replicate 22 final exam weight .............. WTPXRP22 887-895
+Replicate 23 final exam weight .............. WTPXRP23 896-904
+Replicate 24 final exam weight .............. WTPXRP24 905-913
+Replicate 25 final exam weight .............. WTPXRP25 914-921
+Replicate 26 final exam weight .............. WTPXRP26 922-929
+Replicate 27 final exam weight .............. WTPXRP27 930-937
+Replicate 28 final exam weight .............. WTPXRP28 938-946
+Replicate 29 final exam weight .............. WTPXRP29 947-955
+Replicate 30 final exam weight .............. WTPXRP30 956-964
+Replicate 31 final exam weight .............. WTPXRP31 965-973
+Replicate 32 final exam weight .............. WTPXRP32 974-981
+Replicate 33 final exam weight .............. WTPXRP33 982-989
+Replicate 34 final exam weight .............. WTPXRP34 990-997
+Replicate 35 final exam weight .............. WTPXRP35 998-1006
+Replicate 36 final exam weight .............. WTPXRP36 1007-1015
+Replicate 37 final exam weight .............. WTPXRP37 1016-1024
+Replicate 38 final exam weight .............. WTPXRP38 1025-1033
+Replicate 39 final exam weight .............. WTPXRP39 1034-1041
+Replicate 40 final exam weight .............. WTPXRP40 1042-1049
+Replicate 41 final exam weight .............. WTPXRP41 1050-1058
+Replicate 42 final exam weight .............. WTPXRP42 1059-1067
+Replicate 43 final exam weight .............. WTPXRP43 1068-1075
+Replicate 44 final exam weight .............. WTPXRP44 1076-1083
+Replicate 45 final exam weight .............. WTPXRP45 1084-1092
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+ NHANES III Household Youth Data File Index
+Including demographic, family, and survey weighting data
+Variable
+Description Name Positions
+Replicate 46 final exam weight .............. WTPXRP46 1093-1100
+Replicate 47 final exam weight .............. WTPXRP47 1101-1109
+Replicate 48 final exam weight .............. WTPXRP48 1110-1118
+Replicate 49 final exam weight .............. WTPXRP49 1119-1126
+Replicate 50 final exam weight .............. WTPXRP50 1127-1134
+Replicate 51 final exam weight .............. WTPXRP51 1135-1143
+Replicate 52 final exam weight .............. WTPXRP52 1144-1151
+HOUSEHOLD YOUTH QUESTIONNAIRE (HYQ)
+GENERAL INFORMATION
+Age in months at youth interview ............ HYAITMO 1152-1155
+MEC EXAMINATION
+GENERAL INFORMATION
+Language used by SP in MEC .................. MXPLANG 1156
+Session for MEC examination ................. MXPSESSR 1157
+Date of MEC exam time in: month ............. MXPTIMO 1158-1159
+Day of week of MEC exam ..................... MXPTIDW 1160
+Age in months at MEC exam ................... MXPAXTMR 1161-1163
+HOME EXAMINATION
+GENERAL INFORMATION
+Session for home examination ................ HXPSESSR 1164
+Date of home exam: month .................... HXPTIMO 1165-1166
+Day of week of home exam .................... HXPTIDW 1167
+Age in months at home exam .................. HXPAXTMR 1168-1169
+HOUSEHOLD FAMILY QUESTIONNAIRE (HFQ)
+GENERAL INFORMATION
+Version of household family quex ............ HFVERS 1170
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+ NHANES III Household Youth Data File Index
+Including demographic, family, and survey weighting data
+Variable
+Description Name Positions
+Family interviewer number ................... HFINTVR 1171-1174
+Language of family interview ................ HFLANG 1175
+SECTION A. INDIVIDUAL CHARACTERISTICS
+State or foreign country of birth ........... HFA6XCR 1176
+Highest grade or yr of school completed ..... HFA8R 1177-1178
+Marital status .............................. HFA12 1179-1180
+Military service ............................ HFA13 1181
+SECTION B. HEALTH INSURANCE AND INCOME ASSISTANCE
+Any SP covered by Medicare in last month .... HFB1 1182
+Covered by Medicare in last month ........... HFB2 1183
+Type of Medicare coverage ................... HFB3 1184
+Covered by Medicare last mo for hospital .... HFB4 1185
+Covered by Medicare last mo for doctor ...... HFB5 1186
+Any SP covered by Medicaid in last month .... HFB6 1187
+Covered by Medicaid in last month ........... HFB7 1188
+Any SP covered by CHAMPUS, etc, last mo ..... HFB8 1189
+Covered by CHAMPUS/VA/military last mo ...... HFB9 1190
+Any SP cov by other health insur last mo .... HFB10 1191
+Covered by other health insur last month .... HFB11 1192
+Any plan cover any hospital expenses ........ HFB11A 1193
+Any plan cover routine doctor's care ........ HFB11B 1194
+Any plan cover dental care (phase 2) ........ HFB11C 1195
+Any plan from employer or union (phase2) .... HFB11D 1196
+Covered plan pays for operations (ph 1) ..... HFB11E 1197
+Refused/limited insur, poor health (ph2) .... HFB12 1198
+Insurance coverage check item ............... HFB13 1199
+No insurance: unemployed or related(ph1) .... HFB14AB 1200
+No insur: poor health, illness, age(ph1) .... HFB14AC 1201
+No insurance: can't afford (phase 1) ........ HFB14AD 1202
+No insur: dissatisfied w/ previous (ph1) .... HFB14AE 1203
+No insurance: don't believe in (phase 1) .... HFB14AF 1204
+No insurance: healthy, no need (phase 1) .... HFB14AG 1205
+No insurance: some other reason(phase 1) .... HFB14AI 1206
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+ NHANES III Household Youth Data File Index
+Including demographic, family, and survey weighting data
+Variable
+Description Name Positions
+No insur: refused for health reason(ph2) .... HFB14BA 1207
+No insur: not employed,can't afford(ph2) .... HFB14BB 1208
+No insur: not employed,not continue(ph2) .... HFB14BC 1209
+No insur: employer does not offer (ph 2) .... HFB14BD 1210
+No insur:emplyr offers,not eligible(ph2) .... HFB14BE 1211
+No insur:emplyr offers,can't afford(ph2) .... HFB14BF 1212
+No insur:no believe/not get/no need(ph2) .... HFB14BG 1213
+No insurance:some other reason (phase 2) .... HFB14BH 1214
+Main reason not covered (phase 1) ........... HFB16A 1215-1216
+Main reason not covered (phase 2) ........... HFB16B 1217-1218
+Insurance that pays any dental (phase 1) .... HFB17 1219
+SECTION C. FAMILY BACKGROUND
+Age 17+ years check item .................... HFC1 1220
+Mother's weight calculated in pounds ........ HFC2S 1221-1223
+Mother's height calculated in inches ........ HFC3S 1224-1226
+Father's weight calculated in pounds ........ HFC4S 1227-1229
+Father's height calculated in inches ........ HFC5S 1230-1232
+Parent high blood pres/stroke before 50 ..... HFC6A 1233
+Which parent, high blood pres/stroke ........ HFC6A1 1234
+Parent heart attack/angina before 50 ........ HFC6B 1235
+Which parent, heart attack/angina ........... HFC6B1 1236
+Parent high blood cholesterol at any age .... HFC6C 1237
+Which parent, high blood cholesterol ........ HFC6C1 1238
+Parent asthma or hay fever at any age ....... HFC6D 1239
+Which parent, asthma or hay fever ........... HFC6D1 1240
+Parent diabetes at any age .................. HFC6E 1241
+Which parent, diabetes ...................... HFC6E1 1242
+How long at address calculated in weeks ..... HFC7S 1243-1246
+How long in city/town/area calc in weeks .... HFC8S 1247-1250
+How many times moved ........................ HFC9 1251-1252
+Country mother born ......................... HFC10 1253
+Country father born ......................... HFC11 1254
+SECTION D. OCCUPATION OF FAMILY REFERENCE PERSON
+Head of family check item ................... HFD1 1255
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+ NHANES III Household Youth Data File Index
+Including demographic, family, and survey weighting data
+Variable
+Description Name Positions
+Work at job during past 2 weeks ............. HFD2 1256
+Had job/business during last 2 weeks ........ HFD3 1257
+Looking for work or on layoff ............... HFD4 1258
+Which, looking for work or on layoff ........ HFD5 1259
+What kind of business or industry ........... HFD9R 1260-1261
+What kind of work was person doing .......... HFD10R 1262-1263
+Class of worker ............................. HFD12 1264-1265
+SECTION E. HOUSING CHARACTERISTICS
+When house/structure originally built ....... HFE1 1266
+How many rooms are in this home ............. HFE2 1267-1268
+How long family lived at address - years .... HFE3 1269-1271
+Is home drinking water bottled or tap ....... HFE4 1272
+What is source of your home tap water ....... HFE5 1273
+Water softening or conditioning system ...... HFE6 1274
+Do any pets live in this home ............... HFE7 1275
+Pet lives here - a dog ...................... HFE8A 1276
+Pet lives here - a cat ...................... HFE8B 1277
+Pet lives here - a bird ..................... HFE8C 1278
+Pet lives here - a fish ..................... HFE8D 1279
+Pet lives here - other pet .................. HFE8E 1280
+Was forced air heat used in past 12 mo ...... HFE9 1281
+Furnace fueled by oil, gas, elect, other .... HFE10 1282
+Was space heater used in past 12 months ..... HFE11 1283
+Space htr fueled by elect, oil,gas,other .... HFE12 1284-1285
+Was wood stove used in past 12 months ....... HFE13 1286
+Was fireplace used in past 12 months ........ HFE14 1287
+Is gas stove or oven used for cooking ....... HFE15 1288
+Is exhaust fan near this stove .............. HFE16 1289
+How often is exhaust fan used ............... HFE17 1290
+Was stove/oven used to heat, past 12 mo ..... HFE18 1291
+SECTION F. FAMILY CHARACTERISTICS
+Anyone living here smoke cigs in home ....... HFF1 1292
+# persons who smoke cigarettes in home ...... HFF2R 1293-1294
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+ NHANES III Household Youth Data File Index
+Including demographic, family, and survey weighting data
+Variable
+Description Name Positions
+Cigarettes per day person 1 smokes .......... HFF3A 1295-1297
+Cigarettes per day person 2 smokes .......... HFF3B 1298-1300
+Cigarettes per day person 3 smokes .......... HFF3C 1301-1303
+Cigarettes per day person 4 smokes .......... HFF3D 1304-1306
+Cigarettes per day person 5 smokes .......... HFF3E 1307-1309
+Cigarettes per day person 6 smokes .......... HFF3F 1310-1312
+Do you have enough food to eat .............. HFF4 1313
+# days had no food/money in past month ...... HFF5 1314-1315
+Reason no food: transportation problems ..... HFF6A 1316
+Reason no food: no working appliances ....... HFF6B 1317
+Reason no food: no money/food stamps/WIC .... HFF6C 1318
+Reason no food: other reason ................ HFF6D 1319
+Cut meal size, no money/food, past month .... HFF7 1320
+Cut child's meal size, no money, past mo .... HFF8 1321
+Any receive benefits from WIC in last mo .... HFF9 1322
+Any receive food stamps in last 12 month .... HFF10 1323
+Any receive food stamps at present time ..... HFF11 1324
+Any receive employment income,last month .... HFF12A 1325
+Receive employment income in last month ..... HFF12B 1326
+Anyone receive SS/RR pay in last month ...... HFF13A 1327
+Receive SS/RR pay in last month ............. HFF13B 1328
+Reason getting SS/RR (phase 1) .............. HFF13DA 1329
+Reason getting SS/RR (phase 2) .............. HFF13DB 1330-1331
+Another reason getting SS (phase 1) ......... HFF13E 1332
+Any receive SSI pay, Federal, last month .... HFF14A 1333
+Receive SSI pay, Federal, in last month ..... HFF14B 1334
+Recv separate SSI,welfare,past 4 mo(ph1) .... HFF14D 1335
+Any receive other pension/disabl,last mo .... HFF15A 1336
+Receive other pension/disability,last mo .... HFF15B 1337
+Any receive public asst/welfare, last mo .... HFF16A 1338
+Receive public assist/welfare, last mo ...... HFF16B 1339
+Anyone receive AFDC/ADC in last month ....... HFF16D 1340
+Receive AFDC/ADC in last month .............. HFF16E 1341
+Anyone receive other income, last month ..... HFF17A 1342
+Receive other income in last month .......... HFF17B 1343
+Total family 12 month income < $20,000 ...... HFF18 1344
+Total family 12 month income group (ph1) .... HFF19R 1345-1346
+Total family income, last mo, group(ph1) .... HFF20R 1347-1348
+DATA FOR FAMILY REFERENCE PERSON
+Family reference person sequence number ..... HFHSEQN 1349-1353
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+ NHANES III Household Youth Data File Index
+Including demographic, family, and survey weighting data
+Variable
+Description Name Positions
+Family reference person age - years ......... HFHAGER 1354-1356
+Family reference person sex ................. HFHSEX 1357
+Family reference person birthplace .......... HFHFIPCR 1358
+Family refer person high grade completed .... HFHEDUCR 1359-1360
+Family refer person employed, past 2 wks .... HFHEMPL 1361
+Family reference person marital status ...... HFHMRST 1362-1363
+Family reference person military service .... HFHMLSV 1364
+DATA FOR RESPONDENT TO FAMILY QUESTIONNAIRE
+Respondent relationship to refer person ..... HFRELR 1365-1366
+Respondent age in years ..................... HFAGERR 1367-1369
+HOUSEHOLD YOUTH QUESTIONNAIRE (HYQ)
+General Information
+Interviewer number .......................... HYINTVR 1370-1373
+Language of interview ....................... HYLANG 1374
+SECTION A. BIRTH
+Check item. Refer to age of SP .............. HYA1 1375
+Age of biological mom when SP was born ...... HYA2 1376-1378
+Did mother smoke while pregnant with SP ..... HYA3 1379
+Did mom quit smoking when pregnant w/SP ..... HYA4 1380
+Month mom stopped smoking when pregnant ..... HYA5 1381-1382
+Did SP receive newborn intensive care... .... HYA6 1383
+How many days of post-natal care ............ HYA6A 1384-1386
+SP weight at birth - grams .................. HYA7S 1387-1394
+Did SP weigh more or less than 5-1/2 lbs .... HYA8 1395
+Did SP weigh more or less than 9 pounds ..... HYA9 1396
+How much did SP weigh at birth (recode) ..... HYA9R 1397
+SECTION B. INFANT FEEDING PRACTICES/DIET
+Check item. Refer to age of SP .............. HYB1 1398
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+ NHANES III Household Youth Data File Index
+Including demographic, family, and survey weighting data
+Variable
+Description Name Positions
+Was SP ever breastfed or fed breastmilk ..... HYB2 1399
+Age first fed formula, juice, etc - days .... HYB3S 1400-1403
+Age when first fed formula daily - days ..... HYB4S 1404-1407
+Age when stopped breastmilk - days .......... HYB5S 1408-1411
+Age when first fed formula daily - days ..... HYB6S 1412-1415
+Age when stopped drinking formula - days .... HYB7S 1416-1419
+Age when first fed milk daily - days ........ HYB8S 1420-1423
+What type of milk was SP first fed daily .... HYB9 1424-1425
+Age start to eat solid food daily - days .... HYB10S 1426-1429
+Has SP ever used a baby bottle .............. HYB11 1430
+Age stopped using baby bottle - months ...... HYB12S 1431-1434
+Check item. Refer to age of SP .............. HYB13 1435
+How often SP eats breakfast:some...never .... HYB14 1436-1437
+Past 12mo,changed eat habits to lose lbs .... HYB15 1438
+Past 12 mo,changed eat habits for health .... HYB16 1439
+Medical reason to change eating: obesity .... HYB17A 1440
+Medical reason to change eating: high BP .... HYB17B 1441
+Med reason to change eating: cholesterol .... HYB17C 1442
+Medical reason to change eating: allergy .... HYB17D 1443
+Medical reason to change eating:diabetes .... HYB17E 1444
+Medical reason to change eating: other ...... HYB17F 1445
+Med reason change eating:formula related .... HYB17I 1446
+Med reason change eat: gastro/intestinal .... HYB17J 1447
+Med reason to change eating: infections ..... HYB17K 1448
+Med reason to change eating: nutrition ...... HYB17L 1449
+How tall/long is SP without shoes-inches .... HYB18S 1450-1452
+How much does SP weigh w/out clothes-lbs .... HYB19S 1453-1455
+SP over/underweight or right weight ......... HYB20 1456
+SECTION C. MOTOR AND SOCIAL DEVELOPMENT
+Check item. Refer to age of SP .............. HYC1 1457
+Check item. Age today - months .............. HYC2 1458
+When on stomach, SP lift head for moment .... HYC3 1459
+When on stomach, turn head side to side ..... HYC4 1460
+Have eyes ever followed a moving object ..... HYC5 1461
+Eyes followed moving object side to side .... HYC6 1462
+When on stomach,SP raised head and chest .... HYC7 1463
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+ NHANES III Household Youth Data File Index
+Including demographic, family, and survey weighting data
+Variable
+Description Name Positions
+Has SP ever turned head around to look ...... HYC8 1464
+On back, SP held head stiff as pulled up .... HYC9 1465
+Ever laughed w/out being tickled,touched .... HYC10 1466
+Ever held moderate size object in 1 hand .... HYC11 1467
+Ever rolled over on own on purpose .......... HYC12 1468
+Ever looked around w/ eyes for lost toy ..... HYC13 1469
+Ever smiled when talked to & not touched .... HYC14 1470
+Ever enjoy looking in mirror at self ........ HYC15 1471
+Ever pick up object w/thumb,first finger .... HYC16 1472
+Ever sat alone with no help/little help ..... HYC17 1473
+Ever said recognizable word, mama, dada ..... HYC18 1474
+Knows object name if somebody names them .... HYC19 1475
+Ever walked 2 steps with one hand held ...... HYC20 1476
+Ever sat 10 minutes without any support ..... HYC21 1477
+Ever crawled when left lying on stomach ..... HYC22 1478
+Ever pulled from sit to stand on own ........ HYC23 1479
+Ever waved goodbye without help ............. HYC24 1480
+Ever pulled self to standing w/out help ..... HYC25 1481
+Stood alone 10+ seconds w/out holding on .... HYC26 1482
+Ever walked 2 steps w/out holding on ........ HYC27 1483
+Ever show want something by pointing,etc .... HYC28 1484
+Ever said the name of a familiar object ..... HYC29 1485
+Ever crawled up at least 2 steps ............ HYC30 1486
+Ever said 2 words besides mama or dada ...... HYC31 1487
+Let one know pants wet without crying ....... HYC32 1488
+Ever walk up 2 steps with one hand held ..... HYC33 1489
+Has SP ever run ............................. HYC34 1490
+Ever made a line with crayon or pencil ...... HYC35 1491
+Ever fed self w/ spoon,fork w/out spill ..... HYC36 1492
+Ever spoke partial sentence of 3+ words ..... HYC37 1493
+Ever said first & last name without help .... HYC38 1494
+Ever walk up stairs without holding rail .... HYC39 1495
+Ever counted 3 objects correctly ............ HYC40 1496
+Walk up stairs, no help, 1 foot per step .... HYC41 1497
+Does SP know own age and sex ................ HYC42 1498
+Ever said the names of at least 4 colors .... HYC43 1499
+Ever pedaled a tricycle at least 40 feet .... HYC44 1500
+Ever done a somersault without help ......... HYC45 1501
+Ever washed, dried hands without help... .... HYC46 1502
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+ NHANES III Household Youth Data File Index
+Including demographic, family, and survey weighting data
+Variable
+Description Name Positions
+Ever dressed self without help ... .......... HYC47 1503
+Has SP ever gone to the toilet alone ........ HYC48 1504
+Has SP ever counted out loud up to 10 ....... HYC49 1505
+Ever draw person w/ 2 parts besides head .... HYC50 1506
+SECTION D. HEALTH SERVICES AND FUNCTIONAL IMPAIRMENT
+Is health in general excellent, ... poor .... HYD1 1507
+Go to particular place for health care ...... HYD2 1508
+Is there one particular doctor SP sees ...... HYD3 1509
+How long since last saw doctor about SP ..... HYD4 1510
+Since born,# times SP stayed in hospital .... HYD5 1511-1512
+Check item. Refer to age of SP .............. HYD6 1513
+Able to take part in SP age activities ...... HYD7 1514
+Limited in activities by health problem ..... HYD8 1515
+Does health problem keep SP from school ..... HYD9 1516
+Attend special school because of health ..... HYD10 1517
+Need special school because of health ....... HYD11 1518
+# months ago health problem noticed ......... HYD12S 1519-1521
+SECTION E. SELECTED CONDITIONS
+Doctor ever say SP had rheumatic fever ...... HYE1A 1522
+Doctor ever say epilepsy/fit/convulsion ..... HYE1B 1523
+Doctor ever say SP had cerebral palsy ....... HYE1C 1524
+Doctor ever say had mental retardation ...... HYE1D 1525
+Doctor say had arm muscle weak/paralysis .... HYE1E 1526
+Doctor say had leg muscle weak/paralysis .... HYE1F 1527
+Doctor ever say SP had asthma ............... HYE1G 1528
+Doctor ever say had chronic bronchitis ...... HYE1H 1529
+Doctor ever say SP had hayfever ............. HYE1I 1530
+Age first had rheumatic fever - months ...... HYE2AS 1531-1533
+Age when first had epilepsy/fit - months .... HYE2BS 1534-1536
+Age first had arm weak/paralysis -months .... HYE2ES 1537-1539
+Age first had leg weak/paralysis -months .... HYE2FS 1540-1542
+Age when first had asthma - months .......... HYE2GS 1543-1545
+Age first had chronic bronchitis -months .... HYE2HS 1546-1548
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+ NHANES III Household Youth Data File Index
+Including demographic, family, and survey weighting data
+Variable
+Description Name Positions
+Age when first had hayfever - months ........ HYE2IS 1549-1551
+Does SP still have rheumatic fever... ....... HYE3A 1552
+SP still have epilepsy/fit/convulsion ....... HYE3B 1553
+Does SP still have arm weak or paralysis .... HYE3E 1554
+Does SP still have leg weak or paralysis .... HYE3F 1555
+Does SP still have asthma ................... HYE3G 1556
+Does SP still have chronic bronchitis ....... HYE3H 1557
+Does SP still have hayfever ................. HYE3I 1558
+Ever treated by doctor for rheumatic ... .... HYE4A 1559
+Ever treated by doctor for epilepsy/fit .... HYE4B 1560
+Ever treated by doctor for asthma ........... HYE4G 1561
+Ever treat by doctor: chronic bronchitis .... HYE4H 1562
+Ever treated by doctor for hayfever ......... HYE4I 1563
+Check item. Refer to age of SP .............. HYE5 1564
+Doctor ever say hypertension/HBP - qty ...... HYE6A 1565
+Doc ever say high blood cholesterol-unit .... HYE6B 1566
+Age first had hypertension/HBP - months ..... HYE7AS 1567-1569
+Age first had high blood cholesterol -mo .... HYE7BS 1570-1572
+Does SP still have hypertension/high BP ..... HYE8A 1573
+Still have high blood cholesterol ........... HYE8B 1574
+Doctor ever treat hypertension/high BP ...... HYE9A 1575
+Doctor ever treat high blood cholesterol .... HYE9B 1576
+SP ever see psychologist...about problem .... HYE10 1577
+Past 12 mo, taken RX drugs for behavior ..... HYE11 1578
+Past 12 mo, had headache: never...always .... HYE12 1579
+Past 12 mo, stomach ache: never...always .... HYE13 1580
+Any speech defect: stutter,stammer,lisp ..... HYE14 1581
+Ever had anemia (tired or low blood) ........ HYE15 1582
+Ever been tested for lead poisoning ......... HYE16 1583
+How long ago SP tested for lead - months .... HYE17S 1584-1586
+Did result indicate lead high/poisoning ..... HYE18 1587
+Ever treated in hospital for lead poison .... HYE19 1588
+How long ago SP treated for lead -months .... HYE20S 1589-1591
+Is immunization record available to see ..... HYE21 1592
+Ever received a DPT or tetanus shot ......... HYE22 1593
+How long ago last DPT/tetanus shot - mo ..... HYE23S 1594-1596
+Past 12 mo, had accident, injury, poison .... HYE24 1597
+Past 12 mos, # times SP had accident... ..... HYE24A 1598-1599
+SECTION F. DENTAL CARE AND STATUS
+Check item. Refer to age of SP ............. HYF1 1600
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+ NHANES III Household Youth Data File Index
+Including demographic, family, and survey weighting data
+Variable
+Description Name Positions
+Describe natural teeth: excellent...poor .... HYF2 1601
+Dental care SP needs now:fillings/crowns .... HYF3A 1602
+Dental care SP needs now: teeth pulled ...... HYF3B 1603
+Dental care SP needs now: gum treatment ..... HYF3C 1604
+Dental care SP needs now: denture work ...... HYF3D 1605
+Dental care SP needs now: relief of pain .... HYF3E 1606
+Dental care needs now:improve appearance .... HYF3F 1607
+Dental care SP needs now: other ............. HYF3G 1608
+Dental care SP needs now: nothing ........... HYF3I 1609
+Dental care SP needs now: cleaning .......... HYF3K 1610
+Type of dental care needed now: checkup ..... HYF3L 1611
+How long ago was last dental visit -days .... HYF4S 1612-1616
+How often does SP go to dentist/hygienist ... HYF5 1617
+Check item. Refer to age of SP ............. HYF6 1618
+Ever received orthodontic treatment ......... HYF7 1619
+Age started recent orthodontic treatment .... HYF8 1620-1621
+Ever had cold sores in past 12 months ....... HYF9 1622
+Had canker or mouth sores in past 12 mo ..... HYF10 1623
+SECTION G. RESPIRATORY AND ALLERGY
+Check item. Refer to age of SP .............. HYG1 1624
+Cough on most days,3+ consec mos in year .... HYG2 1625
+How many years has SP had this cough ........ HYG3 1626-1627
+Bring up phlegm,3+ consecutive mos in yr .... HYG4 1628
+How many years had trouble with phlegm ...... HYG5 1629-1630
+Had problems with coughing in past 12 mo .... HYG6 1631
+# episodes of cough in past 12 months ....... HYG7 1632-1634
+Had wheezing/whistle in chest,past 12 mo .... HYG8 1635
+# episodes of wheezing in past 12 months .... HYG9 1636-1638
+# times in hospital, wheezing, past 12mo .... HYG10 1639-1640
+# times to ER for wheezing in past 12 mo .... HYG11 1641-1642
+Chest sound wheezy when not have cold ....... HYG12 1643
+Had stuffy,itchy,runny nose, past 12 mo ..... HYG13A 1644
+Had watery, itchy eyes in past 12 months .... HYG13B 1645
+# episodes itchy... nose/eyes past 12 mo .... HYG14 1646-1648
+Check item. Refer to G8, G12, and G13 ....... HYG15 1649
+Symptoms brought on by exercise/cold air .... HYG16A 1650
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+ NHANES III Household Youth Data File Index
+Including demographic, family, and survey weighting data
+Variable
+Description Name Positions
+Symptoms brought on by animals .............. HYG16B 1651
+Symptoms brought on by house dust ........... HYG16C 1652
+Symptoms brought on by pollen ............... HYG16D 1653
+Month pollen symptoms worse: all months ..... HYG17A 1654
+Month pollen symptoms worse: January ........ HYG17B 1655
+Month pollen symptoms worse: February ....... HYG17C 1656
+Month pollen symptoms worse: March .......... HYG17D 1657
+Month pollen symptoms worse: April .......... HYG17E 1658
+Month pollen symptoms worse: May ............ HYG17F 1659
+Month pollen symptoms worse: June ........... HYG17G 1660
+Month pollen symptoms worse: July ........... HYG17H 1661
+Month pollen symptoms worse: August ......... HYG17I 1662
+Month pollen symptoms worse: September ...... HYG17J 1663
+Month pollen symptoms worse: October ........ HYG17K 1664
+Month pollen symptoms worse: November ....... HYG17L 1665
+Month pollen symptoms worse: December ....... HYG17M 1666
+Had severe reaction after insect sting ...... HYG18A 1667
+Ever had severe reaction after eating ....... HYG18B 1668
+Severe reaction after allergy shot/test ..... HYG19 1669
+Ever given up/avoid pet due to allergies .... HYG20 1670
+Had colds or flu in past 12 months .......... HYG21A 1671
+Had sinusitis/sinus probs in past 12 mo ..... HYG21B 1672
+Had pneumonia in past 12 months ............. HYG21C 1673
+# episodes of colds or flu in past 12 mo .... HYG22A 1674-1676
+# episodes of sinusitis... in past 12 mo .... HYG22B 1677-1679
+# episodes of pneumonia in past 12 month .... HYG22C 1680-1682
+SECTION H. VISION AND HEARING
+Check item. Refer to age of SP .............. HYH1 1683
+Trouble seeing, 1/both eyes, w/glasses ...... HYH2 1684
+Does SP use eyeglasses or contacts .......... HYH3 1685
+When was last time SP had vision tested ..... HYH4 1686
+Did SP ever have ear infection/earache ...... HYH5 1687
+# times SP had ear infection or earache ..... HYH6 1688
+Age had first earache/infection - months .... HYH7S 1689-1691
+Treated by doctor for earache/infection ..... HYH8 1692
+Doctor ever treat ear infection w/tubes ..... HYH9 1693
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+ NHANES III Household Youth Data File Index
+Including demographic, family, and survey weighting data
+Variable
+Description Name Positions
+Had trouble hearing with 1 or both ears ..... HYH10 1694
+Still have trouble hearing w/1,both ears .... HYH11 1695
+Does SP use a hearing aid ................... HYH12 1696
+How long ago SP had last hearing test ....... HYH13 1697
+SECTION J. SCHOOL ATTENDANCE AND LANGUAGE USE
+Before age 4, attend day care w/ 6+ kids .... HYJ1 1698
+Ever attend day care 10+ hours per week ..... HYJ2 1699
+Before age 4, # months attended day care .... HYJ3S 1700-1702
+Check item. Refer to age of SP ............. HYJ4 1703
+Has SP ever attended school ................. HYJ5 1704
+Why SP never attended school: too young ..... HYJ6A 1705
+Why never attended school:health problem .... HYJ6B 1706
+Why never attend school: need child home .... HYJ6C 1707
+Why never attended school: other ............ HYJ6D 1708
+Is SP now going to school or on vacation .... HYJ7 1709
+What grade is SP now in/will be in .......... HYJ8 1710-1711
+School serve fixed price full breakfast ..... HYJ9 1712
+# times per week eat breakfast at school .... HYJ10 1713-1714
+Does school serve lunch with fixed price .... HYJ11 1715
+# times per week SP eats lunch at school .... HYJ12 1716
+Why did SP stop going to school ............. HYJ13 1717-1718
+Past 12 mos, # days absent from school ...... HYJ14 1719-1721
+Ever skip any grades for any reason ......... HYJ15 1722
+Ever repeated any grades for any reason ..... HYJ16 1723
+What grade did SP repeat: kindergarten ...... HYJ17A 1724
+What grade did SP repeat: first grade ....... HYJ17B 1725
+What grade did SP repeat: second grade ...... HYJ17C 1726
+What grade did SP repeat: third grade ....... HYJ17D 1727
+What grade did SP repeat: fourth grade ...... HYJ17E 1728
+What grade did SP repeat: fifth grade ....... HYJ17F 1729
+What grade did SP repeat: sixth grade ....... HYJ17G 1730
+What grade did SP repeat: seventh grade ..... HYJ17H 1731
+What grade did SP repeat: eighth grade ...... HYJ17I 1732
+What grade did SP repeat: ninth grade ....... HYJ17J 1733
+What grade did SP repeat: tenth grade ....... HYJ17K 1734
+What grade did SP repeat: eleventh grade .... HYJ17L 1735
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+ NHANES III Household Youth Data File Index
+Including demographic, family, and survey weighting data
+Variable
+Description Name Positions
+What grade did SP repeat: twelfth grade ..... HYJ17M 1736
+Reason repeated grade: academic failure ..... HYJ18A 1737
+Reason repeated grade:immature/too young .... HYJ18B 1738
+Reason repeated grade: frequently absent .... HYJ18C 1739
+Reason repeat:move into difficult school .... HYJ18D 1740
+Reason repeated grade: other ................ HYJ18E 1741
+Reason repeated grade: language problem ..... HYJ18G 1742
+Reason repeat:learning/behavior problems .... HYJ18H 1743
+Reason repeated grade: health problem ....... HYJ18I 1744
+Reason repeat grade:hearing/vision prob ..... HYJ18J 1745
+Reason repeated grade: relocation prob ...... HYJ18K 1746
+Ever been suspended, excluded, expelled ..... HYJ19 1747
+# times suspended, excluded, or expelled .... HYJ20 1748-1750
+Check item. Refer to age of SP ............. HYJ21 1751
+Avg hours/week SP works during school yr .... HYJ22 1752-1753
+# hours SP watched TV yesterday ............. HYJ23 1754-1755
+How many good friends does SP have .......... HYJ24 1756
+# SP friends you know by sight:all...few .... HYJ25 1757
+When meeting new friends, is SP shy ... ..... HYJ26 1758
+How well does SP get along w/ other kids .... HYJ27 1759
+Language SP mainly speaks at home now ....... HYJ28 1760-1761
+Language SP mainly speaks at school ......... HYJ29 1762-1763
+Language SP's parents speak at home now ..... HYJ30 1764
+SECTION K. VITAMIN, MINERAL, AND MEDICINE USAGE
+Taken vitamins/minerals in past month ....... HYK1A 1765
+Taken prescriptn medicines in past month .... HYK1B 1766
+How many vitamins/minerals taken ............ HYK2A 1767-1768
+How many prescription medicines taken ....... HYK2B 1769-1770
+Certainty index code-1st .................... HYK3CG 1771-1772
+Product class-1st ........................... HYK3DG 1773-1774
+How often did -- take in past month-1st ..... HYK6SG 1775-1778
+How long been taking (month)-1st ............ HYK8SG 1779-1782
+Certainty index code-2nd .................... HYK3CH 1783-1784
+Product class-2nd ........................... HYK3DH 1785-1786
+How often did -- take in past month-2nd ..... HYK6SH 1787-1790
+How long been taking (month)-2nd ............ HYK8SH 1791-1794
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+ NHANES III Household Youth Data File Index
+Including demographic, family, and survey weighting data
+Variable
+Description Name Positions
+Certainty index code-3rd .................... HYK3CI 1795-1796
+Product class-3rd ........................... HYK3DI 1797-1798
+How often did -- take in past month-3rd ..... HYK6SI 1799-1802
+How long been taking (month)-3rd ............ HYK8SI 1803-1806
+Certainty index code-4th .................... HYK3CJ 1807-1808
+Product class-4th ........................... HYK3DJ 1809-1810
+How often did -- take in past month-4th ..... HYK6SJ 1811-1814
+How long been taking (month)-4th ............ HYK8SJ 1815-1818
+Certainty index code-5th .................... HYK3CK 1819-1820
+Product class-5th ........................... HYK3DK 1821-1822
+How often did -- take in past month-5th ..... HYK6SK 1823-1826
+How long been taking (month)-5th ............ HYK8SK 1827-1830
+Certainty index code-6th .................... HYK3CL 1831-1832
+Product class-6th ........................... HYK3DL 1833-1834
+How often did -- take in past month-6th ..... HYK6SL 1835-1838
+How long been taking (month)-6th ............ HYK8SL 1839-1842
+Certainty index code-7th .................... HYK3CM 1843-1844
+Product class-7th ........................... HYK3DM 1845-1846
+How often did -- take in past month-7th ..... HYK6SM 1847-1850
+How long been taking (month)-7th ............ HYK8SM 1851-1854
+Certainty index code-8th .................... HYK3CN 1855-1856
+Product class-8th ........................... HYK3DN 1857-1858
+How often did -- take in past month-8th ..... HYK6SN 1859-1862
+How long been taking (month)-8th ............ HYK8SN 1863-1866
+Certainty index code-9th .................... HYK3CO 1867-1868
+Product class-9th ........................... HYK3DO 1869-1870
+How often did -- take in past month-9th ..... HYK6SO 1871-1874
+How long been taking (month)-9th ............ HYK8SO 1875-1878
+Certainty index code-10th ................... HYK3CP 1879-1880
+Product class-10th .......................... HYK3DP 1881-1882
+How often did -- take in past month-10th .... HYK6SP 1883-1886
+How long been taking (month)-10th ........... HYK8SP 1887-1890
+Primary drug class code-1st ................. HYK9DG 1891-1894
+Secondary drug class code-1st ............... HYK9EG 1895-1898
+Tertiary drug class code-1st ................ HYK9FG 1899-1902
+ICD-9-CM code-1st ........................... HYK11AG 1903-1908
+For how long been taking (days)-1st ......... HYK12SG 1909-1913
+Primary drug class code-2nd ................. HYK9DH 1914-1917
+Secondary drug class code-2nd ............... HYK9EH 1918-1921
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+ NHANES III Household Youth Data File Index
+Including demographic, family, and survey weighting data
+Variable
+Description Name Positions
+Tertiary drug class code-2nd ................ HYK9FH 1922-1925
+ICD-9-CM code-2nd ........................... HYK11AH 1926-1931
+For how long been taking (days)-2nd ......... HYK12SH 1932-1936
+Primary drug class code-3rd ................. HYK9DI 1937-1940
+Secondary drug class code-3rd ............... HYK9EI 1941-1944
+Tertiary drug class code-3rd ................ HYK9FI 1945-1948
+ICD-9-CM code-3rd ........................... HYK11AI 1949-1954
+For how long been taking (days)-3rd ......... HYK12SI 1955-1959
+Primary drug class code-4th ................. HYK9DJ 1960-1963
+Secondary drug class code-4th ............... HYK9EJ 1964-1967
+Tertiary drug class code-4th ................ HYK9FJ 1968-1971
+ICD-9-CM code-4th ........................... HYK11AJ 1972-1977
+For how long been taking (days)-4th ......... HYK12SJ 1978-1982
+Primary drug class code-5th ................. HYK9DK 1983-1986
+Secondary drug class code-5th ............... HYK9EK 1987-1990
+Tertiary drug class code-5th ................ HYK9FK 1991-1994
+ICD-9-CM code-5th ........................... HYK11AK 1995-2000
+For how long been taking (days)-5th ......... HYK12SK 2001-2005
+Primary drug class code-6th ................. HYK9DL 2006-2009
+Secondary drug class code-6th ............... HYK9EL 2010-2013
+Tertiary drug class code-6th ................ HYK9FL 2014-2017
+ICD-9-CM code-6th ........................... HYK11AL 2018-2023
+For how long been taking (days)-6th ......... HYK12SL 2024-2028
+Primary drug class code-7th ................. HYK9DM 2029-2032
+Secondary drug class code-7th ............... HYK9EM 2033-2036
+Tertiary drug class code-7th ................ HYK9FM 2037-2040
+ICD-9-CM code-7th ........................... HYK11AM 2041-2046
+For how long been taking (days)-7th ......... HYK12SM 2047-2051
+Primary drug class code-8th ................. HYK9DN 2052-2055
+Secondary drug class code-8th ............... HYK9EN 2056-2059
+Tertiary drug class code-8th ................ HYK9FN 2060-2063
+ICD-9-CM code-8th ........................... HYK11AN 2064-2069
+For how long been taking (days)-8th ......... HYK12SN 2070-2074
+Primary drug class code-9th ................. HYK9DO 2075-2078
+Secondary drug class code-9th ............... HYK9EO 2079-2082
+Tertiary drug class code-9th ................ HYK9FO 2083-2086
+ICD-9-CM code-9th ........................... HYK11AO 2087-2092
+For how long been taking (days)-9th ......... HYK12SO 2093-2097
+SECTION M. RESPONDENT
+Main respondents relationship to SP ......... HYM1 2098-2099
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+ NHANES III Household Youth Data File Index
+Including demographic, family, and survey weighting data
+Variable
+Description Name Positions
+Was SP present during any of interview ...... HYM2 2100
+Quality of interview ........................ HYM3 2101 
