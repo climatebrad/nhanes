@@ -5,7 +5,7 @@ authors: @climatebrad, @dougjohnsonmd
 from nhanes_loader import NHANES
 
 class ExamFile(NHANES):
-    """Loads Household Adult File"""
+    """Loads Exam File"""
     def __init__(self):
         super().__init__()
         self.params = {
@@ -19,7 +19,41 @@ class ExamFile(NHANES):
                 'DEPSTLC5' : 'category',
                 'DEPSTLC6' : 'category',
                 'DMARACER' : 'category',
-             }
+             },
+            'usecols' : [
+                'SPPQ5',
+                'SPPMANEU',
+                'DMARETHN',
+                'DMAETHNR',
+                'DMARACER',
+                'MYPB11',
+                'MYPB27A',
+                'MYPB27B',
+                'HSAGEIR',
+                'HXPEJ6A2',
+                'SPPTECH1',
+                'SPPTRIAL',
+                'SPPPEAK',
+                'SPPFEV05',
+                'SPPFEV1',
+                'SPPFEV3',
+                'SPPFEV6',
+                'SPPFVC',
+                'SPPMMEF',
+                'SPPFEF75',
+                'SPPTYPE',
+                'SPPREPRO',
+                'SPPTIME',
+                'SPPEXPIR',
+                'SPPTEMP',
+                'SEQN',
+                'HSSEX',
+                'WTPFHX6',
+                'MXPAXTMR',
+                'BMPHT',
+                'BMPSITHT',
+                'BMPWT',
+            ]
         }
         self.load_cols()
         self.load_file()

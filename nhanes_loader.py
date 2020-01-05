@@ -34,7 +34,7 @@ class NHANES():
         outfile = self.params.get('datafile')
         self.data.to_csv(outfile, index=False)
 
-    def load_file(self):
+    def load_file(self, all_cols=False):
         """load file either from infile, or if it does not exist, from URL"""
         infile = self.params.get('datafile')
         url = self.params.get('url')
@@ -45,6 +45,8 @@ class NHANES():
                                     names=self.cols.variable.to_list())
             self.save_df()
         self.data = pd.read_csv(infile, dtype=dtypes)
+        if not all_cols and self.params.get('usecols'):
+            self.data = self.data[self.params['usecols']]
 
     def hist_amount(self, variable, outliers=100):
         """plot variable values to hist"""
