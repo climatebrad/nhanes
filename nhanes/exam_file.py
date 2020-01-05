@@ -18,6 +18,7 @@ class ExamFile(NHANES):
                 'DEPSTLC4' : 'category',
                 'DEPSTLC5' : 'category',
                 'DEPSTLC6' : 'category',
+                'DMARACER' : 'category',
              }
         }
         self.load_cols()
