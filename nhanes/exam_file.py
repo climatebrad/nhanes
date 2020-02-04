@@ -18,18 +18,18 @@ class ExamFile(NHANES):
                 'DEPSTLC4' : 'category',
                 'DEPSTLC5' : 'category',
                 'DEPSTLC6' : 'category',
-                'DMARACER' : 'category',
+                'DMARACER' : 'Int64',
              },
             'usecols' : [
                 'SPPQ5',
                 'SPPMANEU',
-                'DMARETHN',
-                'DMAETHNR',
-                'DMARACER',
                 'MYPB11',
                 'MYPB27A',
                 'MYPB27B',
                 'HSAGEIR',
+                'HSAGEU',
+                'HXPAXTMR',
+                'HXPSESSR',
                 'HXPEJ6A2',
                 'SPPTECH1',
                 'SPPTRIAL',
@@ -53,6 +53,9 @@ class ExamFile(NHANES):
                 'BMPHT',
                 'BMPSITHT',
                 'BMPWT',
+                'DMARACER',
+                'DMARETHN',
+                'DMAETHNR',
             ]
         }
         self.load_cols()
