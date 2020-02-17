@@ -5,3 +5,5 @@ exam-acc.*
 data/*.csv.gz
 NHANES Spirometry Hankinson.pdf
 ~$*.xlsx
+*.icloud
+.DS_Store
