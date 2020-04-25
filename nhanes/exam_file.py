@@ -22,7 +22,10 @@ class ExamFile(NHANES):
              },
             'usecols' : [
                 'SPPQ5',
+                'SPPQ4',
                 'SPPMANEU',
+                'MYPB1',
+                'MYPB3',    
                 'MYPB11',
                 'MYPB27A',
                 'MYPB27B',
@@ -55,7 +58,10 @@ class ExamFile(NHANES):
                 'BMPWT',
                 'DMARACER',
                 'DMARETHN',
+                'SPPQ3',
                 'DMAETHNR',
+                # added HSAITMOR 3-25
+                'HSAITMOR',
             ]
         }
         self.load_cols()

@@ -14,9 +14,9 @@ class HouseholdYouthFile(NHANES):
             'url' : 'https://wwwn.cdc.gov/nchs/data/nhanes3/1a/youth.dat',
             'usecols' : [
                 'SEQN',
-                'MYPB11',     # youth only
-                'MYPB27A',    # youth only
-                'MYPB27B',    # youth only
+  #              'MYPB11',     # youth only
+   #             'MYPB27A',    # youth only
+  #              'MYPB27B',    # youth only
                 'HSSEX',
                 'HSAGEIR',
                 'HSAGEU',
@@ -25,7 +25,15 @@ class HouseholdYouthFile(NHANES):
                 'DMAETHNR',
                 'HXPAXTMR',
                 'HXPSESSR',
-                'HXPEJ6A2',
+                'HYE1G',
+                'HYG2',
+                'HYG4',
+                'HYG7',
+                'HYG12',
+                'HYG8',
+                'HYE1H',
+                'HSAITMOR',
+  #              'HXPEJ6A2',
             ]
         }
         self.load_cols()
