@@ -17,7 +17,5 @@ class CombinedExam(NHANES):
         
     def do_exclusion(self):
         exclusion = pd.read_csv(self.params['exclusion_file'])
-        self.data = self.data.query(' & '.join(exclusion.inclusion_formula))
+        self.data = self.data.query(' & '.join(exclusion.inclusion_formula.dropna()))
         
-    def do_height_regression(self, gender, ethnicity, y_var):
-        lr = LinearRegression()

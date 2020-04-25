@@ -6,7 +6,7 @@ from nhanes_loader import NHANES
 
 class ExamFile(NHANES):
     """Loads Exam File"""
-    def __init__(self):
+    def __init__(self, **params):
         super().__init__()
         self.params = {
             'formatfile' : 'data/exam_file_format.csv',
@@ -21,8 +21,14 @@ class ExamFile(NHANES):
                 'DMARACER' : 'Int64',
              },
             'usecols' : [
+                'SPPQ1',
+                'SPPQ2',
+                'SPPQ3',
+                'SPPQ4',
                 'SPPQ5',
                 'SPPMANEU',
+                'MYPB1',
+                'MYPB3',
                 'MYPB11',
                 'MYPB27A',
                 'MYPB27B',
@@ -56,7 +62,9 @@ class ExamFile(NHANES):
                 'DMARACER',
                 'DMARETHN',
                 'DMAETHNR',
+
             ]
         }
+        self.params['usecols'] = params.get('usecols', self.params['usecols'])
         self.load_cols()
         self.load_file()

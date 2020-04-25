@@ -2,17 +2,17 @@ excluded_category,number_excluded,number_remaining,file,variable,exclusion_formu
 include:Adults 17 yr of Age and Older with pulmonary function measures,0,16484,Exam,SPPMANEU,88,SPPMANEU < 88,nothing
 Spirometry judged “unusable” (< 2 acceptable curves),277,16207,Exam,SPPMANEU,<2 and not 88,1 < SPPMANEU < 88,< 2 acceptable trials
 Adults 90 yr of age and older (actual age was unavailable),68,16139,Exam,HSAGEIR,>=90,HSAGEIR < 90,age >=90
-Race/ethnicity coded as “Other”,636,15503,Exam,DMARACER,4,DMARACER < 4,other ethnicity
-Cigarette smokers (Question R1.),7667,7836,Adult,HAR1,1,HAR1 > 1,cigarette smoker
+Race/ethnicity coded as “Other”,636,15503,Exam,DMARETHN,4,DMARETHN < 4,other ethnicity
+Cigarette smokers (Question R1.),7667,7836,Adult,HAR1,1,HAR1 == 2,cigarette smoker
 Cigar and/or pipe smokers (Questions R23. and R26.),313,7523,Adult,HAR23,1,HAR23 > 1,cigar smoker
 .. pipe smokers,313,7523,Adult,HAR26,1,HAR26 > 1,pipe smoker
 MD diagnosis of asthma (Question C1.e.),454,6661,Adult,HAC1E,1,HAC1E > 1,MD diagnosis asthma
 MD diagnosis of chronic bronchitis (Question C1.f.),181,6480,Adult,HAC1F,1,HAC1F > 1,MD diagnosis chronic bronchitis
 MD diagnosis of emphysema (Question C1.g.),15,6465,Adult,HAC1G,1,HAC1G > 1,MD diagnosis emphysema
-MD diagnosis of lung cancer (Question C1.o.),0,6465,Adult,HAC1O,1,HAC1O > 1,MD diagnosis cancer
+MD diagnosis of lung cancer (Question C1.o.),0,6465,Adult,HAC1O,,,MD diagnosis cancer
 Whistling and/or wheezing in chest in last 12 mo (Question L6.),419,6046,Adult,HAL6,1,HAL6 > 1,wheezing last 12 months
 "Whistling and/or wheezing in chest, apart from colds (Question L10.)",112,5934,Adult,HAL10,1,HAL10 > 1,whistling or wheezing
 Persistent cough (Question L1.),158,5776,Adult,HAL1,1,HAL1 > 1,persistent cough
 Persistent phlegm production (Question L3.),125,5651,Adult,HAL3,1,HAL3 > 1,persistent phlegm
-Moderate shortness of breath (Question L5.),848,4803,Adult,HAL5,1,HAL5 > 1,moderate shortness of breath
-Adults older than 80 yr of age (too few observations in minority cells),169,4634,Exam,HSAGEIR,>80,HSAGEIR < 80,age>80
+Moderate shortness of breath (Question L5.),848,4803,Adult,HAL5,1,HAL5 == 2 ,moderate shortness of breath
+Adults older than 80 yr of age (too few observations in minority cells),169,4634,Exam,HSAGEIR,>80,HSAGEIR < 81,age>80
