@@ -35,6 +35,8 @@ class HouseholdAdultFile(NHANES):
                 'HSAGEU',
                 'HXPAXTMR',
                 'HXPSESSR',
+                'HSAITMOR',
+                'HAR4S',
             ]
         }
         self.load_cols()

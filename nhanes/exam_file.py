@@ -26,9 +26,10 @@ class ExamFile(NHANES):
                 'SPPQ3',
                 'SPPQ4',
                 'SPPQ5',
+                'SPPQ4',
                 'SPPMANEU',
                 'MYPB1',
-                'MYPB3',
+                'MYPB3',   
                 'MYPB11',
                 'MYPB27A',
                 'MYPB27B',
@@ -61,8 +62,9 @@ class ExamFile(NHANES):
                 'BMPWT',
                 'DMARACER',
                 'DMARETHN',
+                'SPPQ3',
                 'DMAETHNR',
-
+                'HSAITMOR',
             ]
         }
         self.params['usecols'] = params.get('usecols', self.params['usecols'])

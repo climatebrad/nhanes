@@ -14,9 +14,6 @@ class HouseholdYouthFile(NHANES):
             'url' : 'https://wwwn.cdc.gov/nchs/data/nhanes3/1a/youth.dat',
             'usecols' : [
                 'SEQN',
-              #  'MYPB11',     # youth only
-              #  'MYPB27A',    # youth only
-               # 'MYPB27B',    # youth only
                 'HYE1G',
                 'HYE1H',
                 'HSSEX',
@@ -32,7 +29,7 @@ class HouseholdYouthFile(NHANES):
                 'HYG7',
                 'HYG8',
                 'HYG12',
-              #  'HXPEJ6A2',
+                'HSAITMOR',
             ]
         }
         self.params['usecols'] = params.get('usecols', self.params['usecols'])
