@@ -1,0 +1,357 @@
+description	variable	position	end position
+Sample person identification number	SEQN	1	5
+Family sequence number	DMPFSEQ	6	10
+Examination/interview Status	DMPSTAT	11
+Race-ethnicity	DMARETHN	12
+Race	DMARACER	13
+Ethnicity	DMAETHNR	14
+Sex	HSSEX	15
+Age at interview (Screener)	HSAGEIR	16	17
+Age at interview - unit (Screener)	HSAGEU	18
+Age in months at interview (screener)	HSAITMOR	19	22
+Family size (persons in family)	HSFSIZER	23	24
+Household size (persons in dwelling)	HSHSIZER	25	26
+County code	DMPCNTYR	27	29
+FIPS code for State	DMPFIPSR	30	31
+Rural/urban code based on USDA code	DMPMETRO	32
+Census region, weighting(Texas in south)	DMPCREGN	33
+Poverty Income Ratio (unimputed income)	DMPPIR	34	39
+Phase of NHANES III survey	SDPPHASE	40
+Total NHANES III pseudo-PSU	SDPPSU6	41
+Total NHANES III pseudo-stratum	SDPSTRA6	42	43
+Pseudo-PSU for phase 1	SDPPSU1	44
+Pseudo-stratum for phase 1	SDPSTRA1	45	46
+Pseudo-PSU for phase 2	SDPPSU2	47
+Pseudo-stratum for phase 2	SDPSTRA2	48	49
+Total interviewed sample final weight	WTPFQX6	50	58
+Total MEC-examined sample final weight	WTPFEX6	59	67
+Total M+H examined sample final weight	WTPFHX6	68	76
+Total allergy subsample final weight	WTPFALG6	77	85
+Total CNS subsample final weight	WTPFCNS6	86	94
+Total morning subsample final wgt	WTPFSD6	95	103
+Total afternoon/eve subsample final wgt	WTPFMD6	104	112
+Total M+H morning subsample final wgt	WTPFHSD6	113	121
+Total M+H afternoon subsample final wgt	WTPFHMD6	122	130
+Phase 1 interviewed sample final wgt	WTPFQX1	131	139
+Phase 1 MEC examined sample final wgt	WTPFEX1	140	148
+Phase 1 M+H examined sample final wgt	WTPFHX1	149	157
+Phase 1 allergy subsample final wgt	WTPFALG1	158	166
+Phase 1 CNS subsample final wgt	WTPFCNS1	167	175
+Phase 1 morning sess subsample final wgt	WTPFSD1	176	184
+Phase 1 aft/eve subsample final wgt	WTPFMD1	185	193
+Phase 1 morning M+H subsample final wgt	WTPFHSD1	194	202
+Phase 1 aft/eve M+H subsample final wgt	WTPFHMD1	203	211
+Phase 2 interviewed sample final wgt	WTPFQX2	212	220
+Phase 2 MEC examined sample final wgt	WTPFEX2	221	229
+Phase 2 M+H examined sample final wgt	WTPFHX2	230	238
+Phase 2 allergy subsample final wgt	WTPFALG2	239	247
+Phase 2 CNS subsample final wgt	WTPFCNS2	248	256
+Phase 2 morning sess subsample final wgt	WTPFSD2	257	265
+Phase 2 aft/eve subsample final wgt	WTPFMD2	266	274
+Phase 2 morning M+H subsample final wgt	WTPFHSD2	275	283
+Phase 2 aft/eve M+H subsample final wgt	WTPFHMD2	284	292
+Replicate 1 final interview weight	WTPQRP1	293	301
+Replicate 2 final interview weight	WTPQRP2	302	310
+Replicate 3 final interview weight	WTPQRP3	311	319
+Replicate 4 final interview weight	WTPQRP4	320	328
+Replicate 5 final interview weight	WTPQRP5	329	337
+Replicate 6 final interview weight	WTPQRP6	338	346
+Replicate 7 final interview weight	WTPQRP7	347	355
+Replicate 8 final interview weight	WTPQRP8	356	364
+Replicate 9 final interview weight	WTPQRP9	365	373
+Replicate 10 final interview weight	WTPQRP10	374	382
+Replicate 11 final interview weight	WTPQRP11	383	391
+Replicate 12 final interview weight	WTPQRP12	392	400
+Replicate 13 final interview weight	WTPQRP13	401	409
+Replicate 14 final interview weight	WTPQRP14	410	418
+Replicate 15 final interview weight	WTPQRP15	419	427
+Replicate 16 final interview weight	WTPQRP16	428	436
+Replicate 17 final interview weight	WTPQRP17	437	445
+Replicate 18 final interview weight	WTPQRP18	446	454
+Replicate 19 final interview weight	WTPQRP19	455	463
+Replicate 20 final interview weight	WTPQRP20	464	472
+Replicate 21 final interview weight	WTPQRP21	473	481
+Replicate 22 final interview weight	WTPQRP22	482	490
+Replicate 23 final interview weight	WTPQRP23	491	499
+Replicate 24 final interview weight	WTPQRP24	500	508
+Replicate 25 final interview weight	WTPQRP25	509	517
+Replicate 26 final interview weight	WTPQRP26	518	526
+Replicate 27 final interview weight	WTPQRP27	527	535
+Replicate 28 final interview weight	WTPQRP28	536	544
+Replicate 29 final interview weight	WTPQRP29	545	553
+Replicate 30 final interview weight	WTPQRP30	554	562
+Replicate 31 final interview weight	WTPQRP31	563	571
+Replicate 32 final interview weight	WTPQRP32	572	580
+Replicate 33 final interview weight	WTPQRP33	581	589
+Replicate 34 final interview weight	WTPQRP34	590	598
+Replicate 35 final interview weight	WTPQRP35	599	607
+Replicate 36 final interview weight	WTPQRP36	608	616
+Replicate 37 final interview weight	WTPQRP37	617	625
+Replicate 38 final interview weight	WTPQRP38	626	634
+Replicate 39 final interview weight	WTPQRP39	635	643
+Replicate 40 final interview weight	WTPQRP40	644	652
+Replicate 41 final interview weight	WTPQRP41	653	661
+Replicate 42 final interview weight	WTPQRP42	662	670
+Replicate 43 final interview weight	WTPQRP43	671	679
+Replicate 44 final interview weight	WTPQRP44	680	688
+Replicate 45 final interview weight	WTPQRP45	689	697
+Replicate 46 final interview weight	WTPQRP46	698	706
+Replicate 47 final interview weight	WTPQRP47	707	715
+Replicate 48 final interview weight	WTPQRP48	716	724
+Replicate 49 final interview weight	WTPQRP49	725	733
+Replicate 50 final interview weight	WTPQRP50	734	742
+Replicate 51 final interview weight	WTPQRP51	743	751
+Replicate 52 final interview weight	WTPQRP52	752	760
+Replicate 1 final exam weight	WTPXRP1	761	769
+Replicate 2 final exam weight	WTPXRP2	770	778
+Replicate 3 final exam weight	WTPXRP3	779	787
+Replicate 4 final exam weight	WTPXRP4	788	796
+Replicate 5 final exam weight	WTPXRP5	797	805
+Replicate 6 final exam weight	WTPXRP6	806	814
+Replicate 7 final exam weight	WTPXRP7	815	823
+Replicate 8 final exam weight	WTPXRP8	824	832
+Replicate 9 final exam weight	WTPXRP9	833	841
+Replicate 10 final exam weight	WTPXRP10	842	850
+Replicate 11 final exam weight	WTPXRP11	851	859
+Replicate 12 final exam weight	WTPXRP12	860	868
+Replicate 13 final exam weight	WTPXRP13	869	877
+Replicate 14 final exam weight	WTPXRP14	878	886
+Replicate 15 final exam weight	WTPXRP15	887	895
+Replicate 16 final exam weight	WTPXRP16	896	904
+Replicate 17 final exam weight	WTPXRP17	905	913
+Replicate 18 final exam weight	WTPXRP18	914	922
+Replicate 19 final exam weight	WTPXRP19	923	931
+Replicate 20 final exam weight	WTPXRP20	932	940
+Replicate 21 final exam weight	WTPXRP21	941	949
+Replicate 22 final exam weight	WTPXRP22	950	958
+Replicate 23 final exam weight	WTPXRP23	959	967
+Replicate 24 final exam weight	WTPXRP24	968	976
+Replicate 25 final exam weight	WTPXRP25	977	985
+Replicate 26 final exam weight	WTPXRP26	986	994
+Replicate 27 final exam weight	WTPXRP27	995	1003
+Replicate 28 final exam weight	WTPXRP28	1004	1012
+Replicate 29 final exam weight	WTPXRP29	1013	1021
+Replicate 30 final exam weight	WTPXRP30	1022	1030
+Replicate 31 final exam weight	WTPXRP31	1031	1039
+Replicate 32 final exam weight	WTPXRP32	1040	1048
+Replicate 33 final exam weight	WTPXRP33	1049	1057
+Replicate 34 final exam weight	WTPXRP34	1058	1066
+Replicate 35 final exam weight	WTPXRP35	1067	1075
+Replicate 36 final exam weight	WTPXRP36	1076	1084
+Replicate 37 final exam weight	WTPXRP37	1085	1093
+Replicate 38 final exam weight	WTPXRP38	1094	1102
+Replicate 39 final exam weight	WTPXRP39	1103	1111
+Replicate 40 final exam weight	WTPXRP40	1112	1120
+Replicate 41 final exam weight	WTPXRP41	1121	1129
+Replicate 42 final exam weight	WTPXRP42	1130	1138
+Replicate 43 final exam weight	WTPXRP43	1139	1147
+Replicate 44 final exam weight	WTPXRP44	1148	1156
+Replicate 45 final exam weight	WTPXRP45	1157	1165
+Replicate 46 final exam weight	WTPXRP46	1166	1174
+Replicate 47 final exam weight	WTPXRP47	1175	1183
+Replicate 48 final exam weight	WTPXRP48	1184	1192
+Replicate 49 final exam weight	WTPXRP49	1193	1201
+Replicate 50 final exam weight	WTPXRP50	1202	1210
+Replicate 51 final exam weight	WTPXRP51	1211	1219
+Replicate 52 final exam weight	WTPXRP52	1220	1228
+Age in months at youth interview	HYAITMO	1229	1232
+Language used by SP in MEC	MXPLANG	1233
+Session for MEC examination	MXPSESSR	1234
+Day of week of MEC exam	MXPTIDW	1235
+Age in months at MEC exam	MXPAXTMR	1236	1239
+Day of week of home exam	HXPTIDW	1240
+Age in months at home exam	HXPAXTMR	1241	1244
+Session for home examination	HXPSESSR	1245
+Language	PHPLANG	1246
+Do you have hemophilia?	PHPHEMO	1247
+Recent chemo/within the past four weeks	PHPCHM2	1248
+Are you currently taking insulin?	PHPINSU	1249
+Time participant last ate	PHPSNTI	1250	1254
+Day participant last ate	PHPSNDA	1255
+Have you had anything to drink?	PHPDRIN	1256
+Time participant last drank	PHPDRTI	1257	1261
+Day participant last drank	PHPDRDA	1262
+Length of calculated fast (in hours)	PHPFAST	1263	1267
+Time of venipuncture	PHPBEST	1268	1272
+White blood cell count	WCP	1273	1277
+White blood cell count: SI	WCPSI	1278	1282
+Lymphocyte percent (Coulter)	LMPPCNT	1283	1287
+Mononuclear percent (Coulter)	MOPPCNT	1288	1292
+Granulocyte percent (Coulter)	GRPPCNT	1293	1297
+Lymphocyte number (Coulter)	LMP	1298	1302
+Mononuclear number (Coulter)	MOP	1303	1306
+Granulocyte number (Coulter)	GRP	1307	1311
+Red blood cell count	RCP	1312	1315
+Red blood cell count: SI	RCPSI	1316	1319
+Hemoglobin (g/dL)	HGP	1320	1324
+Hemoglobin: SI (g/L)	HGPSI	1325	1329
+Hematocrit (%)	HTP	1330	1334
+Hematocrit: SI (L/L=1)	HTPSI	1335	1339
+Mean cell volume: SI (fL)	MVPSI	1340	1344
+Mean cell hemoglobin: SI (pg)	MCPSI	1345	1349
+Mean cell hemoglobin concentration	MHP	1350	1354
+Mean cell hemoglobin concentration: SI	MHPSI	1355	1359
+Red cell distribution width (%)	RWP	1360	1364
+Red cell distribution width:SI(fraction)	RWPSI	1365	1370
+Platelet count	PLP	1371	1375
+Platelet count: SI	PLPSI	1376	1380
+Platelet distribution width (%)	DWP	1381	1385
+Mean platelet volume: SI (fL)	PVPSI	1386	1390
+Segment neutrophil(percent of 100 cells)	GRPDIF	1391	1393
+Lymphocytes (percent of 100 cells)	LMPDIF	1394	1396
+Monocytes (percent of 100 cells)	MOPDIF	1397	1398
+Eosinophils (percent of 100 cells)	EOP	1399	1400
+Basophils (percent of 100 cells)	BOP	1401	1402
+Blasts (percent of 100 cells)	BLP	1403
+Promyelocytes (percent of 100 cells)	PRP	1404
+Metamyelocytes (percent of 100 cells)	MEP	1405
+Myelocytes (percent of 100 cells)	MLP	1406
+Bands (percent of 100 cells)	BAP	1407	1408
+Atyp lymphocytes (percent of 100 cells)	LAP	1409	1410
+Anisocytosis (variation of cell size)	ANP	1411
+Basophilic stippling	BSP	1412
+Hypochromia (stain intensity of cell)	HZP	1413
+Poikilocytosis (cell shape variation)	PKP	1414
+Polychromatophilia(bluish color of cell)	POP	1415
+Macrocytosis (large cell prevalence)	MRP	1416
+Microcytosis (small cell prevalence)	MIP	1417
+Sickle cells	SIP	1418
+Spherocytosis	SHP	1419
+Target cells	TTP	1420
+Toxic granulation	TXP	1421
+Vacuolated cells	VUP	1422
+Lead (ug/dL)	PBP	1423	1426
+Lead: SI (umol/L)	PBPSI	1427	1431
+Erythrocyte protoporphyrin (ug/dL)	EPP	1432	1435
+Erythrocyte protoporphyrin: SI (umol/L)	EPPSI	1436	1440
+Serum iron (ug/dL)	FEP	1441	1443
+Serum iron: SI (umol/L)	FEPSI	1444	1448
+Serum TIBC (ug/dL)	TIP	1449	1452
+Serum TIBC: SI (umol/L)	TIPSI	1453	1458
+Serum transferrin saturation (%)	PXP	1459	1462
+Serum ferritin (ng/mL)	FRP	1463	1466
+Serum ferritin: SI (ug/L)	FRPSI	1467	1470
+Serum folate (ng/mL)	FOP	1471	1475
+Serum folate: SI (nmol/L)	FOPSI	1476	1480
+RBC folate (ng/mL)	RBP	1481	1484
+RBC folate: SI (nmol/L)	RBPSI	1485	1490
+Serum vitamin B12 (pg/mL)	VBP	1491	1496
+Serum vitamin B12: SI (pmol/L)	VBPSI	1497	1504
+Serum vitamin C (mg/dL)	VCP	1505	1508
+Serum vitamin C: SI (mmol/L)	VCPSI	1509	1514
+Serum normalized calcium: SI (mmol/L)	ICPSI	1515	1518
+Serum total calcium: SI (mmol/L)	CAPSI	1519	1522
+Serum selenium (ng/mL)	SEP	1523	1526
+Serum selenium: SI (nmol/L)	SEPSI	1527	1530
+Serum vitamin A (ug/dL)	VAP	1531	1533
+Serum vitamin A: SI (umol/L)	VAPSI	1534	1537
+Serum vitamin E (ug/dL)	VEP	1538	1542
+Serum vitamin E: SI (umol/L)	VEPSI	1543	1548
+Serum alpha carotene (ug/dL)	ACP	1549	1551
+Serum alpha carotene: SI (umol/L)	ACPSI	1552	1555
+Serum beta carotene (ug/dL)	BCP	1556	1559
+Serum beta carotene: SI (umol/L)	BCPSI	1560	1564
+Serum beta cryptoxanthin (ug/dL)	BXP	1565	1567
+Serum beta cryptoxanthin: SI (umol/L)	BXPSI	1568	1571
+Serum lutein/zeaxanthin (ug/dL)	LUP	1572	1574
+Serum lutein/zeaxanthin: SI (umol/L)	LUPSI	1575	1578
+Serum lycopene (ug/dL)	LYP	1579	1581
+Serum lycopene: SI (umol/L)	LYPSI	1582	1585
+Serum sum retinyl esters (ug/dL)	REP	1586	1588
+Serum sum retinyl esters: SI (umol/L)	REPSI	1589	1592
+Serum cotinine (ng/mL)	COP	1593	1597
+Serum cholesterol (mg/dL)	TCP	1598	1600
+Serum cholesterol: SI (mmol/L)	TCPSI	1601	1605
+Serum triglycerides (mg/dL)	TGP	1606	1609
+Serum triglycerides: SI (mmol/L)	TGPSI	1610	1614
+Serum LDL cholesterol (mg/dL)	LCP	1615	1617
+Serum LDL cholesterol: SI (mmol/L)	LCPSI	1618	1621
+Serum HDL cholesterol (mg/dL)	HDP	1622	1624
+Serum HDL cholesterol: SI (mmol/L)	HDPSI	1625	1628
+Serum apolipoprotein AI (mg/dL)	AAP	1629	1631
+Serum apolipoprotein AI: SI (g/L)	AAPSI	1632	1635
+Serum apolipoprotein B (mg/dL)	ABP	1636	1638
+Serum apolipoprotein B: SI (g/L)	ABPSI	1639	1642
+Serum lipoprotein(a) (mg/dL)	LPP	1643	1645
+Serum lipoprotein(a): SI (g/L)	LPPSI	1646	1649
+Serum FSH: SI (IU/L)	FHPSI	1650	1654
+Serum luteinizing hormone: SI (IU/L)	LHPSI	1655	1658
+Plasma fibrinogen (mg/dL)	FBP	1659	1662
+Plasma fibrinogen: SI (g/L)	FBPSI	1663	1666
+Serum C-reactive protein (mg/dL)	CRP	1667	1671
+Serum tetanus antibody (U/mL)	TEP	1672	1677
+Serum hepatitis A antibody	AHP	1678
+Serum hepatitis B core antibody	HBP	1679
+Serum hepatitis B surface antibody	SSP	1680	1681
+Serum hepatitis B surface antigen	SAP	1682
+Serum hepatitis C antibody	HCP	1683
+Serum hepatitis D antibody	DHP	1684
+Serum herpes I antibody	H1P	1685
+Serum herpes II antibody	H2P	1686
+Serum rubella antibody	RUP	1687	1691
+Serum rubella antibody (IU)	RUPUNIT	1692	1695
+Serum varicella antibody	VRP	1696	1700
+Serum toxoplasmosis antibody	TOP	1701	1703
+Serum rheumatoid factor antibody	RFP	1704	1708
+Serum latex antibody (IU/mL)	L1P	1709	1713
+Serum helicobacter pylori antibody	HPP	1714
+Serum sodium: SI (mmol/L)	NAPSI	1715	1719
+Serum potassium: SI (mmol/L)	SKPSI	1720	1723
+Serum chloride: SI (mmol/L)	CLPSI	1724	1728
+Serum bicarbonate: SI (mmol/L)	C3PSI	1729	1730
+Serum total calcium (mg/dL)	SCP	1731	1734
+Serum total calcium: SI (mmol/L)	SCPSI	1735	1739
+Serum phosphorus (mg/dL)	PSP	1740	1743
+Serum phosphorus: SI (mmol/L)	PSPSI	1744	1748
+Serum uric acid (mg/dL)	UAP	1749	1752
+Serum uric acid: SI (umol/L)	UAPSI	1753	1757
+Serum glucose (mg/dL)	SGP	1758	1760
+Serum glucose: SI (mmol/L)	SGPSI	1761	1765
+Serum blood urea nitrogen (mg/dL)	BUP	1766	1768
+Serum blood urea nitrogen: SI (mmol/L)	BUPSI	1769	1773
+Serum total bilirubin (mg/dL)	TBP	1774	1777
+Serum total bilirubin: SI (umol/L)	TBPSI	1778	1783
+Serum creatinine (mg/dL)	CEP	1784	1787
+Serum creatinine: SI (umol/L)	CEPSI	1788	1793
+Serum iron (ug/dL)	SFP	1794	1796
+Serum iron: SI (umol/L)	SFPSI	1797	1800
+Serum cholesterol (mg/dL)	CHP	1801	1804
+Serum cholesterol: SI (mmol/L)	CHPSI	1805	1810
+Serum triglycerides (mg/dL)	TRP	1811	1814
+Serum triglycerides: SI (mmol/L)	TRPSI	1815	1820
+Aspartate aminotransferase: SI(U/L)	ASPSI	1821	1823
+Alanine aminotransferase: SI (U/L)	ATPSI	1824	1826
+Gamma glutamyl transferase: SI(U/L)	GGPSI	1827	1830
+Serum lactate dehydrogenase: SI (U/L)	LDPSI	1831	1834
+Serum alkaline phosphatase: SI (U/L)	APPSI	1835	1838
+Serum total protein (g/dL)	TPP	1839	1842
+Serum total protein: SI (g/L)	TPPSI	1843	1845
+Serum albumin (g/dL)	AMP	1846	1848
+Serum albumin: SI (g/L)	AMPSI	1849	1851
+Serum globulin (g/dL)	GBP	1852	1854
+Serum globulin: SI (g/L)	GBPSI	1855	1857
+Serum osmolality: SI (mmol/Kg)	OSPSI	1858	1860
+Glycated hemoglobin: (%)	GHP	1861	1864
+Glycated hemoglobin: test method	GHPMETH	1865
+Plasma glucose (mg/dL)	G1P	1866	1870
+Plasma glucose: SI (mmol/L)	G1PSI	1871	1876
+Incomplete glucose test (OGTT) code	G1PCODE	1877	1878
+Minutes between drink and second draw	G1PTIM1	1879	1881
+Minutes between first and second draw	G1PTIM2	1882	1884
+Second plasma glucose (mg/dL)	G2P	1885	1889
+Second plasma glucose: SI (mmol/L)	G2PSI	1890	1895
+Serum C-peptide (pmol/mL)	C1P	1896	1900
+Serum C-peptide: SI (nmol/L)	C1PSI	1901	1905
+Second serum C-peptide (pmol/mL)	C2P	1906	1911
+Second serum C-peptide: SI (nmol/L)	C2PSI	1912	1917
+Serum insulin (uU/mL)	I1P	1918	1923
+Serum insulin: SI (pmol/L)	I1PSI	1924	1930
+Serum insulin: test kit	I1P2PFLG	1931
+Second serum insulin (uU/mL)	I2P	1932	1937
+Second serum insulin: SI (pmol/L)	I2PSI	1938	1944
+Urinary cadmium (ng/mL)	UDP	1945	1949
+Urinary cadmium: SI (nmol/L)	UDPSI	1950	1955
+Urinary creatinine (mg/dL)	URP	1956	1960
+Urinary creatinine: SI (mmol/L)	URPSI	1961	1964
+Urinary albumin (ug/mL)	UBP	1965	1970
+Urinary iodine (ug/dL)	UIP	1971	1977

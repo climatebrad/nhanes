@@ -6,7 +6,7 @@ from nhanes_loader import NHANES
 
 class HouseholdYouthFile(NHANES):
     """Loads Household Youth File"""
-    def __init__(self):
+    def __init__(self, **params):
         super().__init__()
         self.params = {
             'formatfile' : 'data/household_youth_file_format.csv',
@@ -14,9 +14,8 @@ class HouseholdYouthFile(NHANES):
             'url' : 'https://wwwn.cdc.gov/nchs/data/nhanes3/1a/youth.dat',
             'usecols' : [
                 'SEQN',
-  #              'MYPB11',     # youth only
-   #             'MYPB27A',    # youth only
-  #              'MYPB27B',    # youth only
+                'HYE1G',
+                'HYE1H',
                 'HSSEX',
                 'HSAGEIR',
                 'HSAGEU',
@@ -25,16 +24,14 @@ class HouseholdYouthFile(NHANES):
                 'DMAETHNR',
                 'HXPAXTMR',
                 'HXPSESSR',
-                'HYE1G',
                 'HYG2',
                 'HYG4',
                 'HYG7',
-                'HYG12',
                 'HYG8',
-                'HYE1H',
+                'HYG12',
                 'HSAITMOR',
-  #              'HXPEJ6A2',
             ]
         }
+        self.params['usecols'] = params.get('usecols', self.params['usecols'])
         self.load_cols()
         self.load_file()
