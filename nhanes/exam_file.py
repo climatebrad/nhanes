@@ -63,6 +63,9 @@ class ExamFile(NHANES):
                 'DMARETHN',
                 'DMAETHNR',
                 'HSAITMOR',
+                'HXPG1',
+                'HXPG2A',
+                'HXPG2B',
             ]
         }
         self.params['usecols'] = params.get('usecols', self.params['usecols'])
