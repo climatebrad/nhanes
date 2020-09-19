@@ -63,6 +63,8 @@ class ExamFile(NHANES):
                 'DMARETHN',
                 'DMAETHNR',
                 'HSAITMOR',
+                'MXPAXTMR',
+                'HXPAXTMR',
                 'HXPG1',
                 'HXPG2A',
                 'HXPG2B',
