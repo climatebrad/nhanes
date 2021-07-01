@@ -113,7 +113,7 @@ def do_regression(regression_type, data, y_var, verbose=None):
         print("Coefficients: ", lr.coef_)
     return lr.intercept_, lr.coef_, lr.score(X, y)
 
-ef get_regression_results(adult_final, youth_final, regression_type, variables):
+def get_regression_results(adult_final, youth_final, regression_type, variables):
     """Generate array of regression results for various demographic combinations.
        regression_type can be 'age' or 'height_age'"""
     
