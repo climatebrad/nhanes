@@ -49,7 +49,8 @@ def generate_demo_group_internal(adult_final, youth_final, ethnicity, sex, max_a
 
     
 def generate_demo_group(adult, youth, ethnicity, sex, age_range='all'):
-    """Wrapper to accept simpler inputsage_range can be 'all', 'under', 'over' """
+    """Wrapper for generate_demo_group_internal to accept simpler inputs. 
+    age_range can be 'all', 'under', 'over' """
     min_age = None
     max_age = None
     if age_range == 'under':
@@ -111,3 +112,34 @@ def do_regression(regression_type, data, y_var, verbose=None):
         print("Intercept: ",  lr.intercept_)
         print("Coefficients: ", lr.coef_)
     return lr.intercept_, lr.coef_, lr.score(X, y)
+
+ef get_regression_results(adult_final, youth_final, regression_type, variables):
+    """Generate array of regression results for various demographic combinations.
+       regression_type can be 'age' or 'height_age'"""
+    
+    regression_results = []
+
+    for sex in ('male', 'female'):
+        for ethnicity in ('black', 'non-black', 'white', 'mexican'):
+            for age_range in ('all', 'under', 'over'):
+                 # generate demographic group dataframe
+                demo_group = generate_demo_group(adult_final, youth_final, ethnicity, sex, age_range)
+
+                # do linear regression for variables
+                for var in variables:
+                    intercept, slope, r_squared = do_regression(regression_type, demo_group, var) 
+                    slope = slope[0]
+                    std = demo_group.loc[:, var].std()
+                    count = demo_group.loc[:, var].count()
+                    regression_results.append({
+                        'sex' : sex,
+                        'ethnicity' : ethnicity,
+                        'age_range' : age_range,
+                        'var' : var,
+                        'intercept' : intercept,
+                        'slope' : slope,
+                        'r_squared' : r_squared,
+                        'std' : std,
+                        'count' : count
+                    })  
+    return regression_results
