@@ -63,11 +63,49 @@ def generate_demo_group(adult, youth, ethnicity, sex, age_range='all'):
 
 def do_age_regression(data, y_var, verbose=None):
     """Return the results of a linear regression against age for the given variable"""
-    X = data['MXPAXTMR'] / 12  # to convert to year from age in months at exam (MXPAXTMR)
+    X = data['MXPAXTMR'] / 12  # convert to years from age in months at exam (MXPAXTMR)
     X = np.array(X).reshape(-1, 1)
     y = data[y_var]
     lr = LinearRegression().fit(X, y)
         # do linear regression fit on X, y
+    if verbose is not None:
+        print("R^2 = ",lr.score(X, y))
+        print("Intercept: ",  lr.intercept_)
+        print("Coefficients: ", lr.coef_)
+    return lr.intercept_, lr.coef_, lr.score(X, y)
+
+def do_height_age_regression(data, y_var, verbose=None):
+    """Return the results of a linear regression against height, age, and age^2"""
+# convert agemonths to years
+    X_age = data['MXPAXTMR']/12 # convert to years from age in months at exam (MXPAXTMR)
+    X_age = np.array(X_age).reshape(-1, 1)
+    X_age = np.hstack((X_age, X_age**2)) 
+    X_height = data['BMPHT']**2   # height in centimeters
+    X_height = np.array(X_height).reshape(-1, 1)
+    X = np.concatenate((X_age, X_height), axis=1)
+    y = data[y_var]
+    lr = LinearRegression().fit(X, y)
+    if verbose is not None:
+        print("R^2 = ",lr.score(X, y))
+        print("Intercept: ",  lr.intercept_)
+        print("Coefficients: ", lr.coef_)
+    return lr.intercept_, lr.coef_, lr.score(X, y)
+
+def do_regression(regression_type, data, y_var, verbose=None):
+    """regression_type can be 'age' or 'height_age'
+      'age' returns the results of a linear regression against age for the given variable
+      'height_age' returns the results of a linear regression against height, age, and age^2"""
+    X_age = data['MXPAXTMR']/12 # convert to years from age in months at exam (MXPAXTMR)
+    X_age = np.array(X_age).reshape(-1, 1)
+    if regression_type == 'height_age':
+        X_age = np.hstack((X_age, X_age**2)) 
+        X_height = data['BMPHT']**2   # height in centimeters
+        X_height = np.array(X_height).reshape(-1, 1)
+        X = np.concatenate((X_age, X_height), axis=1)
+    else:
+        X = X_age
+    y = data[y_var]
+    lr = LinearRegression().fit(X, y)
     if verbose is not None:
         print("R^2 = ",lr.score(X, y))
         print("Intercept: ",  lr.intercept_)
