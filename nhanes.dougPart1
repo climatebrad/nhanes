@@ -4,6 +4,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
+    "## nhanes.dougPart1 creates adultfinal and youth.final \n",
     "## Import Libraries"
    ]
   },
@@ -22,13 +23,6 @@
     "import numpy as np\n",
     "import janitor\n",
     "from sklearn.linear_model import LinearRegression"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "Testing make a change 2-23-22"
    ]
   },
   {
